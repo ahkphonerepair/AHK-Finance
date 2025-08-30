@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<accessibility-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:accessibilityEventTypes="typeWindowStateChanged|typeWindowContentChanged|typeViewClicked|typeViewTextChanged"
+    android:accessibilityFeedbackType="feedbackGeneric"
+    android:accessibilityFlags="flagRetrieveInteractiveWindows|flagReportViewIds"
+    android:canRetrieveWindowContent="true"
+    android:canPerformGestures="true"
+    android:notificationTimeout="100"
+    android:packageNames="com.android.settings,com.android.packageinstaller,com.google.android.packageinstaller,com.android.vending,com.sec.android.app.launcher,com.android.launcher3,com.miui.home,com.huawei.android.launcher,com.oppo.launcher,com.oneplus.launcher,com.android.systemui"
+    android:description="@string/accessibility_service_description"
+    android:summary="@string/accessibility_service_summary" />

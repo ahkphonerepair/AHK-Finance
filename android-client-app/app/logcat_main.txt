@@ -1,0 +1,3338 @@
+[2025-08-30 00:38:13.489 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:13.502 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:13.606 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:13.725 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: false, Kiosk: false
+
+[2025-08-30 00:38:13.726 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:13.962 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:14.059 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:14.572 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:14.612 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:14.715 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:14.715 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:14.770 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: false, Kiosk: false
+
+[2025-08-30 00:38:14.816 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:14.831 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:14.935 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:14.947 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:15.051 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:15.062 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:15.065 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:15.166 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:15.182 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:15.284 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:15.301 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:15.402 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:15.418 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:15.518 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:15.533 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:15.635 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:15.734 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:15.824 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: false, Kiosk: false
+
+[2025-08-30 00:38:15.835 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:15.851 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:15.954 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:15.968 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:15.968 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:16.064 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:16.069 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:16.385 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:16.487 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:16.586 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:16.587 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:16.691 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:16.704 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:16.806 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:16.822 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:16.911 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: false, Kiosk: false
+
+[2025-08-30 00:38:17.255 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:17.357 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:17.458 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:17.473 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:17.574 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:17.590 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:17.693 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:17.792 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:17.810 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:17.909 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:17.975 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: false, Kiosk: false
+
+[2025-08-30 00:38:18.010 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:18.058 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:18.159 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:18.159 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:18.259 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:18.359 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:18.377 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:18.476 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:18.577 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:18.678 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:18.778 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:18.877 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:18.878 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:19.053 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: false, Kiosk: false
+
+[2025-08-30 00:38:19.053 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:19.078 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:19.985 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:20.156 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: false, Kiosk: false
+
+[2025-08-30 00:38:20.156 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:20.784 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:20.885 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:20.991 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:21.088 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:21.104 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:21.254 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: false, Kiosk: false
+
+[2025-08-30 00:38:21.254 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:21.254 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:21.324 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:21.339 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:21.440 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:21.523 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:21.622 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:21.674 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:21.774 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:21.792 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:21.892 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:21.907 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:22.009 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:22.024 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:22.126 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:22.141 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:22.242 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:22.323 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: false, Kiosk: false
+
+[2025-08-30 00:38:22.323 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:22.359 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:22.459 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:22.508 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:22.608 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:22.626 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:22.726 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:22.743 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:22.844 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:22.858 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:22.961 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:22.977 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:23.078 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:23.092 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:23.093 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:23.194 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:23.211 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:23.313 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:23.389 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: false, Kiosk: false
+
+[2025-08-30 00:38:23.389 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:23.434 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:23.449 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:24.009 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:24.107 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:24.505 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: false, Kiosk: false
+
+[2025-08-30 00:38:24.765 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:24.865 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:24.965 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:24.967 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:25.066 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:25.102 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:25.201 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:25.217 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:25.318 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:25.601 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: false, Kiosk: false
+
+[2025-08-30 00:38:26.743 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: false, Kiosk: false
+
+[2025-08-30 00:38:27.133 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:27.178 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:27.180 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:27.180 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:27.210 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:27.280 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:27.280 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:27.281 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:27.281 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:27.281 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:27.281 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:27.281 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:27.281 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:27.283 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:27.380 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:27.448 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:27.480 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:27.481 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:27.584 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:27.614 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:27.616 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:27.694 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:27.719 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:27.789 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: false, Kiosk: false
+
+[2025-08-30 00:38:27.947 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:27.955 Uid(value=10443):3995:3995 D/Firebase]
+Lock state changed from false to true
+
+[2025-08-30 00:38:27.955 Uid(value=10443):3995:3995 D/LockService]
+Remote lock command received
+
+[2025-08-30 00:38:28.005 Uid(value=10443):3995:3995 D/LockService]
+Device lock status set to: true
+
+[2025-08-30 00:38:28.006 Uid(value=10443):3995:3995 D/LockService]
+Attempting to lock device
+
+[2025-08-30 00:38:28.047 Uid(value=10443):3995:3995 D/LockService]
+Kiosk mode set to: true
+
+[2025-08-30 00:38:28.051 Uid(value=10443):3995:3995 D/LockService]
+Device locked using DevicePolicyManager
+
+[2025-08-30 00:38:28.073 Uid(value=10443):3995:3995 D/LockService]
+Lock screen activity started
+
+[2025-08-30 00:38:28.074 Uid(value=10443):3995:3995 W/LockService]
+Accessibility service not enabled - device control may be limited
+
+[2025-08-30 00:38:28.075 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:28.075 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:28.135 Uid(value=10443):3995:3995 D/MainActivity]
+Last online time updated for device: 7e65a34e7a1a33b8
+
+[2025-08-30 00:38:28.135 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Force re-checking device registration status
+
+[2025-08-30 00:38:28.193 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+[ANTI-UNINSTALL] Device ID found: 7e65a34e7a1a33b8, checking registration...
+
+[2025-08-30 00:38:28.194 Uid(value=10443):3995:3995 D/MainActivity]
+Showing lock screen after native unlock
+
+[2025-08-30 00:38:28.199 Uid(value=10443):3995:3995 E/MainActivity]
+Error registering close lock screen receiver: com.emi.ahkfinance: One of RECEIVER_EXPORTED or RECEIVER_NOT_EXPORTED should be specified when a receiver isn't being registered exclusively for system broadcasts
+
+[2025-08-30 00:38:28.216 Uid(value=10443):3995:3995 D/MainActivity]
+onResume called
+
+[2025-08-30 00:38:28.218 Uid(value=10443):3995:3995 D/MainActivity]
+Last online time updated for device: 7e65a34e7a1a33b8
+
+[2025-08-30 00:38:28.218 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Force re-checking device registration status
+
+[2025-08-30 00:38:28.255 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+[ANTI-UNINSTALL] Device ID found: 7e65a34e7a1a33b8, checking registration...
+
+[2025-08-30 00:38:28.276 Uid(value=10443):3995:3995 E/DeviceAdminManager]
+Failed to disable native screen lock
+java.lang.SecurityException: Calling identity is not authorized
+	at android.os.Parcel.createExceptionOrNull(Parcel.java:3354)
+	at android.os.Parcel.createException(Parcel.java:3338)
+	at android.os.Parcel.readException(Parcel.java:3321)
+	at android.os.Parcel.readException(Parcel.java:3263)
+	at android.app.admin.IDevicePolicyManager$Stub$Proxy.setKeyguardDisabled(IDevicePolicyManager.java:10990)
+	at android.app.admin.DevicePolicyManager.setKeyguardDisabled(DevicePolicyManager.java:14088)
+	at com.emi.ahkfinance.DeviceAdminManager.disableNativeScreenLock(DeviceAdminManager.kt:51)
+	at com.emi.ahkfinance.MainActivity.disableNativeScreenLockTemporarily(MainActivity.kt:230)
+	at com.emi.ahkfinance.MainActivity.onResume(MainActivity.kt:157)
+	at android.app.Instrumentation.callActivityOnResume(Instrumentation.java:1728)
+	at android.app.Activity.performResume(Activity.java:9436)
+	at android.app.ActivityThread.performResumeActivity(ActivityThread.java:5841)
+	at android.app.ActivityThread.handleResumeActivity(ActivityThread.java:5884)
+	at android.app.servertransaction.ResumeActivityItem.execute(ResumeActivityItem.java:73)
+	at android.app.servertransaction.ActivityTransactionItem.execute(ActivityTransactionItem.java:63)
+	at android.app.servertransaction.TransactionExecutor.executeLifecycleItem(TransactionExecutor.java:169)
+	at android.app.servertransaction.TransactionExecutor.executeTransactionItems(TransactionExecutor.java:101)
+	at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:80)
+	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2931)
+	at android.os.Handler.dispatchMessage(Handler.java:132)
+	at android.os.Looper.dispatchMessage(Looper.java:333)
+	at android.os.Looper.loopOnce(Looper.java:263)
+	at android.os.Looper.loop(Looper.java:367)
+	at android.app.ActivityThread.main(ActivityThread.java:9230)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:593)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:929)
+
+[2025-08-30 00:38:28.276 Uid(value=10443):3995:3995 W/MainActivity]
+Failed to disable native screen lock
+
+[2025-08-30 00:38:28.277 Uid(value=10443):3995:3995 D/MainActivity]
+Permission check - Basic: true, Notification: true, Service: true
+
+[2025-08-30 00:38:28.277 Uid(value=10443):3995:3995 D/MainActivity]
+Permissions granted on resume, continuing with app initialization
+
+[2025-08-30 00:38:28.278 Uid(value=10443):3995:3995 D/MainActivity]
+All permissions granted, initializing app
+
+[2025-08-30 00:38:28.291 Uid(value=10443):3995:3995 D/MainActivity]
+onPause called
+
+[2025-08-30 00:38:28.292 Uid(value=10443):3995:3995 D/PaymentSyncService]
+Payment sync service started
+
+[2025-08-30 00:38:28.293 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:28.294 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:28.294 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:28.294 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:28.294 Uid(value=10443):3995:3995 W/AntiUninstallManager]
+[ANTI-UNINSTALL] ✅ Device is registered, initializing anti-uninstall based on database settings
+
+[2025-08-30 00:38:28.315 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Stopped listening for anti-uninstall control
+
+[2025-08-30 00:38:28.315 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Started listening for anti-uninstall control for device: 7e65a34e7a1a33b8
+
+[2025-08-30 00:38:28.315 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall initialized for registered device
+
+[2025-08-30 00:38:28.353 Uid(value=10443):3995:3995 D/MainActivity]
+Navigation check - Registered: true, Locked: true, Intent destination: null
+
+[2025-08-30 00:38:28.353 Uid(value=10443):3995:3995 D/MainActivity]
+Starting lock screen - device is locked
+
+[2025-08-30 00:38:28.353 Uid(value=10443):3995:3995 D/MainActivity]
+Final start destination: lock
+
+[2025-08-30 00:38:28.362 Uid(value=10443):3995:3995 D/VRI[MainActivity]]
+WindowInsets changed: 1440x3120 statusBars:[0,98,0,0] navigationBars:[0,0,0,84] mandatorySystemGestures:[0,98,0,112] 
+
+[2025-08-30 00:38:28.363 Uid(value=10443):3995:3995 D/WindowOnBackDispatcher]
+setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@fad4a77
+
+[2025-08-30 00:38:28.383 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:28.383 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:28.383 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:28.384 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:28.384 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:28.384 Uid(value=10443):3995:3995 W/AntiUninstallManager]
+[ANTI-UNINSTALL] ✅ Device is registered, initializing anti-uninstall based on database settings
+
+[2025-08-30 00:38:28.408 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Stopped listening for anti-uninstall control
+
+[2025-08-30 00:38:28.408 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Started listening for anti-uninstall control for device: 7e65a34e7a1a33b8
+
+[2025-08-30 00:38:28.408 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall initialized for registered device
+
+[2025-08-30 00:38:28.410 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:28.411 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:28.507 Uid(value=10443):3995:3995 D/Firebase]
+Last online time updated successfully: 1756492708134
+
+[2025-08-30 00:38:28.507 Uid(value=10443):3995:3995 D/Firebase]
+Last online time updated successfully: 1756492708217
+
+[2025-08-30 00:38:28.508 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:28.508 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Remote anti-uninstall control received: false
+
+[2025-08-30 00:38:28.530 Uid(value=10443):3995:3995 W/AccessibilityControlService]
+[ANTI-UNINSTALL] ❌ Anti-uninstall protection DISABLED
+
+[2025-08-30 00:38:28.530 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall disabled from database
+
+[2025-08-30 00:38:28.531 Uid(value=10443):3995:3995 D/LockScreen]
+Native keyguard is still locked, waiting for authentication
+
+[2025-08-30 00:38:28.596 Uid(value=10443):3995:3995 D/LockScreen]
+Waiting for native authentication...
+
+[2025-08-30 00:38:28.604 Uid(value=10443):3995:3995 D/LockScreen]
+LockScreen composable disposed
+
+[2025-08-30 00:38:28.607 Uid(value=10443):3995:3995 D/VRI[MainActivity]]
+WindowInsets changed: navigationBars:null 
+
+[2025-08-30 00:38:28.609 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:28.610 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:28.644 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:28.734 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:28.748 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:28.817 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: true, Kiosk: true
+
+[2025-08-30 00:38:28.847 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:28.950 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:28.972 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:28.973 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Window state changed: com.emi.ahkfinance
+
+[2025-08-30 00:38:29.053 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:29.154 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:29.253 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:29.354 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:29.456 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:29.586 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:29.662 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:29.716 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:29.717 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:29.717 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:29.717 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:29.717 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:29.717 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:29.717 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:29.717 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:29.717 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:29.879 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: true, Kiosk: true
+
+[2025-08-30 00:38:29.879 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:29.965 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:30.066 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:30.166 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:30.266 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:30.366 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:30.466 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:30.927 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: true, Kiosk: true
+
+[2025-08-30 00:38:30.928 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:30.985 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:30.985 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:30.985 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:30.990 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:30.990 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:31.088 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:31.188 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:31.291 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:31.390 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:31.404 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:31.404 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:31.405 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:31.507 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:31.587 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:31.587 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:31.687 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:31.805 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:31.894 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:31.894 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:31.894 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:31.994 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: true, Kiosk: true
+
+[2025-08-30 00:38:31.995 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:32.071 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:32.072 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:32.182 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:32.241 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:32.241 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:32.241 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:32.343 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:32.421 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:32.422 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:32.429 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:32.429 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:32.431 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:32.522 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:32.559 Uid(value=10443):3995:3995 D/MainActivity]
+onResume called
+
+[2025-08-30 00:38:32.562 Uid(value=10443):3995:3995 D/MainActivity]
+Last online time updated for device: 7e65a34e7a1a33b8
+
+[2025-08-30 00:38:32.562 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Force re-checking device registration status
+
+[2025-08-30 00:38:32.591 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+[ANTI-UNINSTALL] Device ID found: 7e65a34e7a1a33b8, checking registration...
+
+[2025-08-30 00:38:32.614 Uid(value=10443):3995:3995 E/DeviceAdminManager]
+Failed to disable native screen lock
+java.lang.SecurityException: Calling identity is not authorized
+	at android.os.Parcel.createExceptionOrNull(Parcel.java:3354)
+	at android.os.Parcel.createException(Parcel.java:3338)
+	at android.os.Parcel.readException(Parcel.java:3321)
+	at android.os.Parcel.readException(Parcel.java:3263)
+	at android.app.admin.IDevicePolicyManager$Stub$Proxy.setKeyguardDisabled(IDevicePolicyManager.java:10990)
+	at android.app.admin.DevicePolicyManager.setKeyguardDisabled(DevicePolicyManager.java:14088)
+	at com.emi.ahkfinance.DeviceAdminManager.disableNativeScreenLock(DeviceAdminManager.kt:51)
+	at com.emi.ahkfinance.MainActivity.disableNativeScreenLockTemporarily(MainActivity.kt:230)
+	at com.emi.ahkfinance.MainActivity.onResume(MainActivity.kt:157)
+	at android.app.Instrumentation.callActivityOnResume(Instrumentation.java:1728)
+	at android.app.Activity.performResume(Activity.java:9436)
+	at android.app.ActivityThread.performResumeActivity(ActivityThread.java:5841)
+	at android.app.ActivityThread.handleResumeActivity(ActivityThread.java:5884)
+	at android.app.servertransaction.ResumeActivityItem.execute(ResumeActivityItem.java:73)
+	at android.app.servertransaction.ActivityTransactionItem.execute(ActivityTransactionItem.java:63)
+	at android.app.servertransaction.TransactionExecutor.executeLifecycleItem(TransactionExecutor.java:169)
+	at android.app.servertransaction.TransactionExecutor.executeTransactionItems(TransactionExecutor.java:101)
+	at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:80)
+	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2931)
+	at android.os.Handler.dispatchMessage(Handler.java:132)
+	at android.os.Looper.dispatchMessage(Looper.java:333)
+	at android.os.Looper.loopOnce(Looper.java:263)
+	at android.os.Looper.loop(Looper.java:367)
+	at android.app.ActivityThread.main(ActivityThread.java:9230)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:593)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:929)
+Caused by: android.os.RemoteException: Remote stack trace:
+	at com.android.internal.util.Preconditions.checkCallAuthorization(Preconditions.java:260)
+	at com.android.server.devicepolicy.DevicePolicyManagerService.setKeyguardDisabled(DevicePolicyManagerService.java:15718)
+	at android.app.admin.IDevicePolicyManager$Stub.onTransact(IDevicePolicyManager.java:5085)
+	at android.os.Binder.execTransactInternal(Binder.java:1472)
+	at android.os.Binder.execTransact(Binder.java:1417)
+
+[2025-08-30 00:38:32.614 Uid(value=10443):3995:3995 W/MainActivity]
+Failed to disable native screen lock
+
+[2025-08-30 00:38:32.614 Uid(value=10443):3995:3995 D/MainActivity]
+Permission check - Basic: true, Notification: true, Service: true
+
+[2025-08-30 00:38:32.614 Uid(value=10443):3995:3995 D/MainActivity]
+Permissions granted on resume, continuing with app initialization
+
+[2025-08-30 00:38:32.615 Uid(value=10443):3995:3995 D/MainActivity]
+All permissions granted, initializing app
+
+[2025-08-30 00:38:32.623 Uid(value=10443):3995:3995 D/VRI[MainActivity]]
+WindowInsets changed: navigationBars:[0,0,0,84] 
+
+[2025-08-30 00:38:32.632 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:32.632 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:32.632 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:32.632 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Remote anti-uninstall control received: false
+
+[2025-08-30 00:38:32.659 Uid(value=10443):3995:3995 W/AccessibilityControlService]
+[ANTI-UNINSTALL] ❌ Anti-uninstall protection DISABLED
+
+[2025-08-30 00:38:32.659 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall disabled from database
+
+[2025-08-30 00:38:32.660 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:32.660 Uid(value=10443):3995:3995 W/AntiUninstallManager]
+[ANTI-UNINSTALL] ✅ Device is registered, initializing anti-uninstall based on database settings
+
+[2025-08-30 00:38:32.680 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Stopped listening for anti-uninstall control
+
+[2025-08-30 00:38:32.680 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Started listening for anti-uninstall control for device: 7e65a34e7a1a33b8
+
+[2025-08-30 00:38:32.680 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall initialized for registered device
+
+[2025-08-30 00:38:32.684 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Remote anti-uninstall control received: false
+
+[2025-08-30 00:38:32.703 Uid(value=10443):3995:3995 W/AccessibilityControlService]
+[ANTI-UNINSTALL] ❌ Anti-uninstall protection DISABLED
+
+[2025-08-30 00:38:32.703 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall disabled from database
+
+[2025-08-30 00:38:32.758 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:32.794 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:32.794 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Window state changed: com.google.android.apps.nexuslauncher
+
+[2025-08-30 00:38:32.796 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Blocking package: com.google.android.apps.nexuslauncher
+
+[2025-08-30 00:38:32.804 Uid(value=10443):3995:3995 D/MainActivity]
+onPause called
+
+[2025-08-30 00:38:32.804 Uid(value=10443):3995:3995 D/MainActivity]
+onResume called
+
+[2025-08-30 00:38:32.805 Uid(value=10443):3995:3995 D/MainActivity]
+Last online time updated for device: 7e65a34e7a1a33b8
+
+[2025-08-30 00:38:32.805 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Force re-checking device registration status
+
+[2025-08-30 00:38:32.830 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+[ANTI-UNINSTALL] Device ID found: 7e65a34e7a1a33b8, checking registration...
+
+[2025-08-30 00:38:32.884 Uid(value=10443):3995:3995 E/DeviceAdminManager]
+Failed to disable native screen lock
+java.lang.SecurityException: Calling identity is not authorized
+	at android.os.Parcel.createExceptionOrNull(Parcel.java:3354)
+	at android.os.Parcel.createException(Parcel.java:3338)
+	at android.os.Parcel.readException(Parcel.java:3321)
+	at android.os.Parcel.readException(Parcel.java:3263)
+	at android.app.admin.IDevicePolicyManager$Stub$Proxy.setKeyguardDisabled(IDevicePolicyManager.java:10990)
+	at android.app.admin.DevicePolicyManager.setKeyguardDisabled(DevicePolicyManager.java:14088)
+	at com.emi.ahkfinance.DeviceAdminManager.disableNativeScreenLock(DeviceAdminManager.kt:51)
+	at com.emi.ahkfinance.MainActivity.disableNativeScreenLockTemporarily(MainActivity.kt:230)
+	at com.emi.ahkfinance.MainActivity.onResume(MainActivity.kt:157)
+	at android.app.Instrumentation.callActivityOnResume(Instrumentation.java:1728)
+	at android.app.Activity.performResume(Activity.java:9436)
+	at android.app.ActivityThread.performResumeActivity(ActivityThread.java:5841)
+	at android.app.ActivityThread.handleResumeActivity(ActivityThread.java:5884)
+	at android.app.servertransaction.TransactionExecutor.performLifecycleSequence(TransactionExecutor.java:218)
+	at android.app.servertransaction.TransactionExecutor.cycleToPath(TransactionExecutor.java:194)
+	at android.app.servertransaction.TransactionExecutor.executeNonLifecycleItem(TransactionExecutor.java:142)
+	at android.app.servertransaction.TransactionExecutor.executeTransactionItems(TransactionExecutor.java:103)
+	at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:80)
+	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2931)
+	at android.os.Handler.dispatchMessage(Handler.java:132)
+	at android.os.Looper.dispatchMessage(Looper.java:333)
+	at android.os.Looper.loopOnce(Looper.java:263)
+	at android.os.Looper.loop(Looper.java:367)
+	at android.app.ActivityThread.main(ActivityThread.java:9230)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:593)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:929)
+
+[2025-08-30 00:38:32.884 Uid(value=10443):3995:3995 W/MainActivity]
+Failed to disable native screen lock
+
+[2025-08-30 00:38:32.885 Uid(value=10443):3995:3995 D/MainActivity]
+Permission check - Basic: true, Notification: true, Service: true
+
+[2025-08-30 00:38:32.885 Uid(value=10443):3995:3995 D/MainActivity]
+Permissions granted on resume, continuing with app initialization
+
+[2025-08-30 00:38:32.885 Uid(value=10443):3995:3995 D/MainActivity]
+All permissions granted, initializing app
+
+[2025-08-30 00:38:32.892 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:32.893 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:32.893 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:32.894 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:32.894 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Remote anti-uninstall control received: false
+
+[2025-08-30 00:38:32.918 Uid(value=10443):3995:3995 W/AccessibilityControlService]
+[ANTI-UNINSTALL] ❌ Anti-uninstall protection DISABLED
+
+[2025-08-30 00:38:32.918 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall disabled from database
+
+[2025-08-30 00:38:32.918 Uid(value=10443):3995:3995 D/Firebase]
+Last online time updated successfully: 1756492712560
+
+[2025-08-30 00:38:32.918 Uid(value=10443):3995:3995 W/AntiUninstallManager]
+[ANTI-UNINSTALL] ✅ Device is registered, initializing anti-uninstall based on database settings
+
+[2025-08-30 00:38:32.941 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Stopped listening for anti-uninstall control
+
+[2025-08-30 00:38:32.941 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Started listening for anti-uninstall control for device: 7e65a34e7a1a33b8
+
+[2025-08-30 00:38:32.941 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall initialized for registered device
+
+[2025-08-30 00:38:32.941 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:32.944 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Remote anti-uninstall control received: false
+
+[2025-08-30 00:38:32.968 Uid(value=10443):3995:3995 W/AccessibilityControlService]
+[ANTI-UNINSTALL] ❌ Anti-uninstall protection DISABLED
+
+[2025-08-30 00:38:32.968 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall disabled from database
+
+[2025-08-30 00:38:33.035 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: true, Kiosk: true
+
+[2025-08-30 00:38:33.058 Uid(value=10443):3995:3995 D/Firebase]
+Last online time updated successfully: 1756492712804
+
+[2025-08-30 00:38:33.061 Uid(value=10443):3995:3995 D/InsetsController]
+hide(ime())
+
+[2025-08-30 00:38:33.061 Uid(value=10443):3995:3995 I/ImeTracker]
+com.emi.ahkfinance:98d30ac9: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+
+[2025-08-30 00:38:33.113 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:33.178 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:33.212 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:33.274 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:33.274 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Window state changed: com.android.systemui
+
+[2025-08-30 00:38:33.275 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Allowing notification access on lock screen: com.android.systemui
+
+[2025-08-30 00:38:33.300 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:34.126 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: true, Kiosk: true
+
+[2025-08-30 00:38:34.126 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:35.095 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:35.168 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: true, Kiosk: true
+
+[2025-08-30 00:38:35.193 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:35.368 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:35.368 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Window state changed: com.google.android.apps.nexuslauncher
+
+[2025-08-30 00:38:35.369 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Blocking package: com.google.android.apps.nexuslauncher
+
+[2025-08-30 00:38:35.380 Uid(value=10443):3995:3995 D/MainActivity]
+onPause called
+
+[2025-08-30 00:38:35.380 Uid(value=10443):3995:3995 D/MainActivity]
+onResume called
+
+[2025-08-30 00:38:35.381 Uid(value=10443):3995:3995 D/MainActivity]
+Last online time updated for device: 7e65a34e7a1a33b8
+
+[2025-08-30 00:38:35.381 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Force re-checking device registration status
+
+[2025-08-30 00:38:35.415 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+[ANTI-UNINSTALL] Device ID found: 7e65a34e7a1a33b8, checking registration...
+
+[2025-08-30 00:38:35.444 Uid(value=10443):3995:3995 E/DeviceAdminManager]
+Failed to disable native screen lock
+java.lang.SecurityException: Calling identity is not authorized
+	at android.os.Parcel.createExceptionOrNull(Parcel.java:3354)
+	at android.os.Parcel.createException(Parcel.java:3338)
+	at android.os.Parcel.readException(Parcel.java:3321)
+	at android.os.Parcel.readException(Parcel.java:3263)
+	at android.app.admin.IDevicePolicyManager$Stub$Proxy.setKeyguardDisabled(IDevicePolicyManager.java:10990)
+	at android.app.admin.DevicePolicyManager.setKeyguardDisabled(DevicePolicyManager.java:14088)
+	at com.emi.ahkfinance.DeviceAdminManager.disableNativeScreenLock(DeviceAdminManager.kt:51)
+	at com.emi.ahkfinance.MainActivity.disableNativeScreenLockTemporarily(MainActivity.kt:230)
+	at com.emi.ahkfinance.MainActivity.onResume(MainActivity.kt:157)
+	at android.app.Instrumentation.callActivityOnResume(Instrumentation.java:1728)
+	at android.app.Activity.performResume(Activity.java:9436)
+	at android.app.ActivityThread.performResumeActivity(ActivityThread.java:5841)
+	at android.app.ActivityThread.handleResumeActivity(ActivityThread.java:5884)
+	at android.app.servertransaction.TransactionExecutor.performLifecycleSequence(TransactionExecutor.java:218)
+	at android.app.servertransaction.TransactionExecutor.cycleToPath(TransactionExecutor.java:194)
+	at android.app.servertransaction.TransactionExecutor.executeNonLifecycleItem(TransactionExecutor.java:142)
+	at android.app.servertransaction.TransactionExecutor.executeTransactionItems(TransactionExecutor.java:103)
+	at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:80)
+	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2931)
+	at android.os.Handler.dispatchMessage(Handler.java:132)
+	at android.os.Looper.dispatchMessage(Looper.java:333)
+	at android.os.Looper.loopOnce(Looper.java:263)
+	at android.os.Looper.loop(Looper.java:367)
+	at android.app.ActivityThread.main(ActivityThread.java:9230)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:593)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:929)
+Caused by: android.os.RemoteException: Remote stack trace:
+	at com.android.internal.util.Preconditions.checkCallAuthorization(Preconditions.java:260)
+	at com.android.server.devicepolicy.DevicePolicyManagerService.setKeyguardDisabled(DevicePolicyManagerService.java:15718)
+	at android.app.admin.IDevicePolicyManager$Stub.onTransact(IDevicePolicyManager.java:5085)
+	at android.os.Binder.execTransactInternal(Binder.java:1472)
+	at android.os.Binder.execTransact(Binder.java:1417)
+
+[2025-08-30 00:38:35.444 Uid(value=10443):3995:3995 W/MainActivity]
+Failed to disable native screen lock
+
+[2025-08-30 00:38:35.444 Uid(value=10443):3995:3995 D/MainActivity]
+Permission check - Basic: true, Notification: true, Service: true
+
+[2025-08-30 00:38:35.444 Uid(value=10443):3995:3995 D/MainActivity]
+Permissions granted on resume, continuing with app initialization
+
+[2025-08-30 00:38:35.445 Uid(value=10443):3995:3995 D/MainActivity]
+All permissions granted, initializing app
+
+[2025-08-30 00:38:35.448 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:35.449 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:35.449 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:35.449 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:35.449 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Remote anti-uninstall control received: false
+
+[2025-08-30 00:38:35.466 Uid(value=10443):3995:3995 W/AccessibilityControlService]
+[ANTI-UNINSTALL] ❌ Anti-uninstall protection DISABLED
+
+[2025-08-30 00:38:35.466 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall disabled from database
+
+[2025-08-30 00:38:35.467 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:35.468 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:35.468 Uid(value=10443):3995:3995 W/AntiUninstallManager]
+[ANTI-UNINSTALL] ✅ Device is registered, initializing anti-uninstall based on database settings
+
+[2025-08-30 00:38:35.484 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Stopped listening for anti-uninstall control
+
+[2025-08-30 00:38:35.484 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Started listening for anti-uninstall control for device: 7e65a34e7a1a33b8
+
+[2025-08-30 00:38:35.484 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall initialized for registered device
+
+[2025-08-30 00:38:35.489 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Remote anti-uninstall control received: false
+
+[2025-08-30 00:38:35.507 Uid(value=10443):3995:3995 W/AccessibilityControlService]
+[ANTI-UNINSTALL] ❌ Anti-uninstall protection DISABLED
+
+[2025-08-30 00:38:35.507 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall disabled from database
+
+[2025-08-30 00:38:35.508 Uid(value=10443):3995:3995 D/InsetsController]
+hide(ime())
+
+[2025-08-30 00:38:35.508 Uid(value=10443):3995:3995 I/ImeTracker]
+com.emi.ahkfinance:b834108d: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+
+[2025-08-30 00:38:35.592 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:35.592 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Window state changed: com.emi.ahkfinance
+
+[2025-08-30 00:38:35.703 Uid(value=10443):3995:3995 D/Firebase]
+Last online time updated successfully: 1756492715381
+
+[2025-08-30 00:38:36.102 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:36.252 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: true, Kiosk: true
+
+[2025-08-30 00:38:36.252 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:37.111 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:37.210 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:37.338 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: true, Kiosk: true
+
+[2025-08-30 00:38:37.842 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:37.842 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Window state changed: com.google.android.apps.nexuslauncher
+
+[2025-08-30 00:38:37.846 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Blocking package: com.google.android.apps.nexuslauncher
+
+[2025-08-30 00:38:37.860 Uid(value=10443):3995:3995 D/MainActivity]
+onPause called
+
+[2025-08-30 00:38:37.861 Uid(value=10443):3995:3995 D/MainActivity]
+onResume called
+
+[2025-08-30 00:38:37.862 Uid(value=10443):3995:3995 D/MainActivity]
+Last online time updated for device: 7e65a34e7a1a33b8
+
+[2025-08-30 00:38:37.862 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Force re-checking device registration status
+
+[2025-08-30 00:38:37.903 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+[ANTI-UNINSTALL] Device ID found: 7e65a34e7a1a33b8, checking registration...
+
+[2025-08-30 00:38:37.929 Uid(value=10443):3995:3995 E/DeviceAdminManager]
+Failed to disable native screen lock
+java.lang.SecurityException: Calling identity is not authorized
+	at android.os.Parcel.createExceptionOrNull(Parcel.java:3354)
+	at android.os.Parcel.createException(Parcel.java:3338)
+	at android.os.Parcel.readException(Parcel.java:3321)
+	at android.os.Parcel.readException(Parcel.java:3263)
+	at android.app.admin.IDevicePolicyManager$Stub$Proxy.setKeyguardDisabled(IDevicePolicyManager.java:10990)
+	at android.app.admin.DevicePolicyManager.setKeyguardDisabled(DevicePolicyManager.java:14088)
+	at com.emi.ahkfinance.DeviceAdminManager.disableNativeScreenLock(DeviceAdminManager.kt:51)
+	at com.emi.ahkfinance.MainActivity.disableNativeScreenLockTemporarily(MainActivity.kt:230)
+	at com.emi.ahkfinance.MainActivity.onResume(MainActivity.kt:157)
+	at android.app.Instrumentation.callActivityOnResume(Instrumentation.java:1728)
+	at android.app.Activity.performResume(Activity.java:9436)
+	at android.app.ActivityThread.performResumeActivity(ActivityThread.java:5841)
+	at android.app.ActivityThread.handleResumeActivity(ActivityThread.java:5884)
+	at android.app.servertransaction.TransactionExecutor.performLifecycleSequence(TransactionExecutor.java:218)
+	at android.app.servertransaction.TransactionExecutor.cycleToPath(TransactionExecutor.java:194)
+	at android.app.servertransaction.TransactionExecutor.executeNonLifecycleItem(TransactionExecutor.java:142)
+	at android.app.servertransaction.TransactionExecutor.executeTransactionItems(TransactionExecutor.java:103)
+	at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:80)
+	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2931)
+	at android.os.Handler.dispatchMessage(Handler.java:132)
+	at android.os.Looper.dispatchMessage(Looper.java:333)
+	at android.os.Looper.loopOnce(Looper.java:263)
+	at android.os.Looper.loop(Looper.java:367)
+	at android.app.ActivityThread.main(ActivityThread.java:9230)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:593)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:929)
+Caused by: android.os.RemoteException: Remote stack trace:
+	at com.android.internal.util.Preconditions.checkCallAuthorization(Preconditions.java:260)
+	at com.android.server.devicepolicy.DevicePolicyManagerService.setKeyguardDisabled(DevicePolicyManagerService.java:15718)
+	at android.app.admin.IDevicePolicyManager$Stub.onTransact(IDevicePolicyManager.java:5085)
+	at android.os.Binder.execTransactInternal(Binder.java:1472)
+	at android.os.Binder.execTransact(Binder.java:1417)
+
+[2025-08-30 00:38:37.929 Uid(value=10443):3995:3995 W/MainActivity]
+Failed to disable native screen lock
+
+[2025-08-30 00:38:37.929 Uid(value=10443):3995:3995 D/MainActivity]
+Permission check - Basic: true, Notification: true, Service: true
+
+[2025-08-30 00:38:37.929 Uid(value=10443):3995:3995 D/MainActivity]
+Permissions granted on resume, continuing with app initialization
+
+[2025-08-30 00:38:37.930 Uid(value=10443):3995:3995 D/MainActivity]
+All permissions granted, initializing app
+
+[2025-08-30 00:38:37.933 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:37.933 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:37.933 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:37.933 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:37.933 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Remote anti-uninstall control received: false
+
+[2025-08-30 00:38:37.951 Uid(value=10443):3995:3995 W/AccessibilityControlService]
+[ANTI-UNINSTALL] ❌ Anti-uninstall protection DISABLED
+
+[2025-08-30 00:38:37.951 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall disabled from database
+
+[2025-08-30 00:38:37.952 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:37.952 Uid(value=10443):3995:3995 W/AntiUninstallManager]
+[ANTI-UNINSTALL] ✅ Device is registered, initializing anti-uninstall based on database settings
+
+[2025-08-30 00:38:37.969 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Stopped listening for anti-uninstall control
+
+[2025-08-30 00:38:37.969 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Started listening for anti-uninstall control for device: 7e65a34e7a1a33b8
+
+[2025-08-30 00:38:37.969 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall initialized for registered device
+
+[2025-08-30 00:38:37.973 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Remote anti-uninstall control received: false
+
+[2025-08-30 00:38:37.991 Uid(value=10443):3995:3995 W/AccessibilityControlService]
+[ANTI-UNINSTALL] ❌ Anti-uninstall protection DISABLED
+
+[2025-08-30 00:38:37.991 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall disabled from database
+
+[2025-08-30 00:38:37.992 Uid(value=10443):3995:3995 D/InsetsController]
+hide(ime())
+
+[2025-08-30 00:38:37.992 Uid(value=10443):3995:3995 I/ImeTracker]
+com.emi.ahkfinance:a9466dec: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+
+[2025-08-30 00:38:38.076 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:38.076 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Window state changed: com.emi.ahkfinance
+
+[2025-08-30 00:38:38.093 Uid(value=10443):3995:3995 D/Firebase]
+Last online time updated successfully: 1756492717861
+
+[2025-08-30 00:38:38.127 Uid(value=10443):3995:4011 I/.emi.ahkfinance]
+Background young concurrent mark compact GC freed 9682KB AllocSpace bytes, 403(14MB) LOS objects, 77% free, 7224KB/31MB, paused 684us,5.795ms total 43.703ms
+
+[2025-08-30 00:38:38.213 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:38.421 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: true, Kiosk: true
+
+[2025-08-30 00:38:39.128 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:39.225 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:39.466 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: true, Kiosk: true
+
+[2025-08-30 00:38:39.572 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:39.572 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Window state changed: com.google.android.apps.nexuslauncher
+
+[2025-08-30 00:38:39.573 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Blocking package: com.google.android.apps.nexuslauncher
+
+[2025-08-30 00:38:39.586 Uid(value=10443):3995:3995 D/MainActivity]
+onPause called
+
+[2025-08-30 00:38:39.586 Uid(value=10443):3995:3995 D/MainActivity]
+onResume called
+
+[2025-08-30 00:38:39.587 Uid(value=10443):3995:3995 D/MainActivity]
+Last online time updated for device: 7e65a34e7a1a33b8
+
+[2025-08-30 00:38:39.587 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Force re-checking device registration status
+
+[2025-08-30 00:38:39.629 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+[ANTI-UNINSTALL] Device ID found: 7e65a34e7a1a33b8, checking registration...
+
+[2025-08-30 00:38:39.664 Uid(value=10443):3995:3995 E/DeviceAdminManager]
+Failed to disable native screen lock
+java.lang.SecurityException: Calling identity is not authorized
+	at android.os.Parcel.createExceptionOrNull(Parcel.java:3354)
+	at android.os.Parcel.createException(Parcel.java:3338)
+	at android.os.Parcel.readException(Parcel.java:3321)
+	at android.os.Parcel.readException(Parcel.java:3263)
+	at android.app.admin.IDevicePolicyManager$Stub$Proxy.setKeyguardDisabled(IDevicePolicyManager.java:10990)
+	at android.app.admin.DevicePolicyManager.setKeyguardDisabled(DevicePolicyManager.java:14088)
+	at com.emi.ahkfinance.DeviceAdminManager.disableNativeScreenLock(DeviceAdminManager.kt:51)
+	at com.emi.ahkfinance.MainActivity.disableNativeScreenLockTemporarily(MainActivity.kt:230)
+	at com.emi.ahkfinance.MainActivity.onResume(MainActivity.kt:157)
+	at android.app.Instrumentation.callActivityOnResume(Instrumentation.java:1728)
+	at android.app.Activity.performResume(Activity.java:9436)
+	at android.app.ActivityThread.performResumeActivity(ActivityThread.java:5841)
+	at android.app.ActivityThread.handleResumeActivity(ActivityThread.java:5884)
+	at android.app.servertransaction.TransactionExecutor.performLifecycleSequence(TransactionExecutor.java:218)
+	at android.app.servertransaction.TransactionExecutor.cycleToPath(TransactionExecutor.java:194)
+	at android.app.servertransaction.TransactionExecutor.executeNonLifecycleItem(TransactionExecutor.java:142)
+	at android.app.servertransaction.TransactionExecutor.executeTransactionItems(TransactionExecutor.java:103)
+	at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:80)
+	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2931)
+	at android.os.Handler.dispatchMessage(Handler.java:132)
+	at android.os.Looper.dispatchMessage(Looper.java:333)
+	at android.os.Looper.loopOnce(Looper.java:263)
+	at android.os.Looper.loop(Looper.java:367)
+	at android.app.ActivityThread.main(ActivityThread.java:9230)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:593)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:929)
+Caused by: android.os.RemoteException: Remote stack trace:
+	at com.android.internal.util.Preconditions.checkCallAuthorization(Preconditions.java:260)
+	at com.android.server.devicepolicy.DevicePolicyManagerService.setKeyguardDisabled(DevicePolicyManagerService.java:15718)
+	at android.app.admin.IDevicePolicyManager$Stub.onTransact(IDevicePolicyManager.java:5085)
+	at android.os.Binder.execTransactInternal(Binder.java:1472)
+	at android.os.Binder.execTransact(Binder.java:1417)
+
+[2025-08-30 00:38:39.664 Uid(value=10443):3995:3995 W/MainActivity]
+Failed to disable native screen lock
+
+[2025-08-30 00:38:39.664 Uid(value=10443):3995:3995 D/MainActivity]
+Permission check - Basic: true, Notification: true, Service: true
+
+[2025-08-30 00:38:39.664 Uid(value=10443):3995:3995 D/MainActivity]
+Permissions granted on resume, continuing with app initialization
+
+[2025-08-30 00:38:39.665 Uid(value=10443):3995:3995 D/MainActivity]
+All permissions granted, initializing app
+
+[2025-08-30 00:38:39.669 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:39.669 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:39.669 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:39.669 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:39.669 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Remote anti-uninstall control received: false
+
+[2025-08-30 00:38:39.688 Uid(value=10443):3995:3995 W/AccessibilityControlService]
+[ANTI-UNINSTALL] ❌ Anti-uninstall protection DISABLED
+
+[2025-08-30 00:38:39.688 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall disabled from database
+
+[2025-08-30 00:38:39.689 Uid(value=10443):3995:3995 W/AntiUninstallManager]
+[ANTI-UNINSTALL] ✅ Device is registered, initializing anti-uninstall based on database settings
+
+[2025-08-30 00:38:39.710 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Stopped listening for anti-uninstall control
+
+[2025-08-30 00:38:39.710 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Started listening for anti-uninstall control for device: 7e65a34e7a1a33b8
+
+[2025-08-30 00:38:39.710 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall initialized for registered device
+
+[2025-08-30 00:38:39.710 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:39.715 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Remote anti-uninstall control received: false
+
+[2025-08-30 00:38:39.733 Uid(value=10443):3995:3995 W/AccessibilityControlService]
+[ANTI-UNINSTALL] ❌ Anti-uninstall protection DISABLED
+
+[2025-08-30 00:38:39.733 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall disabled from database
+
+[2025-08-30 00:38:39.734 Uid(value=10443):3995:3995 D/InsetsController]
+hide(ime())
+
+[2025-08-30 00:38:39.734 Uid(value=10443):3995:3995 I/ImeTracker]
+com.emi.ahkfinance:eac09fdf: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+
+[2025-08-30 00:38:39.796 Uid(value=10443):3995:3995 D/Firebase]
+Last online time updated successfully: 1756492719587
+
+[2025-08-30 00:38:39.816 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:39.816 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Window state changed: com.emi.ahkfinance
+
+[2025-08-30 00:38:40.136 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:40.235 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:40.501 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: true, Kiosk: true
+
+[2025-08-30 00:38:41.060 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:41.060 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Window state changed: com.google.android.apps.nexuslauncher
+
+[2025-08-30 00:38:41.066 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Blocking package: com.google.android.apps.nexuslauncher
+
+[2025-08-30 00:38:41.077 Uid(value=10443):3995:3995 D/MainActivity]
+onPause called
+
+[2025-08-30 00:38:41.077 Uid(value=10443):3995:3995 D/MainActivity]
+onResume called
+
+[2025-08-30 00:38:41.081 Uid(value=10443):3995:3995 D/MainActivity]
+Last online time updated for device: 7e65a34e7a1a33b8
+
+[2025-08-30 00:38:41.081 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Force re-checking device registration status
+
+[2025-08-30 00:38:41.139 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+[ANTI-UNINSTALL] Device ID found: 7e65a34e7a1a33b8, checking registration...
+
+[2025-08-30 00:38:41.175 Uid(value=10443):3995:3995 E/DeviceAdminManager]
+Failed to disable native screen lock
+java.lang.SecurityException: Calling identity is not authorized
+	at android.os.Parcel.createExceptionOrNull(Parcel.java:3354)
+	at android.os.Parcel.createException(Parcel.java:3338)
+	at android.os.Parcel.readException(Parcel.java:3321)
+	at android.os.Parcel.readException(Parcel.java:3263)
+	at android.app.admin.IDevicePolicyManager$Stub$Proxy.setKeyguardDisabled(IDevicePolicyManager.java:10990)
+	at android.app.admin.DevicePolicyManager.setKeyguardDisabled(DevicePolicyManager.java:14088)
+	at com.emi.ahkfinance.DeviceAdminManager.disableNativeScreenLock(DeviceAdminManager.kt:51)
+	at com.emi.ahkfinance.MainActivity.disableNativeScreenLockTemporarily(MainActivity.kt:230)
+	at com.emi.ahkfinance.MainActivity.onResume(MainActivity.kt:157)
+	at android.app.Instrumentation.callActivityOnResume(Instrumentation.java:1728)
+	at android.app.Activity.performResume(Activity.java:9436)
+	at android.app.ActivityThread.performResumeActivity(ActivityThread.java:5841)
+	at android.app.ActivityThread.handleResumeActivity(ActivityThread.java:5884)
+	at android.app.servertransaction.TransactionExecutor.performLifecycleSequence(TransactionExecutor.java:218)
+	at android.app.servertransaction.TransactionExecutor.cycleToPath(TransactionExecutor.java:194)
+	at android.app.servertransaction.TransactionExecutor.executeNonLifecycleItem(TransactionExecutor.java:142)
+	at android.app.servertransaction.TransactionExecutor.executeTransactionItems(TransactionExecutor.java:103)
+	at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:80)
+	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2931)
+	at android.os.Handler.dispatchMessage(Handler.java:132)
+	at android.os.Looper.dispatchMessage(Looper.java:333)
+	at android.os.Looper.loopOnce(Looper.java:263)
+	at android.os.Looper.loop(Looper.java:367)
+	at android.app.ActivityThread.main(ActivityThread.java:9230)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:593)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:929)
+Caused by: android.os.RemoteException: Remote stack trace:
+	at com.android.internal.util.Preconditions.checkCallAuthorization(Preconditions.java:260)
+	at com.android.server.devicepolicy.DevicePolicyManagerService.setKeyguardDisabled(DevicePolicyManagerService.java:15718)
+	at android.app.admin.IDevicePolicyManager$Stub.onTransact(IDevicePolicyManager.java:5085)
+	at android.os.Binder.execTransactInternal(Binder.java:1472)
+	at android.os.Binder.execTransact(Binder.java:1417)
+
+[2025-08-30 00:38:41.175 Uid(value=10443):3995:3995 W/MainActivity]
+Failed to disable native screen lock
+
+[2025-08-30 00:38:41.175 Uid(value=10443):3995:3995 D/MainActivity]
+Permission check - Basic: true, Notification: true, Service: true
+
+[2025-08-30 00:38:41.175 Uid(value=10443):3995:3995 D/MainActivity]
+Permissions granted on resume, continuing with app initialization
+
+[2025-08-30 00:38:41.176 Uid(value=10443):3995:3995 D/MainActivity]
+All permissions granted, initializing app
+
+[2025-08-30 00:38:41.182 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:41.182 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:41.183 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:41.183 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:41.183 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Remote anti-uninstall control received: false
+
+[2025-08-30 00:38:41.209 Uid(value=10443):3995:3995 W/AccessibilityControlService]
+[ANTI-UNINSTALL] ❌ Anti-uninstall protection DISABLED
+
+[2025-08-30 00:38:41.209 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall disabled from database
+
+[2025-08-30 00:38:41.209 Uid(value=10443):3995:3995 W/AntiUninstallManager]
+[ANTI-UNINSTALL] ✅ Device is registered, initializing anti-uninstall based on database settings
+
+[2025-08-30 00:38:41.233 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Stopped listening for anti-uninstall control
+
+[2025-08-30 00:38:41.233 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Started listening for anti-uninstall control for device: 7e65a34e7a1a33b8
+
+[2025-08-30 00:38:41.233 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall initialized for registered device
+
+[2025-08-30 00:38:41.234 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:41.237 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Remote anti-uninstall control received: false
+
+[2025-08-30 00:38:41.258 Uid(value=10443):3995:3995 W/AccessibilityControlService]
+[ANTI-UNINSTALL] ❌ Anti-uninstall protection DISABLED
+
+[2025-08-30 00:38:41.258 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall disabled from database
+
+[2025-08-30 00:38:41.259 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:41.283 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:41.283 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Window state changed: com.google.android.apps.nexuslauncher
+
+[2025-08-30 00:38:41.284 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Blocking package: com.google.android.apps.nexuslauncher
+
+[2025-08-30 00:38:41.338 Uid(value=10443):3995:3995 D/Firebase]
+Last online time updated successfully: 1756492721078
+
+[2025-08-30 00:38:41.368 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:41.467 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:41.534 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: true, Kiosk: true
+
+[2025-08-30 00:38:41.567 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:41.668 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:41.688 Uid(value=10443):3995:3995 D/MainActivity]
+onPause called
+
+[2025-08-30 00:38:41.688 Uid(value=10443):3995:3995 D/VRI[MainActivity]]
+visibilityChanged oldVisibility=true newVisibility=false
+
+[2025-08-30 00:38:41.782 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:41.822 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:41.823 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:41.823 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Window state changed: com.google.android.apps.nexuslauncher
+
+[2025-08-30 00:38:41.825 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Blocking package: com.google.android.apps.nexuslauncher
+
+[2025-08-30 00:38:41.924 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:42.023 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:42.124 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:42.225 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:42.245 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:42.308 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:42.308 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:42.308 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Window state changed: com.google.android.apps.nexuslauncher
+
+[2025-08-30 00:38:42.310 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Blocking package: com.google.android.apps.nexuslauncher
+
+[2025-08-30 00:38:42.336 Uid(value=10443):3995:3995 D/ViewRootImpl]
+Skipping stats log for color mode
+
+[2025-08-30 00:38:42.338 Uid(value=10443):3995:3995 D/MainActivity]
+onResume called
+
+[2025-08-30 00:38:42.339 Uid(value=10443):3995:3995 D/MainActivity]
+Last online time updated for device: 7e65a34e7a1a33b8
+
+[2025-08-30 00:38:42.339 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Force re-checking device registration status
+
+[2025-08-30 00:38:42.367 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+[ANTI-UNINSTALL] Device ID found: 7e65a34e7a1a33b8, checking registration...
+
+[2025-08-30 00:38:42.389 Uid(value=10443):3995:3995 E/DeviceAdminManager]
+Failed to disable native screen lock
+java.lang.SecurityException: Calling identity is not authorized
+	at android.os.Parcel.createExceptionOrNull(Parcel.java:3354)
+	at android.os.Parcel.createException(Parcel.java:3338)
+	at android.os.Parcel.readException(Parcel.java:3321)
+	at android.os.Parcel.readException(Parcel.java:3263)
+	at android.app.admin.IDevicePolicyManager$Stub$Proxy.setKeyguardDisabled(IDevicePolicyManager.java:10990)
+	at android.app.admin.DevicePolicyManager.setKeyguardDisabled(DevicePolicyManager.java:14088)
+	at com.emi.ahkfinance.DeviceAdminManager.disableNativeScreenLock(DeviceAdminManager.kt:51)
+	at com.emi.ahkfinance.MainActivity.disableNativeScreenLockTemporarily(MainActivity.kt:230)
+	at com.emi.ahkfinance.MainActivity.onResume(MainActivity.kt:157)
+	at android.app.Instrumentation.callActivityOnResume(Instrumentation.java:1728)
+	at android.app.Activity.performResume(Activity.java:9436)
+	at android.app.ActivityThread.performResumeActivity(ActivityThread.java:5841)
+	at android.app.ActivityThread.handleResumeActivity(ActivityThread.java:5884)
+	at android.app.servertransaction.ResumeActivityItem.execute(ResumeActivityItem.java:73)
+	at android.app.servertransaction.ActivityTransactionItem.execute(ActivityTransactionItem.java:63)
+	at android.app.servertransaction.TransactionExecutor.executeLifecycleItem(TransactionExecutor.java:169)
+	at android.app.servertransaction.TransactionExecutor.executeTransactionItems(TransactionExecutor.java:101)
+	at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:80)
+	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2931)
+	at android.os.Handler.dispatchMessage(Handler.java:132)
+	at android.os.Looper.dispatchMessage(Looper.java:333)
+	at android.os.Looper.loopOnce(Looper.java:263)
+	at android.os.Looper.loop(Looper.java:367)
+	at android.app.ActivityThread.main(ActivityThread.java:9230)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:593)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:929)
+Caused by: android.os.RemoteException: Remote stack trace:
+	at com.android.internal.util.Preconditions.checkCallAuthorization(Preconditions.java:260)
+	at com.android.server.devicepolicy.DevicePolicyManagerService.setKeyguardDisabled(DevicePolicyManagerService.java:15718)
+	at android.app.admin.IDevicePolicyManager$Stub.onTransact(IDevicePolicyManager.java:5085)
+	at android.os.Binder.execTransactInternal(Binder.java:1472)
+	at android.os.Binder.execTransact(Binder.java:1417)
+
+[2025-08-30 00:38:42.389 Uid(value=10443):3995:3995 W/MainActivity]
+Failed to disable native screen lock
+
+[2025-08-30 00:38:42.389 Uid(value=10443):3995:3995 D/MainActivity]
+Permission check - Basic: true, Notification: true, Service: true
+
+[2025-08-30 00:38:42.389 Uid(value=10443):3995:3995 D/MainActivity]
+Permissions granted on resume, continuing with app initialization
+
+[2025-08-30 00:38:42.390 Uid(value=10443):3995:3995 D/MainActivity]
+All permissions granted, initializing app
+
+[2025-08-30 00:38:42.401 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:42.402 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:42.402 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:42.402 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:42.403 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Remote anti-uninstall control received: false
+
+[2025-08-30 00:38:42.423 Uid(value=10443):3995:3995 W/AccessibilityControlService]
+[ANTI-UNINSTALL] ❌ Anti-uninstall protection DISABLED
+
+[2025-08-30 00:38:42.423 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall disabled from database
+
+[2025-08-30 00:38:42.423 Uid(value=10443):3995:3995 W/AntiUninstallManager]
+[ANTI-UNINSTALL] ✅ Device is registered, initializing anti-uninstall based on database settings
+
+[2025-08-30 00:38:42.442 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Stopped listening for anti-uninstall control
+
+[2025-08-30 00:38:42.442 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Started listening for anti-uninstall control for device: 7e65a34e7a1a33b8
+
+[2025-08-30 00:38:42.442 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall initialized for registered device
+
+[2025-08-30 00:38:42.444 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:42.446 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Remote anti-uninstall control received: false
+
+[2025-08-30 00:38:42.466 Uid(value=10443):3995:3995 W/AccessibilityControlService]
+[ANTI-UNINSTALL] ❌ Anti-uninstall protection DISABLED
+
+[2025-08-30 00:38:42.466 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall disabled from database
+
+[2025-08-30 00:38:42.467 Uid(value=10443):3995:3995 D/InsetsController]
+hide(ime())
+
+[2025-08-30 00:38:42.467 Uid(value=10443):3995:3995 I/ImeTracker]
+com.emi.ahkfinance:603a655f: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+
+[2025-08-30 00:38:42.498 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:42.558 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: true, Kiosk: true
+
+[2025-08-30 00:38:42.558 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:42.558 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Window state changed: com.emi.ahkfinance
+
+[2025-08-30 00:38:42.662 Uid(value=10443):3995:3995 D/Firebase]
+Last online time updated successfully: 1756492722338
+
+[2025-08-30 00:38:43.159 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:43.260 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:43.593 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: true, Kiosk: true
+
+[2025-08-30 00:38:43.674 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:43.675 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Window state changed: com.google.android.apps.nexuslauncher
+
+[2025-08-30 00:38:43.676 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Blocking package: com.google.android.apps.nexuslauncher
+
+[2025-08-30 00:38:43.691 Uid(value=10443):3995:3995 D/MainActivity]
+onPause called
+
+[2025-08-30 00:38:43.691 Uid(value=10443):3995:3995 D/MainActivity]
+onResume called
+
+[2025-08-30 00:38:43.692 Uid(value=10443):3995:3995 D/MainActivity]
+Last online time updated for device: 7e65a34e7a1a33b8
+
+[2025-08-30 00:38:43.692 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Force re-checking device registration status
+
+[2025-08-30 00:38:43.719 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+[ANTI-UNINSTALL] Device ID found: 7e65a34e7a1a33b8, checking registration...
+
+[2025-08-30 00:38:43.753 Uid(value=10443):3995:3995 E/DeviceAdminManager]
+Failed to disable native screen lock
+java.lang.SecurityException: Calling identity is not authorized
+	at android.os.Parcel.createExceptionOrNull(Parcel.java:3354)
+	at android.os.Parcel.createException(Parcel.java:3338)
+	at android.os.Parcel.readException(Parcel.java:3321)
+	at android.os.Parcel.readException(Parcel.java:3263)
+	at android.app.admin.IDevicePolicyManager$Stub$Proxy.setKeyguardDisabled(IDevicePolicyManager.java:10990)
+	at android.app.admin.DevicePolicyManager.setKeyguardDisabled(DevicePolicyManager.java:14088)
+	at com.emi.ahkfinance.DeviceAdminManager.disableNativeScreenLock(DeviceAdminManager.kt:51)
+	at com.emi.ahkfinance.MainActivity.disableNativeScreenLockTemporarily(MainActivity.kt:230)
+	at com.emi.ahkfinance.MainActivity.onResume(MainActivity.kt:157)
+	at android.app.Instrumentation.callActivityOnResume(Instrumentation.java:1728)
+	at android.app.Activity.performResume(Activity.java:9436)
+	at android.app.ActivityThread.performResumeActivity(ActivityThread.java:5841)
+	at android.app.ActivityThread.handleResumeActivity(ActivityThread.java:5884)
+	at android.app.servertransaction.TransactionExecutor.performLifecycleSequence(TransactionExecutor.java:218)
+	at android.app.servertransaction.TransactionExecutor.cycleToPath(TransactionExecutor.java:194)
+	at android.app.servertransaction.TransactionExecutor.executeNonLifecycleItem(TransactionExecutor.java:142)
+	at android.app.servertransaction.TransactionExecutor.executeTransactionItems(TransactionExecutor.java:103)
+	at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:80)
+	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2931)
+	at android.os.Handler.dispatchMessage(Handler.java:132)
+	at android.os.Looper.dispatchMessage(Looper.java:333)
+	at android.os.Looper.loopOnce(Looper.java:263)
+	at android.os.Looper.loop(Looper.java:367)
+	at android.app.ActivityThread.main(ActivityThread.java:9230)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:593)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:929)
+Caused by: android.os.RemoteException: Remote stack trace:
+	at com.android.internal.util.Preconditions.checkCallAuthorization(Preconditions.java:260)
+	at com.android.server.devicepolicy.DevicePolicyManagerService.setKeyguardDisabled(DevicePolicyManagerService.java:15718)
+	at android.app.admin.IDevicePolicyManager$Stub.onTransact(IDevicePolicyManager.java:5085)
+	at android.os.Binder.execTransactInternal(Binder.java:1472)
+	at android.os.Binder.execTransact(Binder.java:1417)
+
+[2025-08-30 00:38:43.753 Uid(value=10443):3995:3995 W/MainActivity]
+Failed to disable native screen lock
+
+[2025-08-30 00:38:43.753 Uid(value=10443):3995:3995 D/MainActivity]
+Permission check - Basic: true, Notification: true, Service: true
+
+[2025-08-30 00:38:43.753 Uid(value=10443):3995:3995 D/MainActivity]
+Permissions granted on resume, continuing with app initialization
+
+[2025-08-30 00:38:43.754 Uid(value=10443):3995:3995 D/MainActivity]
+All permissions granted, initializing app
+
+[2025-08-30 00:38:43.757 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:43.758 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:43.758 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:43.758 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:43.758 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Remote anti-uninstall control received: false
+
+[2025-08-30 00:38:43.779 Uid(value=10443):3995:3995 W/AccessibilityControlService]
+[ANTI-UNINSTALL] ❌ Anti-uninstall protection DISABLED
+
+[2025-08-30 00:38:43.779 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall disabled from database
+
+[2025-08-30 00:38:43.779 Uid(value=10443):3995:3995 W/AntiUninstallManager]
+[ANTI-UNINSTALL] ✅ Device is registered, initializing anti-uninstall based on database settings
+
+[2025-08-30 00:38:43.796 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Stopped listening for anti-uninstall control
+
+[2025-08-30 00:38:43.796 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Started listening for anti-uninstall control for device: 7e65a34e7a1a33b8
+
+[2025-08-30 00:38:43.796 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall initialized for registered device
+
+[2025-08-30 00:38:43.797 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:43.802 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Remote anti-uninstall control received: false
+
+[2025-08-30 00:38:43.820 Uid(value=10443):3995:3995 W/AccessibilityControlService]
+[ANTI-UNINSTALL] ❌ Anti-uninstall protection DISABLED
+
+[2025-08-30 00:38:43.820 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall disabled from database
+
+[2025-08-30 00:38:43.820 Uid(value=10443):3995:3995 D/InsetsController]
+hide(ime())
+
+[2025-08-30 00:38:43.820 Uid(value=10443):3995:3995 I/ImeTracker]
+com.emi.ahkfinance:1116b1fc: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+
+[2025-08-30 00:38:43.904 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:43.904 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Window state changed: com.emi.ahkfinance
+
+[2025-08-30 00:38:43.922 Uid(value=10443):3995:3995 D/Firebase]
+Last online time updated successfully: 1756492723692
+
+[2025-08-30 00:38:44.170 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:44.269 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:44.532 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:44.532 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Window state changed: com.google.android.apps.nexuslauncher
+
+[2025-08-30 00:38:44.535 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Blocking package: com.google.android.apps.nexuslauncher
+
+[2025-08-30 00:38:44.562 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:44.638 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: true, Kiosk: true
+
+[2025-08-30 00:38:44.662 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:44.762 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:44.862 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:44.901 Uid(value=10443):3995:3995 D/MainActivity]
+onPause called
+
+[2025-08-30 00:38:44.902 Uid(value=10443):3995:3995 D/VRI[MainActivity]]
+visibilityChanged oldVisibility=true newVisibility=false
+
+[2025-08-30 00:38:44.962 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:45.036 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:45.037 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:45.037 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Window state changed: com.google.android.apps.nexuslauncher
+
+[2025-08-30 00:38:45.039 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Blocking package: com.google.android.apps.nexuslauncher
+
+[2025-08-30 00:38:45.063 Uid(value=10443):3995:3995 D/ViewRootImpl]
+Skipping stats log for color mode
+
+[2025-08-30 00:38:45.065 Uid(value=10443):3995:3995 D/MainActivity]
+onResume called
+
+[2025-08-30 00:38:45.066 Uid(value=10443):3995:3995 D/MainActivity]
+Last online time updated for device: 7e65a34e7a1a33b8
+
+[2025-08-30 00:38:45.066 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Force re-checking device registration status
+
+[2025-08-30 00:38:45.093 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+[ANTI-UNINSTALL] Device ID found: 7e65a34e7a1a33b8, checking registration...
+
+[2025-08-30 00:38:45.115 Uid(value=10443):3995:3995 E/DeviceAdminManager]
+Failed to disable native screen lock
+java.lang.SecurityException: Calling identity is not authorized
+	at android.os.Parcel.createExceptionOrNull(Parcel.java:3354)
+	at android.os.Parcel.createException(Parcel.java:3338)
+	at android.os.Parcel.readException(Parcel.java:3321)
+	at android.os.Parcel.readException(Parcel.java:3263)
+	at android.app.admin.IDevicePolicyManager$Stub$Proxy.setKeyguardDisabled(IDevicePolicyManager.java:10990)
+	at android.app.admin.DevicePolicyManager.setKeyguardDisabled(DevicePolicyManager.java:14088)
+	at com.emi.ahkfinance.DeviceAdminManager.disableNativeScreenLock(DeviceAdminManager.kt:51)
+	at com.emi.ahkfinance.MainActivity.disableNativeScreenLockTemporarily(MainActivity.kt:230)
+	at com.emi.ahkfinance.MainActivity.onResume(MainActivity.kt:157)
+	at android.app.Instrumentation.callActivityOnResume(Instrumentation.java:1728)
+	at android.app.Activity.performResume(Activity.java:9436)
+	at android.app.ActivityThread.performResumeActivity(ActivityThread.java:5841)
+	at android.app.ActivityThread.handleResumeActivity(ActivityThread.java:5884)
+	at android.app.servertransaction.ResumeActivityItem.execute(ResumeActivityItem.java:73)
+	at android.app.servertransaction.ActivityTransactionItem.execute(ActivityTransactionItem.java:63)
+	at android.app.servertransaction.TransactionExecutor.executeLifecycleItem(TransactionExecutor.java:169)
+	at android.app.servertransaction.TransactionExecutor.executeTransactionItems(TransactionExecutor.java:101)
+	at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:80)
+	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2931)
+	at android.os.Handler.dispatchMessage(Handler.java:132)
+	at android.os.Looper.dispatchMessage(Looper.java:333)
+	at android.os.Looper.loopOnce(Looper.java:263)
+	at android.os.Looper.loop(Looper.java:367)
+	at android.app.ActivityThread.main(ActivityThread.java:9230)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:593)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:929)
+Caused by: android.os.RemoteException: Remote stack trace:
+	at com.android.internal.util.Preconditions.checkCallAuthorization(Preconditions.java:260)
+	at com.android.server.devicepolicy.DevicePolicyManagerService.setKeyguardDisabled(DevicePolicyManagerService.java:15718)
+	at android.app.admin.IDevicePolicyManager$Stub.onTransact(IDevicePolicyManager.java:5085)
+	at android.os.Binder.execTransactInternal(Binder.java:1472)
+	at android.os.Binder.execTransact(Binder.java:1417)
+
+[2025-08-30 00:38:45.115 Uid(value=10443):3995:3995 W/MainActivity]
+Failed to disable native screen lock
+
+[2025-08-30 00:38:45.116 Uid(value=10443):3995:3995 D/MainActivity]
+Permission check - Basic: true, Notification: true, Service: true
+
+[2025-08-30 00:38:45.116 Uid(value=10443):3995:3995 D/MainActivity]
+Permissions granted on resume, continuing with app initialization
+
+[2025-08-30 00:38:45.116 Uid(value=10443):3995:3995 D/MainActivity]
+All permissions granted, initializing app
+
+[2025-08-30 00:38:45.128 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:45.128 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:45.128 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:45.128 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:45.129 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Remote anti-uninstall control received: false
+
+[2025-08-30 00:38:45.149 Uid(value=10443):3995:3995 W/AccessibilityControlService]
+[ANTI-UNINSTALL] ❌ Anti-uninstall protection DISABLED
+
+[2025-08-30 00:38:45.149 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall disabled from database
+
+[2025-08-30 00:38:45.149 Uid(value=10443):3995:3995 W/AntiUninstallManager]
+[ANTI-UNINSTALL] ✅ Device is registered, initializing anti-uninstall based on database settings
+
+[2025-08-30 00:38:45.170 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Stopped listening for anti-uninstall control
+
+[2025-08-30 00:38:45.170 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Started listening for anti-uninstall control for device: 7e65a34e7a1a33b8
+
+[2025-08-30 00:38:45.170 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall initialized for registered device
+
+[2025-08-30 00:38:45.173 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:45.175 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Remote anti-uninstall control received: false
+
+[2025-08-30 00:38:45.195 Uid(value=10443):3995:3995 W/AccessibilityControlService]
+[ANTI-UNINSTALL] ❌ Anti-uninstall protection DISABLED
+
+[2025-08-30 00:38:45.195 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall disabled from database
+
+[2025-08-30 00:38:45.195 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:45.196 Uid(value=10443):3995:3995 D/InsetsController]
+hide(ime())
+
+[2025-08-30 00:38:45.196 Uid(value=10443):3995:3995 I/ImeTracker]
+com.emi.ahkfinance:126a9c63: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+
+[2025-08-30 00:38:45.227 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:45.268 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:45.275 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:45.275 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Window state changed: com.emi.ahkfinance
+
+[2025-08-30 00:38:45.349 Uid(value=10443):3995:3995 D/Firebase]
+Last online time updated successfully: 1756492725066
+
+[2025-08-30 00:38:45.733 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: true, Kiosk: true
+
+[2025-08-30 00:38:46.272 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:46.706 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:46.706 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Window state changed: com.google.android.apps.nexuslauncher
+
+[2025-08-30 00:38:46.707 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Blocking package: com.google.android.apps.nexuslauncher
+
+[2025-08-30 00:38:46.721 Uid(value=10443):3995:3995 D/MainActivity]
+onPause called
+
+[2025-08-30 00:38:46.721 Uid(value=10443):3995:3995 D/MainActivity]
+onResume called
+
+[2025-08-30 00:38:46.722 Uid(value=10443):3995:3995 D/MainActivity]
+Last online time updated for device: 7e65a34e7a1a33b8
+
+[2025-08-30 00:38:46.723 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Force re-checking device registration status
+
+[2025-08-30 00:38:46.766 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+[ANTI-UNINSTALL] Device ID found: 7e65a34e7a1a33b8, checking registration...
+
+[2025-08-30 00:38:46.787 Uid(value=10443):3995:3995 E/DeviceAdminManager]
+Failed to disable native screen lock
+java.lang.SecurityException: Calling identity is not authorized
+	at android.os.Parcel.createExceptionOrNull(Parcel.java:3354)
+	at android.os.Parcel.createException(Parcel.java:3338)
+	at android.os.Parcel.readException(Parcel.java:3321)
+	at android.os.Parcel.readException(Parcel.java:3263)
+	at android.app.admin.IDevicePolicyManager$Stub$Proxy.setKeyguardDisabled(IDevicePolicyManager.java:10990)
+	at android.app.admin.DevicePolicyManager.setKeyguardDisabled(DevicePolicyManager.java:14088)
+	at com.emi.ahkfinance.DeviceAdminManager.disableNativeScreenLock(DeviceAdminManager.kt:51)
+	at com.emi.ahkfinance.MainActivity.disableNativeScreenLockTemporarily(MainActivity.kt:230)
+	at com.emi.ahkfinance.MainActivity.onResume(MainActivity.kt:157)
+	at android.app.Instrumentation.callActivityOnResume(Instrumentation.java:1728)
+	at android.app.Activity.performResume(Activity.java:9436)
+	at android.app.ActivityThread.performResumeActivity(ActivityThread.java:5841)
+	at android.app.ActivityThread.handleResumeActivity(ActivityThread.java:5884)
+	at android.app.servertransaction.TransactionExecutor.performLifecycleSequence(TransactionExecutor.java:218)
+	at android.app.servertransaction.TransactionExecutor.cycleToPath(TransactionExecutor.java:194)
+	at android.app.servertransaction.TransactionExecutor.executeNonLifecycleItem(TransactionExecutor.java:142)
+	at android.app.servertransaction.TransactionExecutor.executeTransactionItems(TransactionExecutor.java:103)
+	at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:80)
+	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2931)
+	at android.os.Handler.dispatchMessage(Handler.java:132)
+	at android.os.Looper.dispatchMessage(Looper.java:333)
+	at android.os.Looper.loopOnce(Looper.java:263)
+	at android.os.Looper.loop(Looper.java:367)
+	at android.app.ActivityThread.main(ActivityThread.java:9230)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:593)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:929)
+Caused by: android.os.RemoteException: Remote stack trace:
+	at com.android.internal.util.Preconditions.checkCallAuthorization(Preconditions.java:260)
+	at com.android.server.devicepolicy.DevicePolicyManagerService.setKeyguardDisabled(DevicePolicyManagerService.java:15718)
+	at android.app.admin.IDevicePolicyManager$Stub.onTransact(IDevicePolicyManager.java:5085)
+	at android.os.Binder.execTransactInternal(Binder.java:1472)
+	at android.os.Binder.execTransact(Binder.java:1417)
+
+[2025-08-30 00:38:46.787 Uid(value=10443):3995:3995 W/MainActivity]
+Failed to disable native screen lock
+
+[2025-08-30 00:38:46.788 Uid(value=10443):3995:3995 D/MainActivity]
+Permission check - Basic: true, Notification: true, Service: true
+
+[2025-08-30 00:38:46.788 Uid(value=10443):3995:3995 D/MainActivity]
+Permissions granted on resume, continuing with app initialization
+
+[2025-08-30 00:38:46.788 Uid(value=10443):3995:3995 D/MainActivity]
+All permissions granted, initializing app
+
+[2025-08-30 00:38:46.790 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:46.790 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:46.791 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:46.791 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:46.791 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Remote anti-uninstall control received: false
+
+[2025-08-30 00:38:46.810 Uid(value=10443):3995:3995 W/AccessibilityControlService]
+[ANTI-UNINSTALL] ❌ Anti-uninstall protection DISABLED
+
+[2025-08-30 00:38:46.810 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall disabled from database
+
+[2025-08-30 00:38:46.830 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: true, Kiosk: true
+
+[2025-08-30 00:38:46.831 Uid(value=10443):3995:3995 W/AntiUninstallManager]
+[ANTI-UNINSTALL] ✅ Device is registered, initializing anti-uninstall based on database settings
+
+[2025-08-30 00:38:46.848 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Stopped listening for anti-uninstall control
+
+[2025-08-30 00:38:46.848 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Started listening for anti-uninstall control for device: 7e65a34e7a1a33b8
+
+[2025-08-30 00:38:46.848 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall initialized for registered device
+
+[2025-08-30 00:38:46.853 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:46.853 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Remote anti-uninstall control received: false
+
+[2025-08-30 00:38:46.871 Uid(value=10443):3995:3995 W/AccessibilityControlService]
+[ANTI-UNINSTALL] ❌ Anti-uninstall protection DISABLED
+
+[2025-08-30 00:38:46.871 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall disabled from database
+
+[2025-08-30 00:38:46.872 Uid(value=10443):3995:3995 D/InsetsController]
+hide(ime())
+
+[2025-08-30 00:38:46.872 Uid(value=10443):3995:3995 I/ImeTracker]
+com.emi.ahkfinance:b1e59006: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+
+[2025-08-30 00:38:46.937 Uid(value=10443):3995:3995 D/Firebase]
+Last online time updated successfully: 1756492726722
+
+[2025-08-30 00:38:46.954 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:46.954 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Window state changed: com.emi.ahkfinance
+
+[2025-08-30 00:38:47.175 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:47.275 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:47.864 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: true, Kiosk: true
+
+[2025-08-30 00:38:47.920 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:47.921 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Window state changed: com.google.android.apps.nexuslauncher
+
+[2025-08-30 00:38:47.922 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Blocking package: com.google.android.apps.nexuslauncher
+
+[2025-08-30 00:38:47.941 Uid(value=10443):3995:3995 D/MainActivity]
+onPause called
+
+[2025-08-30 00:38:47.941 Uid(value=10443):3995:3995 D/MainActivity]
+onResume called
+
+[2025-08-30 00:38:47.942 Uid(value=10443):3995:3995 D/MainActivity]
+Last online time updated for device: 7e65a34e7a1a33b8
+
+[2025-08-30 00:38:47.942 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Force re-checking device registration status
+
+[2025-08-30 00:38:47.979 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+[ANTI-UNINSTALL] Device ID found: 7e65a34e7a1a33b8, checking registration...
+
+[2025-08-30 00:38:48.010 Uid(value=10443):3995:3995 E/DeviceAdminManager]
+Failed to disable native screen lock
+java.lang.SecurityException: Calling identity is not authorized
+	at android.os.Parcel.createExceptionOrNull(Parcel.java:3354)
+	at android.os.Parcel.createException(Parcel.java:3338)
+	at android.os.Parcel.readException(Parcel.java:3321)
+	at android.os.Parcel.readException(Parcel.java:3263)
+	at android.app.admin.IDevicePolicyManager$Stub$Proxy.setKeyguardDisabled(IDevicePolicyManager.java:10990)
+	at android.app.admin.DevicePolicyManager.setKeyguardDisabled(DevicePolicyManager.java:14088)
+	at com.emi.ahkfinance.DeviceAdminManager.disableNativeScreenLock(DeviceAdminManager.kt:51)
+	at com.emi.ahkfinance.MainActivity.disableNativeScreenLockTemporarily(MainActivity.kt:230)
+	at com.emi.ahkfinance.MainActivity.onResume(MainActivity.kt:157)
+	at android.app.Instrumentation.callActivityOnResume(Instrumentation.java:1728)
+	at android.app.Activity.performResume(Activity.java:9436)
+	at android.app.ActivityThread.performResumeActivity(ActivityThread.java:5841)
+	at android.app.ActivityThread.handleResumeActivity(ActivityThread.java:5884)
+	at android.app.servertransaction.TransactionExecutor.performLifecycleSequence(TransactionExecutor.java:218)
+	at android.app.servertransaction.TransactionExecutor.cycleToPath(TransactionExecutor.java:194)
+	at android.app.servertransaction.TransactionExecutor.executeNonLifecycleItem(TransactionExecutor.java:142)
+	at android.app.servertransaction.TransactionExecutor.executeTransactionItems(TransactionExecutor.java:103)
+	at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:80)
+	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2931)
+	at android.os.Handler.dispatchMessage(Handler.java:132)
+	at android.os.Looper.dispatchMessage(Looper.java:333)
+	at android.os.Looper.loopOnce(Looper.java:263)
+	at android.os.Looper.loop(Looper.java:367)
+	at android.app.ActivityThread.main(ActivityThread.java:9230)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:593)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:929)
+Caused by: android.os.RemoteException: Remote stack trace:
+	at com.android.internal.util.Preconditions.checkCallAuthorization(Preconditions.java:260)
+	at com.android.server.devicepolicy.DevicePolicyManagerService.setKeyguardDisabled(DevicePolicyManagerService.java:15718)
+	at android.app.admin.IDevicePolicyManager$Stub.onTransact(IDevicePolicyManager.java:5085)
+	at android.os.Binder.execTransactInternal(Binder.java:1472)
+	at android.os.Binder.execTransact(Binder.java:1417)
+
+[2025-08-30 00:38:48.010 Uid(value=10443):3995:3995 W/MainActivity]
+Failed to disable native screen lock
+
+[2025-08-30 00:38:48.012 Uid(value=10443):3995:3995 D/MainActivity]
+Permission check - Basic: true, Notification: true, Service: true
+
+[2025-08-30 00:38:48.012 Uid(value=10443):3995:3995 D/MainActivity]
+Permissions granted on resume, continuing with app initialization
+
+[2025-08-30 00:38:48.012 Uid(value=10443):3995:3995 D/MainActivity]
+All permissions granted, initializing app
+
+[2025-08-30 00:38:48.015 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:48.016 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:48.016 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:48.016 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:48.016 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Remote anti-uninstall control received: false
+
+[2025-08-30 00:38:48.034 Uid(value=10443):3995:3995 W/AccessibilityControlService]
+[ANTI-UNINSTALL] ❌ Anti-uninstall protection DISABLED
+
+[2025-08-30 00:38:48.034 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall disabled from database
+
+[2025-08-30 00:38:48.035 Uid(value=10443):3995:3995 W/AntiUninstallManager]
+[ANTI-UNINSTALL] ✅ Device is registered, initializing anti-uninstall based on database settings
+
+[2025-08-30 00:38:48.053 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Stopped listening for anti-uninstall control
+
+[2025-08-30 00:38:48.053 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Started listening for anti-uninstall control for device: 7e65a34e7a1a33b8
+
+[2025-08-30 00:38:48.053 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall initialized for registered device
+
+[2025-08-30 00:38:48.053 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:48.058 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Remote anti-uninstall control received: false
+
+[2025-08-30 00:38:48.076 Uid(value=10443):3995:3995 W/AccessibilityControlService]
+[ANTI-UNINSTALL] ❌ Anti-uninstall protection DISABLED
+
+[2025-08-30 00:38:48.076 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall disabled from database
+
+[2025-08-30 00:38:48.076 Uid(value=10443):3995:3995 D/InsetsController]
+hide(ime())
+
+[2025-08-30 00:38:48.077 Uid(value=10443):3995:3995 I/ImeTracker]
+com.emi.ahkfinance:db747e18: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+
+[2025-08-30 00:38:48.161 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:48.161 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Window state changed: com.emi.ahkfinance
+
+[2025-08-30 00:38:48.173 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:48.195 Uid(value=10443):3995:3995 D/Firebase]
+Last online time updated successfully: 1756492727942
+
+[2025-08-30 00:38:48.276 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:48.933 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: true, Kiosk: true
+
+[2025-08-30 00:38:49.288 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:49.722 Uid(value=10443):3995:3995 D/MainActivity]
+onPause called
+
+[2025-08-30 00:38:49.892 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:49.893 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:49.893 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Window state changed: com.google.android.apps.nexuslauncher
+
+[2025-08-30 00:38:49.896 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Blocking package: com.google.android.apps.nexuslauncher
+
+[2025-08-30 00:38:49.931 Uid(value=10443):3995:3995 D/MainActivity]
+Last online time updated for device: 7e65a34e7a1a33b8
+
+[2025-08-30 00:38:49.931 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Force re-checking device registration status
+
+[2025-08-30 00:38:49.964 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+[ANTI-UNINSTALL] Device ID found: 7e65a34e7a1a33b8, checking registration...
+
+[2025-08-30 00:38:49.964 Uid(value=10443):3995:3995 D/MainActivity]
+No start destination provided, checking all permissions...
+
+[2025-08-30 00:38:49.966 Uid(value=10443):3995:3995 D/MainActivity]
+All permissions granted, initializing app
+
+[2025-08-30 00:38:49.972 Uid(value=10443):3995:3995 D/MainActivity]
+onResume called
+
+[2025-08-30 00:38:49.973 Uid(value=10443):3995:3995 D/MainActivity]
+Last online time updated for device: 7e65a34e7a1a33b8
+
+[2025-08-30 00:38:49.973 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Force re-checking device registration status
+
+[2025-08-30 00:38:49.991 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+[ANTI-UNINSTALL] Device ID found: 7e65a34e7a1a33b8, checking registration...
+
+[2025-08-30 00:38:49.992 Uid(value=10443):3995:3995 D/MainActivity]
+Permission check - Basic: true, Notification: true, Service: true
+
+[2025-08-30 00:38:49.992 Uid(value=10443):3995:3995 D/MainActivity]
+Permissions granted on resume, continuing with app initialization
+
+[2025-08-30 00:38:49.992 Uid(value=10443):3995:3995 D/MainActivity]
+All permissions granted, initializing app
+
+[2025-08-30 00:38:49.998 Uid(value=10443):3995:3995 D/PaymentSyncService]
+Payment sync service started
+
+[2025-08-30 00:38:50.018 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: true, Kiosk: true
+
+[2025-08-30 00:38:50.018 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:50.019 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:50.019 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:50.019 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:50.019 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Remote anti-uninstall control received: false
+
+[2025-08-30 00:38:50.035 Uid(value=10443):3995:3995 W/AccessibilityControlService]
+[ANTI-UNINSTALL] ❌ Anti-uninstall protection DISABLED
+
+[2025-08-30 00:38:50.035 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall disabled from database
+
+[2025-08-30 00:38:50.036 Uid(value=10443):3995:3995 D/VRI[MainActivity]]
+visibilityChanged oldVisibility=true newVisibility=false
+
+[2025-08-30 00:38:50.036 Uid(value=10443):3995:3995 W/AntiUninstallManager]
+[ANTI-UNINSTALL] ✅ Device is registered, initializing anti-uninstall based on database settings
+
+[2025-08-30 00:38:50.054 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Stopped listening for anti-uninstall control
+
+[2025-08-30 00:38:50.054 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Started listening for anti-uninstall control for device: 7e65a34e7a1a33b8
+
+[2025-08-30 00:38:50.054 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall initialized for registered device
+
+[2025-08-30 00:38:50.085 Uid(value=10443):3995:3995 D/MainActivity]
+Navigation check - Registered: true, Locked: true, Intent destination: null
+
+[2025-08-30 00:38:50.085 Uid(value=10443):3995:3995 D/MainActivity]
+Starting lock screen - device is locked
+
+[2025-08-30 00:38:50.085 Uid(value=10443):3995:3995 D/MainActivity]
+Final start destination: lock
+
+[2025-08-30 00:38:50.092 Uid(value=10443):3995:3995 D/VRI[MainActivity]]
+WindowInsets changed: 1440x3120 statusBars:[0,98,0,0] navigationBars:[0,0,0,84] mandatorySystemGestures:[0,98,0,112] 
+
+[2025-08-30 00:38:50.092 Uid(value=10443):3995:3995 D/WindowOnBackDispatcher]
+setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@7a72911
+
+[2025-08-30 00:38:50.110 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:50.110 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:50.111 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:50.111 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:50.111 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:50.111 Uid(value=10443):3995:3995 W/AntiUninstallManager]
+[ANTI-UNINSTALL] ✅ Device is registered, initializing anti-uninstall based on database settings
+
+[2025-08-30 00:38:50.132 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Stopped listening for anti-uninstall control
+
+[2025-08-30 00:38:50.132 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Started listening for anti-uninstall control for device: 7e65a34e7a1a33b8
+
+[2025-08-30 00:38:50.132 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall initialized for registered device
+
+[2025-08-30 00:38:50.193 Uid(value=10443):3995:3995 W/WindowOnBackDispatcher]
+OnBackInvokedCallback is not enabled for the application.
+Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+
+[2025-08-30 00:38:50.231 Uid(value=10443):3995:3995 D/Firebase]
+Last online time updated successfully: 1756492729930
+
+[2025-08-30 00:38:50.231 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:50.232 Uid(value=10443):3995:3995 D/Firebase]
+Last online time updated successfully: 1756492729973
+
+[2025-08-30 00:38:50.233 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Remote anti-uninstall control received: false
+
+[2025-08-30 00:38:50.249 Uid(value=10443):3995:3995 W/AccessibilityControlService]
+[ANTI-UNINSTALL] ❌ Anti-uninstall protection DISABLED
+
+[2025-08-30 00:38:50.249 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Anti-uninstall disabled from database
+
+[2025-08-30 00:38:50.250 Uid(value=10443):3995:3995 D/LockScreen]
+Native authentication verified, proceeding with app lock screen
+
+[2025-08-30 00:38:50.279 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:50.304 Uid(value=10443):3995:3995 D/InsetsController]
+Setting requestedVisibleTypes to 501 (was 503)
+
+[2025-08-30 00:38:50.305 Uid(value=10443):3995:3995 D/VRI[MainActivity]]
+WindowInsets changed: navigationBars:null 
+
+[2025-08-30 00:38:50.315 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:50.315 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:50.315 Uid(value=10443):3995:3995 D/InsetsController]
+hide(ime())
+
+[2025-08-30 00:38:50.315 Uid(value=10443):3995:3995 I/ImeTracker]
+com.emi.ahkfinance:cc9f8b54: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+
+[2025-08-30 00:38:50.315 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:50.316 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: true, ignoring
+
+[2025-08-30 00:38:50.316 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:50.322 Uid(value=10443):3995:3995 D/MainActivity]
+onDestroy called
+
+[2025-08-30 00:38:50.323 Uid(value=10443):3995:3995 D/MainActivity]
+Close lock screen receiver unregistered
+
+[2025-08-30 00:38:50.323 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Stopped listening for anti-uninstall control
+
+[2025-08-30 00:38:50.323 Uid(value=10443):3995:3995 D/WindowOnBackDispatcher]
+setTopOnBackInvokedCallback (unwrapped): null
+
+[2025-08-30 00:38:50.324 Uid(value=10443):3995:3995 D/ViewRootImpl]
+Skipping stats log for color mode
+
+[2025-08-30 00:38:50.334 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:50.334 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:50.334 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Window state changed: com.emi.ahkfinance
+
+[2025-08-30 00:38:50.371 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Payment activity detected: WebView=true, PaymentURL=true
+
+[2025-08-30 00:38:50.371 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Payment activity state changed: true for package: com.emi.ahkfinance
+
+[2025-08-30 00:38:50.379 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:50.433 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:50.482 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:50.545 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:50.545 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Window state changed: com.emi.ahkfinance
+
+[2025-08-30 00:38:50.609 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Payment activity detected: WebView=true, PaymentURL=true
+
+[2025-08-30 00:38:50.610 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:50.812 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:51.098 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: true, Kiosk: true
+
+[2025-08-30 00:38:51.192 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:51.293 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:51.483 Uid(value=10443):3995:3995 W/WindowOnBackDispatcher]
+OnBackInvokedCallback is not enabled for the application.
+Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+
+[2025-08-30 00:38:51.486 Uid(value=10443):3995:4010 I/.emi.ahkfinance]
+Compiler allocated 5306KB to compile void com.emi.ahkfinance.LockScreenKt.LockScreen(androidx.navigation.NavController, androidx.compose.runtime.Composer, int)
+
+[2025-08-30 00:38:51.539 Uid(value=10443):3995:3995 D/WindowOnBackDispatcher]
+setTopOnBackInvokedCallback (unwrapped): android.view.ViewRootImpl$$ExternalSyntheticLambda12@a8c61d6
+
+[2025-08-30 00:38:51.600 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:51.634 Uid(value=10443):3995:3995 D/InsetsController]
+hide(ime())
+
+[2025-08-30 00:38:51.634 Uid(value=10443):3995:3995 I/ImeTracker]
+com.emi.ahkfinance:19126d3c: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+
+[2025-08-30 00:38:51.667 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:51.671 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:51.700 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:51.702 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:51.734 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:51.734 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:51.734 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Window state changed: com.emi.ahkfinance
+
+[2025-08-30 00:38:51.794 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Payment activity state changed: false for package: com.emi.ahkfinance
+
+[2025-08-30 00:38:52.138 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: true, Kiosk: true
+
+[2025-08-30 00:38:52.195 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:52.310 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:52.381 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:52.425 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:52.530 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:52.530 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:52.633 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:52.738 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:52.976 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:53.011 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:53.121 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:53.121 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:53.174 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: true, Kiosk: true
+
+[2025-08-30 00:38:53.224 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:53.340 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:53.664 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:53.768 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:53.768 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:53.903 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:53.910 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:54.054 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:54.054 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:54.054 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:54.054 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:54.158 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:54.206 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: true, Kiosk: true
+
+[2025-08-30 00:38:54.262 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:54.962 Uid(value=10443):3995:3995 D/WindowOnBackDispatcher]
+setTopOnBackInvokedCallback (unwrapped): null
+
+[2025-08-30 00:38:54.976 Uid(value=10443):3995:5076 D/HWUI]
+endAllActiveAnimators on 0xb400007807727e50 (UnprojectedRipple) with handle 0xb400007787705bb0
+
+[2025-08-30 00:38:54.980 Uid(value=10443):3995:3995 W/InputEventReceiver]
+Failed to send outbound event on channel '63d0ab3 com.emi.ahkfinance/com.emi.ahkfinance.MainActivity'.  status=DEAD_OBJECT(-32)
+
+[2025-08-30 00:38:54.980 Uid(value=10443):3995:3995 W/InputEventReceiver]
+channel '63d0ab3 com.emi.ahkfinance/com.emi.ahkfinance.MainActivity' ~ Could not send 0 outbound event(s), status:DEAD_OBJECT
+
+[2025-08-30 00:38:54.982 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:54.982 Uid(value=10443):3995:3995 D/Firebase]
+Lock state changed from true to false
+
+[2025-08-30 00:38:54.982 Uid(value=10443):3995:3995 D/LockService]
+Remote unlock command received
+
+[2025-08-30 00:38:55.001 Uid(value=10443):3995:3995 D/LockService]
+Device lock status set to: false
+
+[2025-08-30 00:38:55.001 Uid(value=10443):3995:3995 D/LockService]
+Attempting to unlock device
+
+[2025-08-30 00:38:55.017 Uid(value=10443):3995:3995 D/LockService]
+Kiosk mode set to: false
+
+[2025-08-30 00:38:55.017 Uid(value=10443):3995:3995 D/LockService]
+Broadcast sent to close lock screen
+
+[2025-08-30 00:38:55.017 Uid(value=10443):3995:3995 D/LockService]
+Device unlock completed
+
+[2025-08-30 00:38:55.018 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: false, ignoring
+
+[2025-08-30 00:38:55.018 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: false, ignoring
+
+[2025-08-30 00:38:55.018 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: false, ignoring
+
+[2025-08-30 00:38:55.018 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: false, ignoring
+
+[2025-08-30 00:38:55.169 Uid(value=10443):3995:3995 D/LockScreen]
+Lock state changed: true -> false
+
+[2025-08-30 00:38:55.169 Uid(value=10443):3995:3995 D/StatusScreen]
+StatusScreen opened, updating last online time
+
+[2025-08-30 00:38:55.170 Uid(value=10443):3995:3995 D/StatusScreen]
+Checking offline unlock count: 22
+
+[2025-08-30 00:38:55.170 Uid(value=10443):3995:3995 D/StatusScreen]
+Starting automatic upload of offline unlock count
+
+[2025-08-30 00:38:55.184 Uid(value=10443):3995:3995 D/StatusScreen]
+Starting automatic database synchronization
+
+[2025-08-30 00:38:55.186 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:55.186 Uid(value=10443):3995:3995 D/InsetsController]
+hide(ime())
+
+[2025-08-30 00:38:55.186 Uid(value=10443):3995:3995 I/ImeTracker]
+com.emi.ahkfinance:d2e5cd49: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+
+[2025-08-30 00:38:55.218 Uid(value=10443):3995:3995 D/InsetsController]
+Setting requestedVisibleTypes to 503 (was 501)
+
+[2025-08-30 00:38:55.219 Uid(value=10443):3995:3995 D/VRI[MainActivity]]
+WindowInsets changed: navigationBars:[0,0,0,84] 
+
+[2025-08-30 00:38:55.223 Uid(value=10443):3995:3995 D/Firebase]
+Status updated successfully: {locked=false, offlineUnlockCount=22, lastOfflineUnlock=1756492734902, paymentLink=https://shop.bkash.com/ahk-phone-repair01630138471/paymentlink}
+
+[2025-08-30 00:38:55.223 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: false, ignoring
+
+[2025-08-30 00:38:55.223 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: false, ignoring
+
+[2025-08-30 00:38:55.223 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: false, ignoring
+
+[2025-08-30 00:38:55.223 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: false, ignoring
+
+[2025-08-30 00:38:55.223 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: false, ignoring
+
+[2025-08-30 00:38:55.244 Uid(value=10443):3995:3995 D/LockScreen]
+Device unlocked, navigating away from lock screen
+
+[2025-08-30 00:38:55.347 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: false, ignoring
+
+[2025-08-30 00:38:55.347 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: false, ignoring
+
+[2025-08-30 00:38:55.347 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: false, ignoring
+
+[2025-08-30 00:38:55.347 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: false, ignoring
+
+[2025-08-30 00:38:55.347 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: false, ignoring
+
+[2025-08-30 00:38:55.364 Uid(value=10443):3995:3995 D/StatusScreen]
+Auto-sync result: Data updated successfully
+
+[2025-08-30 00:38:55.377 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: false, Kiosk: false
+
+[2025-08-30 00:38:55.378 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:55.378 Uid(value=10443):3995:3995 D/MainActivity]
+onPause called
+
+[2025-08-30 00:38:55.396 Uid(value=10443):3995:3995 D/StatusScreen]
+StatusScreen opened, updating last online time
+
+[2025-08-30 00:38:55.396 Uid(value=10443):3995:3995 D/StatusScreen]
+Checking offline unlock count: 22
+
+[2025-08-30 00:38:55.396 Uid(value=10443):3995:3995 D/StatusScreen]
+Starting automatic upload of offline unlock count
+
+[2025-08-30 00:38:55.422 Uid(value=10443):3995:3995 D/StatusScreen]
+Starting automatic database synchronization
+
+[2025-08-30 00:38:55.440 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:55.477 Uid(value=10443):3995:3995 D/Firebase]
+Last online time updated successfully: 1756492735169
+
+[2025-08-30 00:38:55.477 Uid(value=10443):3995:3995 D/Firebase]
+Offline unlock count uploaded successfully: 22
+
+[2025-08-30 00:38:55.477 Uid(value=10443):3995:3995 D/StatusScreen]
+Automatic upload successful
+
+[2025-08-30 00:38:55.480 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: false, ignoring
+
+[2025-08-30 00:38:55.480 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: false, ignoring
+
+[2025-08-30 00:38:55.481 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: false, ignoring
+
+[2025-08-30 00:38:55.481 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: false, ignoring
+
+[2025-08-30 00:38:55.481 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: false, ignoring
+
+[2025-08-30 00:38:55.489 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: false, ignoring
+
+[2025-08-30 00:38:55.489 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: false, ignoring
+
+[2025-08-30 00:38:55.489 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: false, ignoring
+
+[2025-08-30 00:38:55.489 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: false, ignoring
+
+[2025-08-30 00:38:55.489 Uid(value=10443):3995:3995 D/Firebase]
+Lock state unchanged: false, ignoring
+
+[2025-08-30 00:38:55.499 Uid(value=10443):3995:4013 W/System]
+A resource failed to call release. 
+
+[2025-08-30 00:38:55.515 Uid(value=10443):3995:3995 D/StatusScreen]
+Auto-sync result: Data updated successfully
+
+[2025-08-30 00:38:55.534 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:55.544 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:55.544 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:55.570 Uid(value=10443):3995:3995 D/LockScreen]
+LockScreen composable disposed
+
+[2025-08-30 00:38:55.645 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:55.667 Uid(value=10443):3995:3995 D/Firebase]
+Last online time updated successfully: 1756492735396
+
+[2025-08-30 00:38:55.677 Uid(value=10443):3995:3995 D/Firebase]
+Offline unlock count uploaded successfully: 22
+
+[2025-08-30 00:38:55.677 Uid(value=10443):3995:3995 D/StatusScreen]
+Automatic upload successful
+
+[2025-08-30 00:38:55.744 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:55.770 Uid(value=10443):3995:3995 D/VRI[MainActivity]]
+visibilityChanged oldVisibility=true newVisibility=false
+
+[2025-08-30 00:38:55.792 Uid(value=10443):3995:3995 D/MainActivity]
+onDestroy called
+
+[2025-08-30 00:38:55.792 Uid(value=10443):3995:3995 D/AntiUninstallManager]
+Stopped listening for anti-uninstall control
+
+[2025-08-30 00:38:55.792 Uid(value=10443):3995:3995 D/WindowOnBackDispatcher]
+setTopOnBackInvokedCallback (unwrapped): null
+
+[2025-08-30 00:38:55.794 Uid(value=10443):3995:3995 D/ViewRootImpl]
+Skipping stats log for color mode
+
+[2025-08-30 00:38:55.845 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:55.947 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:56.309 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:56.459 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: false, Kiosk: false
+
+[2025-08-30 00:38:57.214 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:57.312 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:57.387 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:57.418 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:57.420 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:57.428 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:57.428 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:57.428 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:57.428 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:57.428 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:57.428 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:57.429 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:57.429 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:57.429 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:57.429 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:57.429 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:57.431 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:57.431 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:57.433 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:57.498 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: false, Kiosk: false
+
+[2025-08-30 00:38:57.508 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:57.508 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:57.531 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:57.531 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:57.896 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:58.232 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:58.232 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:58.232 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:58.232 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:58.232 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:58.232 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:58.233 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:58.233 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:58.233 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:58.233 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:58.233 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:58.234 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:58.234 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:58.234 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:58.234 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:58.234 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:58.234 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:58.234 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:58.334 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:58.435 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:58.599 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+Lock state - Locked: false, Kiosk: false
+
+[2025-08-30 00:38:58.599 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:58.818 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+
+[2025-08-30 00:38:59.069 Uid(value=10443):3995:3995 D/AccessibilityControlService]
+[ANTI-UNINSTALL] Skipping uninstall detection - protection disabled
+

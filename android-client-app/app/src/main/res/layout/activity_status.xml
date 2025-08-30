@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="32dp"
+    android:background="@color/white">
+
+    <TextView
+        android:id="@+id/statusLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="বর্তমান অবস্থা:"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:id="@+id/statusValue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="লকড/আনলকড"
+        android:textSize="24sp"
+        android:textColor="@color/black"
+        android:layout_marginBottom="24dp" />
+
+    <TextView
+        android:id="@+id/amountLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="বাকি পরিমাণ:"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:id="@+id/amountValue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="৳ 0.00"
+        android:textSize="24sp"
+        android:textColor="@color/black"
+        android:layout_marginBottom="24dp" />
+
+    <TextView
+        android:id="@+id/nextDueLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="পরবর্তী বিলিং তারিখ:"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:id="@+id/nextDueValue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="YYYY-MM-DD"
+        android:textSize="24sp"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/imeiLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="IMEI Number:"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="8dp" />
+    <TextView
+        android:id="@+id/imeiValue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="IMEI"
+        android:textSize="24sp"
+        android:textColor="@color/black"
+        android:layout_marginBottom="24dp" />
+    <TextView
+        android:id="@+id/nameLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Customer Name:"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="8dp" />
+    <TextView
+        android:id="@+id/nameValue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name"
+        android:textSize="24sp"
+        android:textColor="@color/black"
+        android:layout_marginBottom="24dp" />
+    <TextView
+        android:id="@+id/phoneLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Customer Phone:"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="8dp" />
+    <TextView
+        android:id="@+id/phoneValue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Phone"
+        android:textSize="24sp"
+        android:textColor="@color/black"
+        android:layout_marginBottom="24dp" />
+    <TextView
+        android:id="@+id/deviceModelLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Device Model:"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="8dp" />
+    <TextView
+        android:id="@+id/deviceModelValue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Model"
+        android:textSize="24sp"
+        android:textColor="@color/black"
+        android:layout_marginBottom="24dp" />
+</LinearLayout>

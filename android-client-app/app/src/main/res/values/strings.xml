@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">AHK Finance</string>
+    <string name="registration">নিবন্ধন</string>
+    <string name="due_amount">Due Amount</string>
+    <string name="due_date">Due Date</string>
+    <string name="pin">৪-সংখ্যার আনলক পিন</string>
+    <string name="device_id">Device ID (Auto)</string>
+    <string name="save">Save</string>
+    <string name="fill_all_fields">Please fill all fields correctly</string>
+    <string name="lock_message">আপনার ডিভাইসটি লক করা হয়েছে। বাকি পরিশোধ না হওয়া পর্যন্ত আনলক করা যাবে না।\n\nসঠিক পিন দিন অথবা রিমোট আনলক কমান্ডের জন্য অপেক্ষা করুন।</string>
+    <string name="enter_pin">পিন দিন</string>
+    <string name="unlock">আনলক করুন</string>
+    <string name="wrong_pin">ভুল পিন!</string>
+    <string name="watermark">AHK Finance | মোবাইল সেবা নিন সহজ কিস্তিতে</string>
+    <string name="lock_monitoring">Lock Monitoring Active</string>
+    <string name="locked">Device Locked</string>
+    <string name="unlocked">Device Unlocked</string>
+    <string name="imei">IMEI Number</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="customer_phone">Customer Phone</string>
+    
+    <!-- Permission Screen Strings -->
+    <string name="permission_setup">Device Permission Setup</string>
+    <string name="permission_description">Set up required permissions before registration</string>
+    <string name="permission_status">Permission Status</string>
+    <string name="basic_permissions">Basic Permissions</string>
+    <string name="basic_permissions_desc">Phone status, wake lock, boot receiver</string>
+    <string name="notification_permission">Notification Permission</string>
+    <string name="notification_permission_desc">For displaying important messages</string>
+    <string name="foreground_service">Foreground Service</string>
+    <string name="foreground_service_desc">Background monitoring service</string>
+    <string name="device_admin">Device Admin</string>
+    <string name="device_admin_desc">For device lock and control</string>
+    <string name="overlay_permission">Overlay Permission</string>
+    <string name="overlay_permission_desc">Display over other apps</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="refresh">Refresh</string>
+    <string name="continue_btn">Continue</string>
+    <string name="all_permissions_required">⚠️ All permissions must be granted before registration</string>
+    
+    <!-- Main Activity Strings -->
+    <string name="system_settings">System Settings</string>
+    <string name="update_data">Update Data</string>
+    <string name="update_data_dialog_title">Update Device Data</string>
+    <string name="update_data_dialog_message">This will fetch the latest device information from the server and update local data.</string>
+    <string name="cancel">Cancel</string>
+    <string name="update">Update</string>
+    <string name="updating">Updating...</string>
+    <string name="update_success">Data updated successfully</string>
+    <string name="update_failed">Failed to update data</string>
+    
+    <!-- Accessibility Service Strings -->
+    <string name="accessibility_service_summary">Device Security and Control</string>
+    <string name="accessibility_service_description">AHK Phone Repair Device Control Service\n\nThis accessibility service provides device control features including anti-uninstall protection:\n\n• Kiosk mode activation\n• App access control\n• System settings protection\n• Anti-uninstall protection\n• Enhanced security monitoring\n\nThe service monitors app launches and system interactions to maintain device security when locked or in kiosk mode.</string>
+</resources>
