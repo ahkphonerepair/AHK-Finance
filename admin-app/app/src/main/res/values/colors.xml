@@ -1,0 +1,80 @@
+<resources>
+    <!-- Modern Professional Color Palette -->
+    <color name="colorPrimary">#6366F1</color>
+    <color name="colorPrimaryVariant">#4F46E5</color>
+    <color name="colorPrimaryDark">#3730A3</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorSecondary">#10B981</color>
+    <color name="colorSecondaryVariant">#059669</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    
+    <!-- Background Colors -->
+    <color name="background">#F8FAFC</color>
+    <color name="backgroundColor">#F8FAFC</color>
+    <color name="backgroundGradientStart">#6366F1</color>
+    <color name="backgroundGradientEnd">#8B5CF6</color>
+    <color name="cardBackground">#FFFFFF</color>
+    <color name="surfaceColor">#F1F5F9</color>
+    
+    <!-- Text Colors -->
+    <color name="textColorPrimary">#1E293B</color>
+    <color name="textColorSecondary">#64748B</color>
+    <color name="textColorTertiary">#94A3B8</color>
+    <color name="textColorOnPrimary">#FFFFFF</color>
+    
+    <!-- Input & Button Colors -->
+    <color name="editTextBackground">#FFFFFF</color>
+    <color name="editTextBorder">#E2E8F0</color>
+    <color name="editTextBorderFocused">#6366F1</color>
+    <color name="buttonBackground">#6366F1</color>
+    <color name="buttonBackgroundPressed">#4F46E5</color>
+    <color name="buttonTextColor">#FFFFFF</color>
+    <color name="buttonSecondary">#F1F5F9</color>
+    <color name="buttonSecondaryText">#475569</color>
+    
+    <!-- Status Colors -->
+    <color name="successColor">#10B981</color>
+    <color name="warningColor">#F59E0B</color>
+    <color name="errorColor">#EF4444</color>
+    <color name="infoColor">#3B82F6</color>
+    
+    <!-- Utility Colors -->
+    <color name="dividerColor">#E2E8F0</color>
+    <color name="shadowColor">#1E293B</color>
+    <color name="overlayColor">#80000000</color>
+    
+    <!-- Gallery Blue -->
+    <color name="galleryBlue">#9bbce4</color>
+    
+    <!-- Status Specific -->
+    <color name="lockedColor">#9bbce4</color>
+    <color name="unlockedColor">#9bbce4</color>
+    <color name="editColor">#9bbce4</color>
+    <color name="deleteColor">#9bbce4</color>
+    
+    <!-- Status Colors (Alternative Names) -->
+    <color name="statusError">#EF4444</color>
+    <color name="statusSuccess">#10B981</color>
+    <color name="statusWarning">#F59E0B</color>
+    
+    <!-- Additional Colors -->
+    <color name="deepGray">#2D3748</color>
+    
+    <!-- Action Colors -->
+    <color name="actionLock">#EF4444</color>
+    <color name="actionUnlock">#10B981</color>
+    <color name="actionSave">#6366F1</color>
+    <color name="actionDelete">#DC2626</color>
+    
+    <!-- Divider & Border Colors -->
+    <color name="borderColor">#CBD5E1</color>
+    
+    <!-- Additional UI Colors -->
+    <color name="rippleColor">#20000000</color>
+    
+    <!-- Modern UI Enhancement Colors -->
+    <color name="glassmorphism">#20FFFFFF</color>
+    <color name="cardShadow">#08000000</color>
+    <color name="gradientAccent">#8B5CF6</color>
+    
+</resources>

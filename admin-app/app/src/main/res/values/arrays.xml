@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Device Owner Status Array -->
+    <string-array name="device_owner_status_array">
+        <item>Unknown</item>
+        <item>Device Admin</item>
+        <item>Device Owner</item>
+        <item>Profile Owner</item>
+    </string-array>
+
+    <!-- Kiosk Mode Array -->
+    <string-array name="kiosk_mode_array">
+        <item>Disabled</item>
+        <item>Single App</item>
+        <item>Multi App</item>
+        <item>Full Screen</item>
+    </string-array>
+
+    <!-- Security Restrictions Array -->
+    <string-array name="security_restrictions_array">
+        <item>Factory Reset Disabled</item>
+        <item>Unknown Sources Disabled</item>
+        <item>USB File Transfer Disabled</item>
+        <item>Debugging Disabled</item>
+        <item>Safe Boot Disabled</item>
+        <item>Outgoing Calls Disabled</item>
+        <item>SMS Disabled</item>
+        <item>Camera Disabled</item>
+    </string-array>
+
+    <!-- Enrollment Methods Array -->
+    <string-array name="enrollment_methods_array">
+        <item>Manual</item>
+        <item>QR Code</item>
+        <item>NFC</item>
+        <item>Zero Touch</item>
+        <item>ADB Commands</item>
+    </string-array>
+</resources>

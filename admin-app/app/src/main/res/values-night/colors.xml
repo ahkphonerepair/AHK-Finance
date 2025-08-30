@@ -1,0 +1,56 @@
+<resources>
+    <!-- Dark Mode Color Palette -->
+    <color name="colorPrimary">#6366F1</color>
+    <color name="colorPrimaryVariant">#4F46E5</color>
+    <color name="colorPrimaryDark">#3730A3</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorSecondary">#10B981</color>
+    <color name="colorSecondaryVariant">#059669</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    
+    <!-- Dark Background Colors -->
+    <color name="background">#121212</color>
+    <color name="backgroundGradientStart">#1E1E1E</color>
+    <color name="backgroundGradientEnd">#2D2D2D</color>
+    <color name="cardBackground">#1E1E1E</color>
+    <color name="surfaceColor">#2D2D2D</color>
+    
+    <!-- Dark Mode Text Colors -->
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="textColorSecondary">#B3B3B3</color>
+    <color name="textColorTertiary">#808080</color>
+    <color name="textColorOnPrimary">#FFFFFF</color>
+    
+    <!-- Dark Input & Button Colors -->
+    <color name="editTextBackground">#2D2D2D</color>
+    <color name="editTextBorder">#404040</color>
+    <color name="editTextBorderFocused">#6366F1</color>
+    <color name="buttonBackground">#6366F1</color>
+    <color name="buttonBackgroundPressed">#4F46E5</color>
+    <color name="buttonTextColor">#FFFFFF</color>
+    <color name="buttonSecondary">#2D2D2D</color>
+    <color name="buttonSecondaryText">#FFFFFF</color>
+    
+    <!-- Status Colors (same as light mode) -->
+    <color name="successColor">#10B981</color>
+    <color name="warningColor">#F59E0B</color>
+    <color name="errorColor">#EF4444</color>
+    <color name="infoColor">#3B82F6</color>
+    
+    <!-- Dark Utility Colors -->
+    <color name="dividerColor">#404040</color>
+    <color name="shadowColor">#000000</color>
+    <color name="overlayColor">#80000000</color>
+    
+    <!-- Gallery Blue (same as light mode) -->
+    <color name="galleryBlue">#9bbce4</color>
+    
+    <!-- Status Specific -->
+    <color name="lockedColor">#9bbce4</color>
+    <color name="unlockedColor">#9bbce4</color>
+    <color name="editColor">#9bbce4</color>
+    <color name="deleteColor">#9bbce4</color>
+    
+    <!-- Additional dark mode colors -->
+    <color name="deepGray">#1E1E1E</color>
+</resources>

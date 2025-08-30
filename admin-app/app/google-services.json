@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "27244686061",
+    "project_id": "ahk-finance-official",
+    "storage_bucket": "ahk-finance-official.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27244686061:android:7a3322c22bed759520bae4",
+        "android_client_info": {
+          "package_name": "com.emi.ahkadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVu61ALoXFHK6O9L8S00JYE6CHzpwhKmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27244686061:android:db4b54d6800506a920bae4",
+        "android_client_info": {
+          "package_name": "com.emi.ahkfinance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVu61ALoXFHK6O9L8S00JYE6CHzpwhKmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
