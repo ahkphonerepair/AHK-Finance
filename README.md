@@ -54,8 +54,8 @@ ahk-phone-repair/
 
 ### Setup Instructions
 ```bash
-git clone https://github.com/yourusername/ahk-phone-repair.git
-cd ahk-phone-repair/ahk-finance/
+git clone https://github.com/ahkphonerepair/AHK-Finance.git
+cd ahkphonerepair/AHK-Finance/
 
 1. Add google-services.json to both app/ modules
 
