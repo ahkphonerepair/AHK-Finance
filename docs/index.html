@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AHK Finance - Documentation</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/x-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📱</text></svg>">
+</head>
+<body>
+    <header class="header">
+        <div class="nav-container">
+            <a href="index.html" class="logo">📱 AHK Finance</a>
+            <nav>
+                <ul class="nav-menu">
+                    <li><a href="index.html" class="active">Home</a></li>
+                    <li><a href="readme.html">Overview</a></li>
+                    <li><a href="build-guide.html">Build Guide</a></li>
+                    <li><a href="configuration-guide.html">Configuration</a></li>
+                    <li><a href="release-notes.html">Release Notes</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="content">
+            <h1>AHK Finance Documentation</h1>
+            <p class="text-center" style="font-size: 1.2rem; color: #667eea; margin-bottom: 3rem;">
+                Complete documentation for the AHK Phone Repair EMI Management System
+            </p>
+
+            <div class="grid">
+                <div class="card">
+                    <h3>📋 Project Overview</h3>
+                    <p>Get started with AHK Finance - learn about the project structure, features, and technology stack used in this comprehensive EMI management system.</p>
+                    <a href="readme.html" class="btn">Read Overview</a>
+                </div>
+
+                <div class="card">
+                    <h3>🔨 Build Guide</h3>
+                    <p>Step-by-step instructions for building the Android applications, including prerequisites, build scripts, and troubleshooting tips.</p>
+                    <a href="build-guide.html" class="btn">View Build Guide</a>
+                </div>
+
+                <div class="card">
+                    <h3>⚙️ Configuration Guide</h3>
+                    <p>Detailed configuration instructions for setting up the EMI management system, including database setup and application configuration.</p>
+                    <a href="configuration-guide.html" class="btn">Configuration Guide</a>
+                </div>
+
+                <div class="card">
+                    <h3>📝 Release Notes</h3>
+                    <p>Stay updated with the latest changes, new features, bug fixes, and improvements in version 2.0 of the AHK Finance system.</p>
+                    <a href="release-notes.html" class="btn">Release Notes</a>
+                </div>
+            </div>
+
+            <div style="background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); padding: 2rem; border-radius: 10px; margin-top: 3rem; text-align: center;">
+                <h2>Quick Start</h2>
+                <p>New to AHK Finance? Follow these steps to get started:</p>
+                <ol style="text-align: left; max-width: 600px; margin: 0 auto;">
+                    <li><strong>Read the Overview:</strong> Understand the project structure and features</li>
+                    <li><strong>Check Prerequisites:</strong> Ensure you have all required tools installed</li>
+                    <li><strong>Follow Build Guide:</strong> Build the Android applications</li>
+                    <li><strong>Configure System:</strong> Set up the database and application settings</li>
+                    <li><strong>Deploy & Test:</strong> Deploy the applications and test functionality</li>
+                </ol>
+                <div style="margin-top: 2rem;">
+                    <a href="readme.html" class="btn" style="margin-right: 1rem;">Start with Overview</a>
+                    <a href="build-guide.html" class="btn">Jump to Build Guide</a>
+                </div>
+            </div>
+
+            <div style="margin-top: 3rem; padding: 2rem; background-color: #f8f9fa; border-radius: 10px; border-left: 4px solid #667eea;">
+                <h3>📚 Documentation Structure</h3>
+                <p>This documentation is organized into the following sections:</p>
+                <ul>
+                    <li><strong>Project Overview:</strong> Introduction, features, and technology stack</li>
+                    <li><strong>Build Guide:</strong> Compilation instructions and build scripts</li>
+                    <li><strong>Configuration Guide:</strong> Setup and configuration procedures</li>
+                    <li><strong>Release Notes:</strong> Version history and changelog</li>
+                </ul>
+                <p>Each section includes detailed information, code examples, and step-by-step instructions to help you work with the AHK Finance system effectively.</p>
+            </div>
+
+            <div style="margin-top: 3rem; text-align: center; padding: 2rem; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-radius: 10px;">
+                <h3>🚀 Ready to Get Started?</h3>
+                <p>Choose your path based on your role and needs:</p>
+                <div style="margin-top: 2rem;">
+                    <a href="readme.html" class="btn" style="background: rgba(255,255,255,0.2); margin: 0.5rem;">I'm New Here</a>
+                    <a href="build-guide.html" class="btn" style="background: rgba(255,255,255,0.2); margin: 0.5rem;">I Want to Build</a>
+                    <a href="configuration-guide.html" class="btn" style="background: rgba(255,255,255,0.2); margin: 0.5rem;">I Need to Configure</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <p>&copy; 2024 AHK Phone Repair. All rights reserved. | EMI Management System Documentation</p>
+    </footer>
+
+    <script>
+        // Add smooth scrolling for anchor links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+
+        // Add active navigation highlighting
+        const currentPage = window.location.pathname.split('/').pop() || 'index.html';
+        document.querySelectorAll('.nav-menu a').forEach(link => {
+            if (link.getAttribute('href') === currentPage) {
+                link.classList.add('active');
+            } else {
+                link.classList.remove('active');
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Release Notes v2.0 - AHK Finance Documentation</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <h1 class="logo">AHK Finance Documentation</h1>
+                <nav class="nav">
+                    <a href="index.html" class="nav-link">Home</a>
+                    <a href="readme.html" class="nav-link">README</a>
+                    <a href="build-guide.html" class="nav-link">Build Guide</a>
+                    <a href="configuration-guide.html" class="nav-link">Configuration</a>
+                    <a href="release-notes.html" class="nav-link active">Release Notes</a>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <main class="main">
+        <div class="container">
+            <div class="breadcrumb">
+                <a href="index.html">Home</a> &gt; <span>Release Notes v2.0</span>
+            </div>
+
+            <article class="content">
+                <h1>AHK Finance Project - Release Notes v2.0</h1>
+                
+                <div class="info-card">
+                    <p><strong>Release Date:</strong> January 2025</p>
+                    <p><strong>Version:</strong> 2.0 (Build 2)</p>
+                    <p><strong>Compatibility:</strong> Android 6.0+ (API Level 23)</p>
+                </div>
+
+                <h2 id="overview">🎯 Overview</h2>
+                <p>Version 2.0 represents a significant milestone in the AHK Finance project development, introducing enhanced payment link management capabilities, improved device administration features, and comprehensive configuration documentation. This release focuses on streamlining administrative workflows and providing better control over Finance device management.</p>
+
+                <h2 id="new-features">✨ New Features</h2>
+                
+                <h3>Payment Link Management System</h3>
+                <ul>
+                    <li><strong>Dynamic Payment Link Updates</strong>: Administrators can now update payment links for individual devices directly from the device management interface</li>
+                    <li><strong>Real-time Synchronization</strong>: Payment link changes are instantly synchronized with Firebase and reflected on client devices</li>
+                    <li><strong>Payment Link Validation</strong>: Enhanced validation system ensures only secure HTTPS links from trusted domains (bkash.com, nagad.com.bd) are accepted</li>
+                    <li><strong>Per-Device Configuration</strong>: Each device can now have its own unique payment link, allowing for personalized payment experiences</li>
+                </ul>
+
+                <h3>Enhanced Device Management</h3>
+                <ul>
+                    <li><strong>Improved Device Cards</strong>: Device information cards now display more comprehensive details including payment status and last activity</li>
+                    <li><strong>Location Tracking Integration</strong>: Enhanced location tracking capabilities for better device monitoring</li>
+                    <li><strong>Device Status Indicators</strong>: Visual indicators for device lock/unlock status and payment compliance</li>
+                </ul>
+
+                <h3>Administrative Interface Improvements</h3>
+                <ul>
+                    <li><strong>Streamlined Menu System</strong>: Reorganized main menu for better navigation and reduced clutter</li>
+                    <li><strong>Dialog-based Updates</strong>: Intuitive dialog interfaces for updating device configurations</li>
+                    <li><strong>Real-time Status Updates</strong>: Live updates of device status changes across the admin interface</li>
+                </ul>
+
+                <h2 id="enhancements">🔧 Enhancements</h2>
+                
+                <h3>Security Improvements</h3>
+                <ul>
+                    <li><strong>Enhanced Firebase Integration</strong>: Improved security protocols for Firebase communication</li>
+                    <li><strong>Encrypted Data Storage</strong>: Strengthened encryption for sensitive device and payment information</li>
+                    <li><strong>Anti-tampering Measures</strong>: Enhanced protection against unauthorized modifications</li>
+                </ul>
+
+                <h3>User Interface Refinements</h3>
+                <ul>
+                    <li><strong>Responsive Design</strong>: Improved layout responsiveness across different screen sizes</li>
+                    <li><strong>Visual Consistency</strong>: Standardized UI components and color schemes</li>
+                    <li><strong>Accessibility Improvements</strong>: Better support for accessibility features</li>
+                </ul>
+
+                <h3>Performance Optimizations</h3>
+                <ul>
+                    <li><strong>Reduced Memory Usage</strong>: Optimized memory management for better performance on low-end devices</li>
+                    <li><strong>Faster Data Synchronization</strong>: Improved Firebase sync performance</li>
+                    <li><strong>Background Process Optimization</strong>: Enhanced efficiency of background services</li>
+                </ul>
+
+                <h2 id="bug-fixes">🐛 Bug Fixes</h2>
+                
+                <h3>Build and Compilation Issues</h3>
+                <ul>
+                    <li><strong>Gradle Build Errors</strong>: Resolved multiple Gradle compilation issues that were preventing successful APK generation</li>
+                    <li><strong>Dependency Conflicts</strong>: Fixed conflicting library dependencies causing build failures</li>
+                    <li><strong>Resource Compilation</strong>: Corrected resource compilation errors in both admin and client apps</li>
+                </ul>
+                <p><em>For detailed build instructions, see the <a href="build-guide.html">Build Guide</a>.</em></p>
+
+                <h3>Firebase Integration Fixes</h3>
+                <ul>
+                    <li><strong>Authentication Issues</strong>: Resolved Firebase authentication problems affecting device registration</li>
+                    <li><strong>Data Synchronization</strong>: Fixed intermittent sync issues between client devices and Firebase backend</li>
+                    <li><strong>Real-time Updates</strong>: Corrected real-time listener registration problems</li>
+                </ul>
+
+                <h3>UI/UX Bug Fixes</h3>
+                <ul>
+                    <li><strong>Dialog Display Issues</strong>: Fixed dialog positioning and display problems on various screen sizes</li>
+                    <li><strong>Button Functionality</strong>: Resolved non-responsive button issues in device management interface</li>
+                    <li><strong>Layout Rendering</strong>: Corrected layout rendering problems in device cards</li>
+                </ul>
+
+                <h3>Device Management Fixes</h3>
+                <ul>
+                    <li><strong>Lock Screen Functionality</strong>: Fixed issues with lock screen display and interaction</li>
+                    <li><strong>Payment Link Updates</strong>: Resolved problems with payment link propagation to client devices</li>
+                    <li><strong>Device Status Reporting</strong>: Fixed inaccurate device status reporting in admin interface</li>
+                </ul>
+
+                <h2 id="documentation-improvements">📚 Documentation Improvements</h2>
+                
+                <h3>Configuration Guide</h3>
+                <ul>
+                    <li><strong>Comprehensive Configuration Documentation</strong>: Created detailed <a href="configuration-guide.html">AHK EMI Configuration Guide</a> documenting all configurable parameters</li>
+                    <li><strong>Parameter Reference</strong>: Complete reference for modifying support phone numbers, payment links, warning messages, and app branding</li>
+                    <li><strong>Testing Procedures</strong>: Step-by-step testing procedures for configuration changes</li>
+                    <li><strong>Troubleshooting Guide</strong>: Common issues and their solutions</li>
+                </ul>
+
+                <h3>Technical Documentation</h3>
+                <ul>
+                    <li><strong>File Structure Documentation</strong>: Detailed explanation of project file organization</li>
+                    <li><strong>API Reference</strong>: Documentation for Firebase integration and payment management APIs</li>
+                    <li><strong>Security Guidelines</strong>: Best practices for maintaining security in EMI applications</li>
+                </ul>
+
+                <h2 id="code-refactoring">🔄 Code Refactoring</h2>
+                
+                <h3>Architecture Improvements</h3>
+                <ul>
+                    <li><strong>Modular Design</strong>: Improved code organization with better separation of concerns</li>
+                    <li><strong>Clean Code Practices</strong>: Enhanced code readability and maintainability</li>
+                    <li><strong>Error Handling</strong>: Comprehensive error handling and logging mechanisms</li>
+                </ul>
+
+                <h3>Performance Optimizations</h3>
+                <ul>
+                    <li><strong>Database Queries</strong>: Optimized Firebase database queries for better performance</li>
+                    <li><strong>Memory Management</strong>: Improved memory usage patterns and garbage collection</li>
+                    <li><strong>Background Processing</strong>: Enhanced background task management</li>
+                </ul>
+
+                <h2 id="known-issues">⚠️ Known Issues</h2>
+                
+                <h3>Minor Issues</h3>
+                <ul>
+                    <li><strong>Occasional Sync Delays</strong>: In rare cases, payment link updates may take up to 30 seconds to propagate to all devices</li>
+                    <li><strong>Large Dataset Performance</strong>: Admin interface may experience slight delays when managing more than 1000 devices simultaneously</li>
+                </ul>
+
+                <h3>Workarounds</h3>
+                <ul>
+                    <li>For sync delays: Manual refresh of the admin interface will force immediate synchronization</li>
+                    <li>For large datasets: Use device filtering options to improve interface responsiveness</li>
+                </ul>
+
+                <h2 id="technical-requirements">🔧 Technical Requirements</h2>
+                
+                <h3>System Requirements</h3>
+                <ul>
+                    <li><strong>Android Version</strong>: Android 6.0 (API Level 23) or higher</li>
+                    <li><strong>RAM</strong>: Minimum 2GB RAM recommended</li>
+                    <li><strong>Storage</strong>: 50MB free space for app installation</li>
+                    <li><strong>Network</strong>: Stable internet connection required for Firebase synchronization</li>
+                </ul>
+
+                <h3>Development Environment</h3>
+                <ul>
+                    <li><strong>Android Studio</strong>: Arctic Fox (2020.3.1) or later</li>
+                    <li><strong>Gradle</strong>: Version 7.0 or higher</li>
+                    <li><strong>Kotlin</strong>: Version 1.5.0 or higher</li>
+                    <li><strong>Firebase</strong>: Latest SDK version</li>
+                </ul>
+
+                <h3>Dependencies</h3>
+                <ul>
+                    <li><strong>Firebase</strong>: Authentication, Realtime Database, Cloud Messaging</li>
+                    <li><strong>Material Design</strong>: Latest Material Components</li>
+                    <li><strong>Encryption</strong>: Android Keystore and EncryptedSharedPreferences</li>
+                </ul>
+
+                <h2 id="installation-instructions">🚀 Installation Instructions</h2>
+                
+                <h3>For Administrators</h3>
+                <ol>
+                    <li>Download the <code>admin-app-v2.0.apk</code> from the releases section</li>
+                    <li>Enable "Install from Unknown Sources" in Android settings</li>
+                    <li>Install the APK and grant necessary permissions</li>
+                    <li>Configure Firebase credentials as per the <a href="configuration-guide.html">configuration guide</a></li>
+                </ol>
+
+                <h3>For Client Devices</h3>
+                <ol>
+                    <li>Download the <code>client-app-v2.0.apk</code></li>
+                    <li>Install using device management tools or manual installation</li>
+                    <li>Complete device registration process</li>
+                    <li>Verify connectivity with admin backend</li>
+                </ol>
+
+                <h2 id="support-and-contact">📞 Support and Contact</h2>
+                
+                <h3>Technical Support</h3>
+                <ul>
+                    <li><strong>Primary Contact</strong>: 01XXXXXXXXX</li>
+                    <li><strong>Documentation</strong>: Refer to <a href="configuration-guide.html">AHK EMI Configuration Guide</a> for detailed configuration instructions</li>
+                    <li><strong>Issue Reporting</strong>: Use GitHub issues for bug reports and feature requests</li>
+                </ul>
+
+                <h3>Emergency Contact</h3>
+                <ul>
+                    <li><strong>24/7 Support</strong>: Available for critical system issues</li>
+                    <li><strong>Response Time</strong>: Within 4 hours for critical issues, 24 hours for general inquiries</li>
+                </ul>
+
+                <h2 id="future-roadmap">🔮 Future Roadmap</h2>
+                
+                <h3>Planned Features (v2.1)</h3>
+                <ul>
+                    <li><strong>Bulk Device Operations</strong>: Mass update capabilities for multiple devices</li>
+                    <li><strong>Advanced Analytics</strong>: Detailed reporting and analytics dashboard</li>
+                    <li><strong>Multi-language Support</strong>: Support for additional regional languages</li>
+                </ul>
+
+                <h3>Long-term Goals (v3.0)</h3>
+                <ul>
+                    <li><strong>Web-based Admin Panel</strong>: Browser-based administration interface</li>
+                    <li><strong>API Integration</strong>: RESTful API for third-party integrations</li>
+                    <li><strong>Advanced Security</strong>: Biometric authentication and enhanced encryption</li>
+                </ul>
+
+                <div class="info-card">
+                    <h3>Important Notes</h3>
+                    <p><strong>Note</strong>: This release represents a significant step forward in EMI device management capabilities. All users are encouraged to upgrade to version 2.0 to benefit from the enhanced features and improved stability.</p>
+                    
+                    <p><strong>Upgrade Path</strong>: Direct upgrade from v1.0 to v2.0 is supported. No data migration is required as all configurations are maintained in Firebase.</p>
+                    
+                    <p><strong>Testing</strong>: This release has been thoroughly tested across multiple device configurations and Android versions. However, we recommend testing in a controlled environment before full deployment.</p>
+                </div>
+
+                <div class="warning-card">
+                    <p><em>For technical questions or support, please refer to the <a href="configuration-guide.html">configuration guide</a> or contact our support team.</em></p>
+                </div>
+                
+                <h2>Related Documentation</h2>
+                <ul>
+                    <li><a href="readme.html">Project Overview</a> - Complete project documentation and setup instructions</li>
+                    <li><a href="build-guide.html">Build Guide</a> - Step-by-step instructions for building the project</li>
+                    <li><a href="configuration-guide.html">Configuration Guide</a> - Detailed configuration and customization options</li>
+                </ul>
+            </article>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2024 AHK Finance Project. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>

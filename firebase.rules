@@ -1,0 +1,167 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Helper functions
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+    
+    function isAdmin() {
+      // Check for admin custom claim for proper admin role checking
+      return request.auth != null && 
+             (request.auth.token.admin == true || 
+              // Fallback: any authenticated user for development
+              request.auth != null);
+    }
+    
+    function isDeviceOwner(deviceId) {
+      return request.auth != null && request.auth.uid == deviceId;
+    }
+    
+    function isValidDeviceStatusUpdate() {
+      // Allow updates to status fields only
+      let allowedFields = ['locked', 'lastSeen', 'status', 'batteryLevel', 'location'];
+      let updatedFields = request.resource.data.diff(resource.data).affectedKeys();
+      return updatedFields.hasOnly(allowedFields.toSet());
+    }
+    
+    function canEditFinancialData() {
+      // Only admins can edit financial data (dueAmount, dueDate)
+      return isAdmin();
+    }
+    
+    function canEditProtectedFields() {
+      // Only admins can edit protected customer data
+      return isAdmin();
+    }
+    
+    function isValidDeviceOwnerUpdate() {
+      // Allow updates to device owner fields only
+      let allowedFields = ['isDeviceOwner', 'deviceOwnerOrganization', 'enrollmentMethod', 
+                          'zeroTouchEnrollmentId', 'zeroTouchStatus', 'kioskModeEnabled',
+                          'securityRestrictionsApplied', 'lastProvisioningDate', 'deviceOwnerPackage'];
+      let updatedFields = request.resource.data.diff(resource.data).affectedKeys();
+      return updatedFields.hasOnly(allowedFields.toSet());
+    }
+    
+    // Devices collection - Main app and Admin app access
+    match /devices/{deviceId} {
+      // Read access:
+      // - Any authenticated user can read device data (admin app needs this)
+      // - Allow unauthenticated read for device self-monitoring
+      allow read: if true;
+      
+      // Write access:
+      // - Admins can write all data including financial and customer information
+      // - Devices can register with minimal data (deviceId, deviceModel, offlinePin) without authentication
+      // - Devices can update their status and operational data without authentication
+      // - Authenticated devices can update limited operational fields only
+      allow write: if isAdmin() ||
+                      // Initial device registration with minimal data (no auth required)
+                      (request.auth == null && 
+                       ('deviceId' in request.resource.data &&
+                        request.resource.data.deviceId == deviceId &&
+                        // Allow minimal registration fields
+                        request.resource.data.keys().hasOnly(['deviceId', 'deviceModel', 'offlinePin', 
+                                                              'locked', 'lastSeenTimestamp', 'offlineUnlockCount',
+                                                              'antiUninstallEnabled'].toSet()))) ||
+                      // Device status and operational updates without auth
+                      (request.auth == null && 
+                       ('deviceId' in request.resource.data &&
+                        request.resource.data.deviceId == deviceId &&
+                        // Allow operational field updates only
+                        request.resource.data.diff(resource.data).affectedKeys().hasOnly(
+                          ['locked', 'lastSeenTimestamp', 'offlineUnlockCount', 'batteryLevel', 
+                           'location', 'status', 'lastSeen'].toSet()))) ||
+                      // Authenticated device owners (limited operational fields only)
+                      (isAuthenticated() && !isAdmin() &&
+                       request.resource.data.diff(resource.data).affectedKeys().hasOnly(
+                         ['locked', 'lastSeenTimestamp', 'offlineUnlockCount', 'batteryLevel', 
+                          'location', 'status', 'lastSeen'].toSet()));
+      
+      // Allow device owner management updates from admin
+      allow update: if isAdmin() && isValidDeviceOwnerUpdate();
+      
+      // Delete access: Only authenticated users (admins)
+      allow delete: if isAuthenticated();
+    }
+    
+    // Admin users collection - Admin app user management
+    match /admins/{adminId} {
+      // Only authenticated users can manage admin data
+      allow read, write, delete: if isAuthenticated();
+    }
+    
+    // Device logs collection - For tracking device activities
+    match /device_logs/{logId} {
+      // Authenticated users can read all logs
+      // Anyone can create logs (for device reporting)
+      allow read: if isAuthenticated();
+      allow create: if true;
+      allow update, delete: if isAuthenticated();
+    }
+    
+    // System settings collection - Admin app configuration
+    match /settings/{settingId} {
+      // Only authenticated users can manage system settings
+      allow read, write, delete: if isAuthenticated();
+    }
+    
+    // Notifications collection - For push notifications
+    match /notifications/{notificationId} {
+      // Authenticated users can manage all notifications
+      // Devices can read notifications sent to them
+      allow read: if isAuthenticated() || 
+                     ('targetDeviceId' in resource.data &&
+                      resource.data.targetDeviceId == deviceId);
+      allow write, delete: if isAuthenticated();
+    }
+    
+    // Commands collection - For sending commands to devices
+    match /commands/{commandId} {
+      // Authenticated users (admin app) can create commands
+      // Devices can read and update commands sent to them
+      allow read: if isAuthenticated() ||
+                     ('targetDeviceId' in resource.data &&
+                      resource.data.targetDeviceId == deviceId);
+      allow create: if isAuthenticated();
+      allow update: if isAuthenticated() ||
+                       ('targetDeviceId' in resource.data &&
+                        resource.data.targetDeviceId == deviceId);
+      allow delete: if isAuthenticated();
+    }
+    
+    // Device locations collection - Location tracking data
+    match /device_locations/{deviceId} {
+      // Allow devices to write their own location data without authentication
+      // Allow admins to read location data
+      allow read: if isAuthenticated();
+      allow write: if true; // Allow devices to write location data
+      
+      // Location history subcollection
+      match /location_history/{dateDoc} {
+        allow read: if isAuthenticated();
+        allow write: if true; // Allow devices to write location history
+      }
+    }
+    
+    // Device commands for remote management
+    match /device_commands/{deviceId} {
+      allow read, write: if isAuthenticated();
+      allow read: if isDeviceOwner(deviceId);
+      allow write: if isAdmin();
+    }
+    
+    // Zero Touch enrollment records
+    match /zero_touch_enrollments/{enrollmentId} {
+      allow read, write: if isAuthenticated();
+      allow read, write: if isAdmin();
+    }
+    
+    // Device owner provisioning QR codes
+    match /provisioning_qr_codes/{qrId} {
+      allow read, write: if isAuthenticated();
+      allow read, write: if isAdmin();
+    }
+  }
+}

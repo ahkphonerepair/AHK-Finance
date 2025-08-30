@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AHK Finance - Project Overview</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/x-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📱</text></svg>">
+</head>
+<body>
+    <header class="header">
+        <div class="nav-container">
+            <a href="index.html" class="logo">📱 AHK Finance</a>
+            <nav>
+                <ul class="nav-menu">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="readme.html" class="active">Overview</a></li>
+                    <li><a href="build-guide.html">Build Guide</a></li>
+                    <li><a href="configuration-guide.html">Configuration</a></li>
+                    <li><a href="release-notes.html">Release Notes</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="breadcrumb">
+            <a href="index.html">Home</a>
+            <span>/</span>
+            <span>Project Overview</span>
+        </div>
+
+        <div class="content">
+            <h1>AHK Finance - Android Device Management System</h1>
+            
+            <div style="text-align: center; margin: 2rem 0;">
+                <span style="background: #007bff; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; margin: 0.2rem; display: inline-block;">Version 2.0</span>
+                <span style="background: #dc3545; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; margin: 0.2rem; display: inline-block;">Proprietary License</span>
+                <span style="background: #28a745; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; margin: 0.2rem; display: inline-block;">Android Platform</span>
+                <span style="background: #fd7e14; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; margin: 0.2rem; display: inline-block;">Firebase Backend</span>
+            </div>
+
+            <h2>📱 Overview</h2>
+            <p>AHK Finance is a comprehensive Android device management system designed for EMI (Equated Monthly Installment) tracking and device control. The system consists of two main applications: an Admin App for management and monitoring, and a Client App for device enforcement and payment tracking.</p>
+
+            <h2>🏗️ Architecture</h2>
+            <pre><code>AHK Finance System
+├── Admin Application (Management Interface)
+│   ├── Device Management
+│   ├── Payment Link Updates
+│   ├── Real-time Monitoring
+│   └── User Administration
+│
+├── Client Application (Device Enforcement)
+│   ├── Device Lock/Unlock Control
+│   ├── Payment Status Monitoring
+│   ├── Location Tracking
+│   └── Anti-tampering Protection
+│
+└── Backend Services
+    ├── Firebase Realtime Database
+    ├── Firebase Cloud Messaging
+    ├── Firebase Authentication
+    └── Cloud Functions</code></pre>
+
+            <h2>✨ Key Features</h2>
+            
+            <div class="grid">
+                <div class="card">
+                    <h3>Admin Application</h3>
+                    <ul>
+                        <li><strong>📊 Device Management Dashboard:</strong> Real-time monitoring of all registered devices</li>
+                        <li><strong>💳 Payment Link Management:</strong> Dynamic payment URL updates for individual devices</li>
+                        <li><strong>🔒 Remote Device Control:</strong> Lock/unlock devices remotely</li>
+                        <li><strong>📍 Location Tracking:</strong> GPS-based device location monitoring</li>
+                        <li><strong>📱 Device Information:</strong> Hardware specs, IMEI, and system details</li>
+                        <li><strong>🔔 Push Notifications:</strong> Send alerts and messages to client devices</li>
+                        <li><strong>📈 Analytics &amp; Reporting:</strong> Payment status and device usage analytics</li>
+                    </ul>
+                </div>
+
+                <div class="card">
+                    <h3>Client Application</h3>
+                    <ul>
+                        <li><strong>🔐 Automatic Device Locking:</strong> Locks device when payment is overdue</li>
+                        <li><strong>⚠️ Payment Reminders:</strong> Customizable warning messages in Bengali</li>
+                        <li><strong>🛡️ Anti-tampering Protection:</strong> Prevents uninstallation and system modifications</li>
+                        <li><strong>📍 Location Services:</strong> Continuous GPS tracking for device recovery</li>
+                        <li><strong>🔔 Real-time Notifications:</strong> Instant updates from admin system</li>
+                        <li><strong>📞 Support Integration:</strong> Direct access to customer support</li>
+                        <li><strong>🎨 Customizable Branding:</strong> Company logo and messaging customization</li>
+                    </ul>
+                </div>
+            </div>
+
+            <h2>🛠️ Technology Stack</h2>
+            
+            <div class="grid">
+                <div class="card">
+                    <h3>Frontend (Android)</h3>
+                    <ul>
+                        <li><strong>Language:</strong> Kotlin</li>
+                        <li><strong>UI Framework:</strong> Android Views with Material Design</li>
+                        <li><strong>Architecture:</strong> MVVM (Model-View-ViewModel)</li>
+                        <li><strong>Dependency Injection:</strong> Manual DI</li>
+                        <li><strong>Image Loading:</strong> Glide</li>
+                        <li><strong>HTTP Client:</strong> Retrofit + OkHttp</li>
+                    </ul>
+                </div>
+
+                <div class="card">
+                    <h3>Backend Services</h3>
+                    <ul>
+                        <li><strong>Database:</strong> Firebase Realtime Database</li>
+                        <li><strong>Authentication:</strong> Firebase Auth</li>
+                        <li><strong>Cloud Messaging:</strong> Firebase Cloud Messaging (FCM)</li>
+                        <li><strong>Storage:</strong> Firebase Storage</li>
+                        <li><strong>Analytics:</strong> Firebase Analytics</li>
+                    </ul>
+                </div>
+
+                <div class="card">
+                    <h3>Development Tools</h3>
+                    <ul>
+                        <li><strong>IDE:</strong> Android Studio</li>
+                        <li><strong>Build System:</strong> Gradle</li>
+                        <li><strong>Version Control:</strong> Git</li>
+                        <li><strong>Code Signing:</strong> Custom keystore management</li>
+                    </ul>
+                </div>
+            </div>
+
+            <h2>📚 Documentation</h2>
+            <p>Comprehensive documentation is available to help you get started and configure the AHK Finance system:</p>
+            
+            <div class="grid">
+                <div class="card">
+                    <h3>🔧 Build &amp; Setup</h3>
+                    <p><strong><a href="build-guide.html">BUILD_GUIDE.md</a></strong> - Complete build script documentation with automated build processes, cross-platform compatibility, and APK management</p>
+                </div>
+
+                <div class="card">
+                    <h3>⚙️ Configuration</h3>
+                    <p><strong><a href="configuration-guide.html">AHK_Finance_Configuration_Guide.md</a></strong> - Main configuration guide for system setup and customization</p>
+                </div>
+
+                <div class="card">
+                    <h3>📋 Release Information</h3>
+                    <p><strong><a href="release-notes.html">RELEASE_NOTES_v2.0.md</a></strong> - Version 2.0 release notes with new features, improvements, and breaking changes</p>
+                </div>
+            </div>
+
+            <blockquote>
+                💡 <strong>Quick Start:</strong> Begin with the <a href="build-guide.html">BUILD_GUIDE.md</a> for automated build processes, then refer to the <a href="configuration-guide.html">Configuration Guide</a> for system setup.
+            </blockquote>
+
+            <h2>📋 Prerequisites</h2>
+            
+            <div class="grid">
+                <div class="card">
+                    <h3>Development Environment</h3>
+                    <ul>
+                        <li><strong>Android Studio:</strong> Arctic Fox (2020.3.1) or later</li>
+                        <li><strong>JDK:</strong> Java 8 or later</li>
+                        <li><strong>Android SDK:</strong> API Level 21 (Android 5.0) minimum</li>
+                        <li><strong>Gradle:</strong> 7.0 or later</li>
+                    </ul>
+                </div>
+
+                <div class="card">
+                    <h3>Firebase Setup</h3>
+                    <ul>
+                        <li>Firebase project with Realtime Database enabled</li>
+                        <li>Firebase Authentication configured</li>
+                        <li>FCM service keys generated</li>
+                        <li><code>google-services.json</code> files configured</li>
+                    </ul>
+                </div>
+
+                <div class="card">
+                    <h3>Device Requirements</h3>
+                    <ul>
+                        <li><strong>Minimum Android Version:</strong> 5.0 (API 21)</li>
+                        <li><strong>Target Android Version:</strong> 13 (API 33)</li>
+                        <li><strong>RAM:</strong> 2GB minimum, 4GB recommended</li>
+                        <li><strong>Storage:</strong> 100MB available space</li>
+                        <li><strong>Permissions:</strong> Device Admin, Location, Storage, Phone</li>
+                    </ul>
+                </div>
+            </div>
+
+            <h2>🚀 Installation</h2>
+
+            <h3>1. Clone Repository</h3>
+            <pre><code>git clone https://github.com/your-org/ahk-emi.git
+cd ahk-emi</code></pre>
+
+            <h3>2. Firebase Configuration</h3>
+            
+            <h4>Admin App</h4>
+            <pre><code># Place your google-services.json in admin-app/app/
+cp path/to/admin-google-services.json admin-app/app/google-services.json</code></pre>
+
+            <h4>Client App</h4>
+            <pre><code># Place your google-services.json in android-client-app/app/
+cp path/to/client-google-services.json android-client-app/app/google-services.json</code></pre>
+
+            <h3>3. Keystore Setup</h3>
+            <pre><code># Ensure keystore files are in project root
+ls -la ahk-release-key*.jks
+
+# Verify keystore integrity
+keytool -list -keystore ahk-release-key-v2.jks</code></pre>
+
+            <h3>4. Build Applications</h3>
+            
+            <h4>Debug Build</h4>
+            <pre><code># Admin App
+cd admin-app
+./gradlew assembleDebug
+
+# Client App
+cd ../android-client-app
+./gradlew assembleDebug</code></pre>
+
+            <h4>Release Build</h4>
+            <pre><code># Admin App
+cd admin-app
+./gradlew assembleRelease
+
+# Client App
+cd ../android-client-app
+./gradlew assembleRelease</code></pre>
+
+            <h2>📱 Usage</h2>
+            
+            <div class="grid">
+                <div class="card">
+                    <h3>Admin Application Workflow</h3>
+                    <ol>
+                        <li><strong>Initial Setup</strong>
+                            <ul>
+                                <li>Install admin APK on management device</li>
+                                <li>Configure Firebase credentials</li>
+                                <li>Set up admin user accounts</li>
+                            </ul>
+                        </li>
+                        <li><strong>Device Registration</strong>
+                            <ul>
+                                <li>Add new devices to the system</li>
+                                <li>Configure payment links for each device</li>
+                                <li>Set device-specific parameters</li>
+                            </ul>
+                        </li>
+                        <li><strong>Monitoring &amp; Management</strong>
+                            <ul>
+                                <li>Monitor device status in real-time</li>
+                                <li>Update payment links as needed</li>
+                                <li>Send notifications to client devices</li>
+                                <li>Track device locations</li>
+                            </ul>
+                        </li>
+                    </ol>
+                </div>
+
+                <div class="card">
+                    <h3>Client Application Workflow</h3>
+                    <ol>
+                        <li><strong>Device Setup</strong>
+                            <ul>
+                                <li>Install client APK on target device</li>
+                                <li>Grant required permissions</li>
+                                <li>Enable device administrator privileges</li>
+                            </ul>
+                        </li>
+                        <li><strong>Registration</strong>
+                            <ul>
+                                <li>Device automatically registers with backend</li>
+                                <li>Receives initial configuration from admin</li>
+                                <li>Starts monitoring services</li>
+                            </ul>
+                        </li>
+                        <li><strong>Operation</strong>
+                            <ul>
+                                <li>Monitors payment status continuously</li>
+                                <li>Displays warnings when payment is due</li>
+                                <li>Locks device if payment is overdue</li>
+                                <li>Reports location and status to admin</li>
+                            </ul>
+                        </li>
+                    </ol>
+                </div>
+            </div>
+
+            <h2>⚙️ Configuration</h2>
+
+            <h3>Environment Variables</h3>
+            <pre><code># Keystore Configuration
+export KEYSTORE_PATH="/path/to/ahk-release-key-v2.jks"
+export KEYSTORE_PASSWORD="your_keystore_password"
+export KEY_ALIAS="ahk_release_key"
+export KEY_PASSWORD="your_key_password"
+
+# Firebase Configuration
+export FIREBASE_PROJECT_ID="your-project-id"
+export FIREBASE_API_KEY="your-api-key"</code></pre>
+
+            <h3>Customization Options</h3>
+            <p>Refer to the <a href="configuration-guide.html">AHK EMI Configuration Guide</a> for detailed configuration instructions including:</p>
+            <ul>
+                <li>Support phone number updates</li>
+                <li>Payment link configuration</li>
+                <li>Warning message customization</li>
+                <li>App branding modifications</li>
+                <li>APK signature management</li>
+            </ul>
+
+            <h2>🧪 Testing</h2>
+
+            <h3>Unit Testing</h3>
+            <pre><code># Run unit tests for admin app
+cd admin-app
+./gradlew test
+
+# Run unit tests for client app
+cd android-client-app
+./gradlew test</code></pre>
+
+            <h3>Integration Testing</h3>
+            <pre><code># Run instrumented tests
+./gradlew connectedAndroidTest</code></pre>
+
+            <h3>Manual Testing Checklist</h3>
+            <ul>
+                <li>☐ Device registration and authentication</li>
+                <li>☐ Payment link updates and validation</li>
+                <li>☐ Device lock/unlock functionality</li>
+                <li>☐ Location tracking accuracy</li>
+                <li>☐ Push notification delivery</li>
+                <li>☐ Anti-tampering protection</li>
+                <li>☐ Support contact integration</li>
+            </ul>
+
+            <h2>📊 Monitoring &amp; Analytics</h2>
+            
+            <div class="grid">
+                <div class="card">
+                    <h3>Firebase Analytics Events</h3>
+                    <ul>
+                        <li>Device registration events</li>
+                        <li>Payment status changes</li>
+                        <li>Lock/unlock actions</li>
+                        <li>Location updates</li>
+                        <li>App usage metrics</li>
+                    </ul>
+                </div>
+
+                <div class="card">
+                    <h3>Performance Monitoring</h3>
+                    <ul>
+                        <li>App startup time</li>
+                        <li>Network request latency</li>
+                        <li>Battery usage optimization</li>
+                        <li>Memory consumption tracking</li>
+                    </ul>
+                </div>
+            </div>
+
+            <h2>🔒 Security Features</h2>
+            
+            <div class="grid">
+                <div class="card">
+                    <h3>Client App Protection</h3>
+                    <ul>
+                        <li><strong>Anti-uninstall:</strong> Prevents unauthorized app removal</li>
+                        <li><strong>Root Detection:</strong> Detects and responds to rooted devices</li>
+                        <li><strong>Tamper Protection:</strong> Monitors system modifications</li>
+                        <li><strong>Secure Communication:</strong> Encrypted data transmission</li>
+                    </ul>
+                </div>
+
+                <div class="card">
+                    <h3>Data Security</h3>
+                    <ul>
+                        <li><strong>Firebase Security Rules:</strong> Restricts database access</li>
+                        <li><strong>API Key Protection:</strong> Secure key management</li>
+                        <li><strong>User Authentication:</strong> Multi-factor authentication support</li>
+                        <li><strong>Data Encryption:</strong> End-to-end encryption for sensitive data</li>
+                    </ul>
+                </div>
+            </div>
+
+            <h2>🚨 Troubleshooting</h2>
+
+            <h3>Common Issues</h3>
+            
+            <h4>Build Errors</h4>
+            <pre><code># Clean and rebuild
+./gradlew clean
+./gradlew build
+
+# Check dependency conflicts
+./gradlew dependencies</code></pre>
+
+            <h4>Firebase Connection Issues</h4>
+            <pre><code># Verify google-services.json placement
+# Check Firebase project configuration
+# Validate API keys and permissions</code></pre>
+
+            <h4>Device Admin Issues</h4>
+            <pre><code># Ensure device admin permissions are granted
+# Check for conflicting device policies
+# Verify app is not in battery optimization whitelist</code></pre>
+
+            <h3>Debug Commands</h3>
+            <pre><code># Check APK signature
+apksigner verify --verbose app-release.apk
+
+# View device logs
+adb logcat | grep "AHK"
+
+# Check app permissions
+adb shell dumpsys package com.ahk.emi.client</code></pre>
+
+            <h2>📈 Performance Optimization</h2>
+            
+            <div class="grid">
+                <div class="card">
+                    <h3>Battery Optimization</h3>
+                    <ul>
+                        <li>Background service optimization</li>
+                        <li>Efficient location tracking</li>
+                        <li>Smart notification scheduling</li>
+                        <li>Doze mode compatibility</li>
+                    </ul>
+                </div>
+
+                <div class="card">
+                    <h3>Network Optimization</h3>
+                    <ul>
+                        <li>Request batching</li>
+                        <li>Offline capability</li>
+                        <li>Data compression</li>
+                        <li>Connection pooling</li>
+                    </ul>
+                </div>
+            </div>
+
+            <h2>🔄 Version History</h2>
+            
+            <h3>Version 2.0 (Current)</h3>
+            <ul>
+                <li>Enhanced device management interface</li>
+                <li>Improved payment link system</li>
+                <li>Better security features</li>
+                <li>Performance optimizations</li>
+                <li>Updated Firebase integration</li>
+            </ul>
+
+            <h3>Version 1.0</h3>
+            <ul>
+                <li>Initial release</li>
+                <li>Basic device management</li>
+                <li>Payment tracking</li>
+                <li>Location services</li>
+            </ul>
+
+            <p>See <a href="release-notes.html">RELEASE_NOTES_v2.0.md</a> for detailed changelog.</p>
+
+            <h2>🤝 Contributing</h2>
+            
+            <div class="grid">
+                <div class="card">
+                    <h3>Development Guidelines</h3>
+                    <ol>
+                        <li>Follow Android development best practices</li>
+                        <li>Maintain code documentation</li>
+                        <li>Write unit tests for new features</li>
+                        <li>Follow Git commit message conventions</li>
+                        <li>Ensure security compliance</li>
+                    </ol>
+                </div>
+
+                <div class="card">
+                    <h3>Code Style</h3>
+                    <ul>
+                        <li>Follow Kotlin coding conventions</li>
+                        <li>Use meaningful variable and function names</li>
+                        <li>Add comments for complex logic</li>
+                        <li>Maintain consistent indentation</li>
+                    </ul>
+                </div>
+            </div>
+
+            <h2>📞 Support</h2>
+            
+            <div class="grid">
+                <div class="card">
+                    <h3>Technical Support</h3>
+                    <ul>
+                        <li><strong>Email:</strong> support@ahkfinance.com</li>
+                        <li><strong>Phone:</strong> +880-1234-567890</li>
+                        <li><strong>Documentation:</strong> <a href="configuration-guide.html">Configuration Guide</a></li>
+                    </ul>
+                </div>
+
+                <div class="card">
+                    <h3>Business Inquiries</h3>
+                    <ul>
+                        <li><strong>Email:</strong> business@ahkfinance.com</li>
+                        <li><strong>Phone:</strong> +880-1234-567891</li>
+                    </ul>
+                </div>
+            </div>
+
+            <h2>📄 License</h2>
+            <p>This project is proprietary software owned by AHK Finance. All rights reserved.</p>
+            
+            <div style="background-color: #f8d7da; border: 1px solid #f5c6cb; color: #721c24; padding: 1rem; border-radius: 5px; margin: 1rem 0;">
+                <strong>Restrictions:</strong>
+                <ul>
+                    <li>No unauthorized copying or distribution</li>
+                    <li>No reverse engineering</li>
+                    <li>Commercial use requires explicit permission</li>
+                    <li>Source code access is limited to authorized personnel</li>
+                </ul>
+            </div>
+
+            <h2>🙏 Acknowledgments</h2>
+            <ul>
+                <li>Firebase team for backend services</li>
+                <li>Android development community</li>
+                <li>Material Design guidelines</li>
+                <li>Open source libraries used in the project</li>
+            </ul>
+
+            <div style="text-align: center; margin: 3rem 0; padding: 2rem; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-radius: 10px;">
+                <p><strong>© 2024 AHK Finance. All rights reserved.</strong></p>
+                <p><em>For technical documentation and configuration details, please refer to the <a href="configuration-guide.html" style="color: #ffd700;">AHK EMI Configuration Guide</a>.</em></p>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <p>&copy; 2024 AHK Phone Repair. All rights reserved. | EMI Management System Documentation</p>
+    </footer>
+
+    <script>
+        // Add smooth scrolling for anchor links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+
+        // Add active navigation highlighting
+        const currentPage = window.location.pathname.split('/').pop() || 'index.html';
+        document.querySelectorAll('.nav-menu a').forEach(link => {
+            if (link.getAttribute('href') === currentPage) {
+                link.classList.add('active');
+            } else {
+                link.classList.remove('active');
+            }
+        });
+    </script>
+</body>
+</html>

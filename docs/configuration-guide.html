@@ -1,0 +1,1014 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AHK Finance Configuration Guide - Documentation</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <h1 class="logo">AHK Finance Documentation</h1>
+                <nav class="nav">
+                    <a href="index.html" class="nav-link">Home</a>
+                    <a href="readme.html" class="nav-link">README</a>
+                    <a href="build-guide.html" class="nav-link">Build Guide</a>
+                    <a href="configuration-guide.html" class="nav-link active">Configuration</a>
+                    <a href="release-notes.html" class="nav-link">Release Notes</a>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <main class="main">
+        <div class="container">
+            <div class="breadcrumb">
+                <a href="index.html">Home</a> &gt; <span>Configuration Guide</span>
+            </div>
+
+            <article class="content">
+                <h1>AHK Finance Project Configuration Guide</h1>
+                
+                <p>This comprehensive guide explains how to modify key parameters in the AHK Finance project for customization. The project consists of an Android client app and an admin app for managing EMI (Equated Monthly Installment) devices.</p>
+
+                <h2 id="table-of-contents">Table of Contents</h2>
+                <ol>
+                    <li><a href="#project-structure">Project Structure</a></li>
+                    <li><a href="#support-phone-number-configuration">Support Phone Number Configuration</a></li>
+                    <li><a href="#payment-link-configuration">Payment Link Configuration</a></li>
+                    <li><a href="#warning-message-content">Warning Message Content</a></li>
+                    <li><a href="#lockscreen-message-content">Lockscreen Message Content</a></li>
+                    <li><a href="#payment-dialog-message-configuration">Payment Dialog Message Configuration</a></li>
+                    <li><a href="#app-branding-configuration">App Branding Configuration</a></li>
+                    <li><a href="#apk-signature-configuration">APK Signature Configuration</a></li>
+                    <li><a href="#testing-procedures">Testing Procedures</a></li>
+                    <li><a href="#impact-analysis">Impact Analysis</a></li>
+                </ol>
+
+                <h2 id="project-structure">Project Structure</h2>
+                <p>The project contains two main applications:</p>
+                
+                <pre><code>ahkemi/
+├── android-client-app/          # Main EMI client application
+│   └── app/src/main/
+│       ├── kotlin/com/emi/ahkfinance/
+│       └── res/values/
+└── admin-app/                   # Admin management application
+    └── app/src/main/
+        ├── kotlin/com/emi/ahkadmin/
+        └── res/values/</code></pre>
+
+                <h2 id="support-phone-number-configuration">Support Phone Number Configuration</h2>
+                
+                <h3>1. Lockscreen Activity Phone Number</h3>
+                <p><strong>Location:</strong> <code>android-client-app/app/src/main/kotlin/com/emi/ahkfinance/LockScreen.kt</code></p>
+                
+                <p><strong>Current Configuration:</strong></p>
+                <pre><code class="language-kotlin">// Line ~388: Hardcoded phone number in lockscreen
+val phoneNumber = "01XXXXXXXXX"</code></pre>
+                
+                <div class="info-card">
+                    <h4>Parameter Details:</h4>
+                    <ul>
+                        <li><strong>Variable Name:</strong> <code>phoneNumber</code> (hardcoded)</li>
+                        <li><strong>Format:</strong> Bangladeshi mobile number format (11 digits starting with 01)</li>
+                        <li><strong>Current Value:</strong> <code>01XXXXXXXXX</code></li>
+                        <li><strong>Location in Code:</strong> Line 388 in <code>LockScreen.kt</code></li>
+                    </ul>
+                </div>
+                
+                <h4>How to Modify:</h4>
+                <ol>
+                    <li>Open <code>LockScreen.kt</code></li>
+                    <li>Locate the hardcoded phone number <code>01XXXXXXXXX</code></li>
+                    <li>Replace with your desired support number</li>
+                    <li>Ensure the format follows Bangladeshi mobile standards</li>
+                </ol>
+                
+                <p><strong>Example:</strong></p>
+                <pre><code class="language-kotlin">// Before
+val phoneNumber = "01XXXXXXXXX"
+
+// After
+val phoneNumber = "01712345678"</code></pre>
+
+                <h3>2. Payment Dialog Phone Numbers</h3>
+                <p><strong>Location:</strong> <code>android-client-app/app/src/main/kotlin/com/emi/ahkfinance/FirebaseModule.kt</code></p>
+                
+                <p><strong>Current Configuration:</strong></p>
+                <pre><code class="language-kotlin">// Line 12: Default payment link contains phone number
+private const val DEFAULT_PAYMENT_LINK = "https://shop.bkash.com/ahk-phone-repair01XXXXXXXXX/paymentlink"</code></pre>
+                
+                <div class="info-card">
+                    <h4>Parameter Details:</h4>
+                    <ul>
+                        <li><strong>Constant Name:</strong> <code>DEFAULT_PAYMENT_LINK</code></li>
+                        <li><strong>Format:</strong> bKash payment URL with embedded phone number</li>
+                        <li><strong>Current Value:</strong> Contains <code>01XXXXXXXXX</code></li>
+                        <li><strong>Location:</strong> Line 12 in <code>FirebaseModule.kt</code></li>
+                    </ul>
+                </div>
+
+                <h2 id="payment-link-configuration">Payment Link Configuration</h2>
+                
+                <h3>Default Payment Link Setup</h3>
+                <p><strong>Location:</strong> <code>android-client-app/app/src/main/kotlin/com/emi/ahkfinance/FirebaseModule.kt</code></p>
+                
+                <p><strong>Configuration Details:</strong></p>
+                <pre><code class="language-kotlin">private const val DEFAULT_PAYMENT_LINK = "https://shop.bkash.com/ahk-phone-repair01XXXXXXXXX/paymentlink"</code></pre>
+                
+                <div class="info-card">
+                    <h4>Parameter Specifications:</h4>
+                    <ul>
+                        <li><strong>Variable:</strong> <code>DEFAULT_PAYMENT_LINK</code></li>
+                        <li><strong>Type:</strong> Private constant string</li>
+                        <li><strong>Format Requirements:</strong>
+                            <ul>
+                                <li>Must be HTTPS URL</li>
+                                <li>Supported domains: <code>bkash.com</code>, <code>nagad.com.bd</code></li>
+                                <li>URL validation is performed in <code>PaymentManager.kt</code></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+                
+                <p><strong>Validation Logic:</strong></p>
+                <pre><code class="language-kotlin">// PaymentManager.kt validates payment links
+fun isValidPaymentLink(link: String): Boolean {
+    return link.startsWith("https://") && 
+           (link.contains("bkash.com") || link.contains("nagad.com.bd"))
+}</code></pre>
+                
+                <h4>How to Modify:</h4>
+                <ol>
+                    <li>Open <code>FirebaseModule.kt</code></li>
+                    <li>Locate <code>DEFAULT_PAYMENT_LINK</code> constant</li>
+                    <li>Replace with your payment URL</li>
+                    <li>Ensure URL meets validation requirements</li>
+                </ol>
+                
+                <p><strong>Valid Examples:</strong></p>
+                <pre><code class="language-kotlin">// bKash payment link
+private const val DEFAULT_PAYMENT_LINK = "https://shop.bkash.com/your-merchant-id/paymentlink"
+
+// Nagad payment link
+private const val DEFAULT_PAYMENT_LINK = "https://nagad.com.bd/your-merchant/payment"</code></pre>
+
+                <h3>Dynamic Payment Link Updates</h3>
+                <p>The system supports runtime payment link updates through Firebase:</p>
+                
+                <p><strong>Functions Available:</strong></p>
+                <ul>
+                    <li><code>updatePaymentLink(deviceId, paymentLink, onSuccess, onFailure)</code></li>
+                    <li><code>getPaymentLink(deviceId, onSuccess, onFailure)</code></li>
+                    <li><code>listenForPaymentLinkChanges(deviceId, onPaymentLinkChanged)</code></li>
+                </ul>
+
+                <h2 id="warning-message-content">Warning Message Content</h2>
+                
+                <h3>1. Permission Warning Messages</h3>
+                <p><strong>Location:</strong> <code>android-client-app/app/src/main/res/values/strings.xml</code></p>
+                
+                <p><strong>Current Configuration:</strong></p>
+                <pre><code class="language-xml">&lt;string name="all_permissions_required"&gt;⚠️ All permissions must be granted before registration&lt;/string&gt;</code></pre>
+                
+                <div class="info-card">
+                    <h4>Parameter Details:</h4>
+                    <ul>
+                        <li><strong>String Name:</strong> <code>all_permissions_required</code></li>
+                        <li><strong>Format:</strong> Unicode warning emoji + English text</li>
+                        <li><strong>Usage:</strong> Permission validation screens</li>
+                    </ul>
+                </div>
+
+                <h3>2. Device Admin Warning</h3>
+                <p><strong>Location:</strong> <code>android-client-app/app/src/main/kotlin/com/emi/ahkfinance/PermissionActivity.kt</code></p>
+                
+                <p><strong>Current Configuration:</strong></p>
+                <pre><code class="language-kotlin">// Line 415: Device admin warning
+"⚠️ Basic device admin only. For full security features, set up device owner using ADB commands (see setup guide)."
+
+// Line 464: Minimum permissions warning
+"⚠️ Minimum permissions (Basic, Notification/Skip, Service, Device Admin) must be granted or skipped before registration"</code></pre>
+
+                <h3>3. Anti-Uninstall Warnings</h3>
+                <p><strong>Location:</strong> <code>android-client-app/app/src/main/kotlin/com/emi/ahkfinance/AccessibilityControlService.kt</code></p>
+                
+                <p><strong>Current Configuration:</strong></p>
+                <pre><code class="language-kotlin">// Line 305: Uninstall attempt detection
+Log.w(TAG, "[ANTI-UNINSTALL] ⚠️ UNINSTALL ATTEMPT DETECTED! Blocking action...")
+
+// Line 317: Uninstall keywords detection
+Log.w(TAG, "[ANTI-UNINSTALL] ⚠️ UNINSTALL KEYWORDS DETECTED: $eventText")</code></pre>
+
+                <h2 id="lockscreen-message-content">Lockscreen Message Content</h2>
+                
+                <h3>1. Main Lock Message</h3>
+                <p><strong>Location:</strong> <code>android-client-app/app/src/main/kotlin/com/emi/ahkfinance/LockScreen.kt</code></p>
+                
+                <p><strong>Current Configuration:</strong></p>
+                <pre><code class="language-kotlin">// Line 388: Payment due warning
+"⚠️ পেমেন্ট বকেয়া"
+
+// Line 437: Legal warning text (Bengali)
+"এই ডিভাইসটি AHK Finance এর আর্থিক চুক্তির অধীনে রয়েছে। চুক্তি অনুযায়ী বকেয়া কিস্তি পরিশোধ না করে ডিভাইসের লক খোলার চেষ্টা করা বাংলাদেশ সাইবার নিরাপত্তা আইন ২০২৩ অনুযায়ী একটি দণ্ডনীয় অপরাধ।\n\n👉 এ ধরনের অবৈধ কার্যক্রমে জড়িত হলে ব্যবহারকারী ও সংশ্লিষ্ট সহযোগীর বিরুদ্ধে অবিলম্বে আইনগত ব্যবস্থা গ্রহণ করা হবে। \n\n📌 বিস্তারিত জানতে এখানে ক্লিক করুন।"</code></pre>
+                
+                <div class="info-card">
+                    <h4>Parameter Details:</h4>
+                    <ul>
+                        <li><strong>Warning Title:</strong> <code>"⚠️ পেমেন্ট বকেয়া"</code> (Payment Due)</li>
+                        <li><strong>Legal Text:</strong> Multi-line Bengali legal warning</li>
+                        <li><strong>Format:</strong> Unicode emojis + Bengali text with line breaks</li>
+                        <li><strong>Location:</strong> Hardcoded in <code>LockScreen.kt</code></li>
+                    </ul>
+                </div>
+
+                <h3>2. Lock Message from Strings</h3>
+                <p><strong>Location:</strong> <code>android-client-app/app/src/main/res/values/strings.xml</code></p>
+                
+                <p><strong>Current Configuration:</strong></p>
+                <pre><code class="language-xml">&lt;string name="lock_message"&gt;Your device is locked due to payment issues. Please contact support.&lt;/string&gt;</code></pre>
+                
+                <div class="info-card">
+                    <h4>Parameter Details:</h4>
+                    <ul>
+                        <li><strong>String Name:</strong> <code>lock_message</code></li>
+                        <li><strong>Format:</strong> Plain English text</li>
+                        <li><strong>Usage:</strong> Alternative lock message</li>
+                    </ul>
+                </div>
+
+                <h3>3. Company Branding in Lock Screen</h3>
+                <p><strong>Location:</strong> <code>android-client-app/app/src/main/kotlin/com/emi/ahkfinance/LockScreen.kt</code></p>
+                
+                <p><strong>Current Configuration:</strong></p>
+                <pre><code class="language-kotlin">// Line 358: Company name
+"AHK Finance"
+
+// Line 611: Footer branding
+"AHK Finance | Development by AHK Phone Repair"</code></pre>
+
+                <h2 id="payment-dialog-message-configuration">Payment Dialog Message Configuration</h2>
+                
+                <h3>Overview</h3>
+                <p>The payment dialog messages are displayed when users interact with payment-related features on the lock screen. These messages provide instructions and guidance for completing payments.</p>
+                
+                <h3>File Location</h3>
+                <ul>
+                    <li><strong>File:</strong> <code>android-client-app/app/src/main/kotlin/com/emi/ahkfinance/LockScreen.kt</code></li>
+                    <li><strong>Component:</strong> <code>PaymentInstructionDialog</code> composable function</li>
+                </ul>
+
+                <h3>Configurable Messages</h3>
+                
+                <h4>1. Payment Dialog Title</h4>
+                <pre><code class="language-kotlin">Text(
+    text = "পেমেন্ট নির্দেশনা",  // Payment Instructions
+    style = MaterialTheme.typography.headlineSmall,
+    color = Color(0xFF3B82F6)
+)</code></pre>
+
+                <h4>2. Payment Instruction Text</h4>
+                <pre><code class="language-kotlin">Text(
+    text = "প্রথমে আপনার বাকি পরিমাণ কতো সেটা দেখে নিন। এরপর আপনার Device ID কপি করে নিন, তারপর Bkash Payment বাটনে ক্লিক করুন। Enter Amount অপশনে আপনার বাকির পরিমাণ লিখুন, Payment Reference অপশনে আপনার পূর্বের কপি করা Device ID পেস্ট করুন, আপনার বিকাশ নম্বর এবং কন্টাক্ট নম্বর যদি এক না হয় তবে ( [✓]Use bKash wallet number as your contact number) থেকে টিক চিহ্ন তুলে দিন এবং আপনার কন্টাক্ট নম্বর লিখুন। তারপর আপনার Bkash নম্বর, ওটিপি, পিন দিয়ে পেমেন্ট সম্পন্ন করুন। সাহায্য অথবা বিস্তারিত জানতে 01XXXXXXXXX নম্বরে Whatsapp ম্যাসেজ করুন।",
+    style = MaterialTheme.typography.bodyMedium,
+    color = MaterialTheme.colorScheme.onSurface,
+    lineHeight = 20.sp
+)</code></pre>
+                
+                <div class="info-card">
+                    <p><strong>English Translation:</strong> "First, check how much you owe. Then copy your Device ID, then click on Bkash Payment button. Enter your due amount in Enter Amount option, paste your previously copied Device ID in Payment Reference option, if your bKash number and contact number are not the same then remove the tick mark from ([✓]Use bKash wallet number as your contact number) and enter your contact number. Then complete the payment with your Bkash number, OTP, PIN. For help or details, WhatsApp message to 01630138471."</p>
+                </div>
+
+                <h4>3. Device ID Copy Instructions</h4>
+                <pre><code class="language-kotlin">Text(
+    text = "Device ID (ক্লিক করে কপি করুন):",  // Device ID (Click to copy)
+    style = MaterialTheme.typography.bodySmall,
+    color = Color(0xFF6B7280)
+)</code></pre>
+
+                <h4>4. Copy Success Message</h4>
+                <pre><code class="language-kotlin">Toast.makeText(context, "Device ID কপি হয়েছে", Toast.LENGTH_SHORT).show()  // Device ID copied</code></pre>
+
+                <h4>5. Dialog Close Button</h4>
+                <pre><code class="language-kotlin">Text(
+    "বন্ধ করুন",  // Close
+    color = Color(0xFF3B82F6),
+    style = MaterialTheme.typography.labelLarge
+)</code></pre>
+
+                <h4>6. Lock Screen Payment Status Messages</h4>
+                <pre><code class="language-kotlin">// Payment overdue warning
+Text(
+    text = "⚠️ পেমেন্ট বকেয়া",  // Payment Overdue
+    style = MaterialTheme.typography.titleMedium.copy(
+        fontWeight = FontWeight.Bold
+    ),
+    color = Color(0xFFDC2626)
+)
+
+// Payment overdue description
+Text(
+    text = "আপনার মোবাইলের বাকি টাকা পরিশোধের সময়সীমা অতিবাহিত হয়ে গেছে। এই কারণে আপনার ফোনটি লক করে দেয়া হয়েছে। দয়া করে বাকি টাকা পরিশোধ করুন।",
+    style = MaterialTheme.typography.bodyMedium,
+    color = Color(0xFF374151),
+    lineHeight = 20.sp
+)</code></pre>
+                
+                <div class="info-card">
+                    <p><strong>English Translation:</strong> "Your mobile's payment deadline has passed. Your phone has been locked for this reason. Please pay the remaining amount."</p>
+                </div>
+
+                <h4>7. Action Button Texts</h4>
+                <pre><code class="language-kotlin">// Payment button
+Text(
+    text = "💳 পেমেন্ট করুন",  // Make Payment
+    style = MaterialTheme.typography.labelLarge.copy(
+        fontWeight = FontWeight.SemiBold
+    ),
+    color = Color.White
+)
+
+// Support call button
+Text(
+    text = "সাপোর্ট কল করুন",  // Call Support
+    style = MaterialTheme.typography.labelLarge.copy(
+        fontWeight = FontWeight.SemiBold
+    ),
+    color = Color.White
+)
+
+// Unlock button
+Text(
+    text = "আনলক করুন",  // Unlock
+    style = MaterialTheme.typography.labelLarge.copy(
+        fontWeight = FontWeight.SemiBold
+    ),
+    color = Color.White
+)</code></pre>
+
+                <h4>8. Unlock Dialog Messages</h4>
+                <pre><code class="language-kotlin">// Dialog title
+Text(
+    text = "Offline Unlock",
+    style = MaterialTheme.typography.headlineSmall,
+    color = MaterialTheme.colorScheme.onSurface
+)
+
+// PIN entry instruction
+Text(
+    text = "Enter PIN to unlock device",
+    style = MaterialTheme.typography.bodyMedium,
+    color = MaterialTheme.colorScheme.onSurface
+)
+
+// Error message
+Text(
+    text = "Incorrect PIN. Please try again.",
+    color = MaterialTheme.colorScheme.error,
+    style = MaterialTheme.typography.bodySmall
+)
+
+// Action buttons
+Text("Unlock")  // Confirm button
+Text("Cancel")  // Dismiss button</code></pre>
+
+                <h3>Configuration Steps</h3>
+                <ol>
+                    <li><strong>Locate the LockScreen.kt file</strong>:
+                        <pre><code>android-client-app/app/src/main/kotlin/com/emi/ahkfinance/LockScreen.kt</code></pre>
+                    </li>
+                    <li><strong>Find the PaymentInstructionDialog function</strong> (around line 1000)</li>
+                    <li><strong>Modify the Bengali text strings</strong> as needed:
+                        <ul>
+                            <li>Update payment instruction text</li>
+                            <li>Change dialog title</li>
+                            <li>Modify button labels</li>
+                            <li>Update copy instructions</li>
+                        </ul>
+                    </li>
+                    <li><strong>Update support contact number</strong> in the instruction text:
+                        <pre><code class="language-kotlin">"সাহায্য অথবা বিস্তারিত জানতে 01630138471 নম্বরে Whatsapp ম্যাসেজ করুন।"</code></pre>
+                    </li>
+                    <li><strong>Rebuild the application</strong> after making changes</li>
+                </ol>
+
+                <h3>Testing Payment Dialog Messages</h3>
+                <ol>
+                    <li><strong>Trigger Lock Screen</strong>:
+                        <ul>
+                            <li>Use admin app to lock a device</li>
+                            <li>Verify lock screen appears with payment status</li>
+                        </ul>
+                    </li>
+                    <li><strong>Test Payment Dialog</strong>:
+                        <ul>
+                            <li>Click "💳 পেমেন্ট করুন" button</li>
+                            <li>Verify payment instruction dialog opens</li>
+                            <li>Check all Bengali text displays correctly</li>
+                        </ul>
+                    </li>
+                    <li><strong>Test Device ID Copy</strong>:
+                        <ul>
+                            <li>Click on Device ID area</li>
+                            <li>Verify toast message appears</li>
+                            <li>Check clipboard contains correct Device ID</li>
+                        </ul>
+                    </li>
+                    <li><strong>Test Dialog Actions</strong>:
+                        <ul>
+                            <li>Verify "বন্ধ করুন" button closes dialog</li>
+                            <li>Test Bkash payment button functionality</li>
+                        </ul>
+                    </li>
+                </ol>
+
+                <h3>Impact Analysis</h3>
+                <p><strong>High Impact Changes:</strong></p>
+                <ul>
+                    <li>Payment instruction text modifications</li>
+                    <li>Support contact number updates</li>
+                    <li>Button label changes</li>
+                </ul>
+                
+                <p><strong>Medium Impact Changes:</strong></p>
+                <ul>
+                    <li>Dialog title modifications</li>
+                    <li>Copy instruction text updates</li>
+                </ul>
+                
+                <p><strong>Low Impact Changes:</strong></p>
+                <ul>
+                    <li>Toast message text</li>
+                    <li>Color scheme adjustments</li>
+                </ul>
+
+                <h3>Best Practices</h3>
+                <ol>
+                    <li><strong>Language Consistency</strong>: Maintain consistent Bengali terminology</li>
+                    <li><strong>Character Encoding</strong>: Ensure proper UTF-8 encoding for Bengali text</li>
+                    <li><strong>Text Length</strong>: Keep instruction text concise but comprehensive</li>
+                    <li><strong>Contact Information</strong>: Always verify support contact numbers are current</li>
+                    <li><strong>Testing</strong>: Test on actual devices to ensure Bengali text renders correctly</li>
+                </ol>
+
+                <h3>Common Issues</h3>
+                <ol>
+                    <li><strong>Bengali Text Not Displaying</strong>: Check font support and encoding</li>
+                    <li><strong>Text Overflow</strong>: Adjust text size or container dimensions</li>
+                    <li><strong>Copy Function Not Working</strong>: Verify clipboard permissions</li>
+                    <li><strong>Payment Button Not Responding</strong>: Check payment URL configuration</li>
+                </ol>
+
+                <h2 id="app-branding-configuration">App Branding Configuration</h2>
+                
+                <h3>1. Application Name</h3>
+                <p><strong>Location:</strong> <code>android-client-app/app/src/main/res/values/strings.xml</code></p>
+                
+                <p><strong>Current Configuration:</strong></p>
+                <pre><code class="language-xml">&lt;string name="app_name"&gt;AHK Finance&lt;/string&gt;</code></pre>
+                
+                <div class="info-card">
+                    <h4>Parameter Details:</h4>
+                    <ul>
+                        <li><strong>String Name:</strong> <code>app_name</code></li>
+                        <li><strong>Usage:</strong> App launcher, system notifications, title bars</li>
+                        <li><strong>Format:</strong> Plain text (no special characters recommended)</li>
+                    </ul>
+                </div>
+
+                <h3>2. Watermark Text</h3>
+                <p><strong>Location:</strong> <code>android-client-app/app/src/main/res/values/strings.xml</code></p>
+                
+                <p><strong>Current Configuration:</strong></p>
+                <pre><code class="language-xml">&lt;string name="watermark"&gt;AHK Finance | মোবাইল সেবা নিন সহজ কিস্তিতে&lt;/string&gt;</code></pre>
+                
+                <div class="info-card">
+                    <h4>Parameter Details:</h4>
+                    <ul>
+                        <li><strong>String Name:</strong> <code>watermark</code></li>
+                        <li><strong>Format:</strong> English + Bengali mixed text</li>
+                        <li><strong>Usage:</strong> Main activity watermark display</li>
+                        <li><strong>Translation:</strong> "AHK Finance | Get mobile service in easy installments"</li>
+                    </ul>
+                </div>
+
+                <h3>3. Notification Titles</h3>
+                <p><strong>Multiple Locations:</strong></p>
+                
+                <pre><code class="language-kotlin">// LockService.kt - Line 147
+.setContentTitle("AHK Finance")
+
+// LocationTrackingService.kt - Line 104
+.setContentTitle("AHK Finance - Location Tracking")
+
+// MyFirebaseMessagingService.kt - Line 32
+.setContentTitle("AHK Finance")</code></pre>
+
+                <h2 id="apk-signature-configuration">APK Signature Configuration</h2>
+                
+                <h3>Overview</h3>
+                <p>The AHK EMI project uses digital signatures to ensure APK integrity and authenticity. Two keystore files are available for different signing purposes:</p>
+                
+                <ul>
+                    <li><code>ahk-release-key.jks</code> - Primary release keystore (v1)</li>
+                    <li><code>ahk-release-key-v2.jks</code> - Updated release keystore (v2)</li>
+                </ul>
+
+                <h3>Keystore File Locations</h3>
+                <p><strong>Project Root Directory:</strong></p>
+                <pre><code>ahkemi/
+├── ahk-release-key.jks          # Primary release keystore
+├── ahk-release-key-v2.jks       # Updated release keystore
+├── admin-app/
+└── android-client-app/</code></pre>
+
+                <h3>Build Configuration</h3>
+                
+                <h4>Admin App Signing Configuration</h4>
+                <p><strong>Location:</strong> <code>admin-app/app/build.gradle</code></p>
+                
+                <p><strong>Current Configuration:</strong></p>
+                <pre><code class="language-gradle">android {
+    signingConfigs {
+        release {
+            storeFile file('../../ahk-release-key-v2.jks')
+            storePassword 'your_store_password'
+            keyAlias 'ahk_release_key'
+            keyPassword 'your_key_password'
+        }
+    }
+    
+    buildTypes {
+        release {
+            signingConfig signingConfigs.release
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+}</code></pre>
+
+                <h4>Client App Signing Configuration</h4>
+                <p><strong>Location:</strong> <code>android-client-app/app/build.gradle</code></p>
+                
+                <p><strong>Current Configuration:</strong></p>
+                <pre><code class="language-gradle">android {
+    signingConfigs {
+        release {
+            storeFile file('../../ahk-release-key-v2.jks')
+            storePassword 'your_store_password'
+            keyAlias 'ahk_release_key'
+            keyPassword 'your_key_password'
+        }
+    }
+    
+    buildTypes {
+        release {
+            signingConfig signingConfigs.release
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+}</code></pre>
+
+                <h3>Keystore Management</h3>
+                
+                <h4>Creating a New Keystore</h4>
+                <p><strong>Command:</strong></p>
+                <pre><code class="language-bash">keytool -genkey -v -keystore ahk-release-key-v3.jks -keyalg RSA -keysize 2048 -validity 10000 -alias ahk_release_key</code></pre>
+                
+                <div class="info-card">
+                    <h4>Parameters:</h4>
+                    <ul>
+                        <li><strong>Keystore Name:</strong> <code>ahk-release-key-v3.jks</code></li>
+                        <li><strong>Key Algorithm:</strong> RSA</li>
+                        <li><strong>Key Size:</strong> 2048 bits</li>
+                        <li><strong>Validity:</strong> 10000 days (~27 years)</li>
+                        <li><strong>Alias:</strong> <code>ahk_release_key</code></li>
+                    </ul>
+                </div>
+
+                <h4>Keystore Information</h4>
+                <p><strong>View Keystore Details:</strong></p>
+                <pre><code class="language-bash">keytool -list -v -keystore ahk-release-key-v2.jks</code></pre>
+                
+                <p><strong>Verify APK Signature:</strong></p>
+                <pre><code class="language-bash">jarsigner -verify -verbose -certs app-release.apk</code></pre>
+
+                <h3>Security Best Practices</h3>
+                
+                <h4>Keystore Protection</h4>
+                <ol>
+                    <li><strong>Password Security:</strong>
+                        <ul>
+                            <li>Use strong, unique passwords for keystore and key</li>
+                            <li>Store passwords securely (not in version control)</li>
+                            <li>Consider using environment variables for CI/CD</li>
+                        </ul>
+                    </li>
+                    <li><strong>File Security:</strong>
+                        <ul>
+                            <li>Keep keystore files in secure, backed-up locations</li>
+                            <li>Limit access to authorized personnel only</li>
+                            <li>Never commit keystore files to public repositories</li>
+                        </ul>
+                    </li>
+                    <li><strong>Backup Strategy:</strong>
+                        <ul>
+                            <li>Maintain multiple secure backups of keystore files</li>
+                            <li>Document keystore passwords in secure password manager</li>
+                            <li>Test backup restoration procedures regularly</li>
+                        </ul>
+                    </li>
+                </ol>
+
+                <h4>Environment Variables Setup</h4>
+                <p><strong>For CI/CD Integration:</strong></p>
+                <pre><code class="language-gradle">// In build.gradle
+android {
+    signingConfigs {
+        release {
+            storeFile file(System.getenv("KEYSTORE_PATH") ?: "../../ahk-release-key-v2.jks")
+            storePassword System.getenv("KEYSTORE_PASSWORD")
+            keyAlias System.getenv("KEY_ALIAS") ?: "ahk_release_key"
+            keyPassword System.getenv("KEY_PASSWORD")
+        }
+    }
+}</code></pre>
+                
+                <div class="info-card">
+                    <h4>Environment Variables:</h4>
+                    <ul>
+                        <li><code>KEYSTORE_PATH</code> - Path to keystore file</li>
+                        <li><code>KEYSTORE_PASSWORD</code> - Keystore password</li>
+                        <li><code>KEY_ALIAS</code> - Key alias name</li>
+                        <li><code>KEY_PASSWORD</code> - Key password</li>
+                    </ul>
+                </div>
+
+                <h3>Build Commands</h3>
+                
+                <h4>Manual Release Build</h4>
+                <p><strong>Admin App:</strong></p>
+                <pre><code class="language-bash">cd admin-app
+./gradlew assembleRelease</code></pre>
+                
+                <p><strong>Client App:</strong></p>
+                <pre><code class="language-bash">cd android-client-app
+./gradlew assembleRelease</code></pre>
+
+                <h4>Automated Build Script</h4>
+                <p><strong>Location:</strong> <code>admin-app/build-release.bat</code></p>
+                
+                <pre><code class="language-batch">@echo off
+echo Building AHK Admin App Release...
+call gradlew clean
+call gradlew assembleRelease
+echo Build completed. Check app/build/outputs/apk/release/
+pause</code></pre>
+
+                <h3>APK Verification</h3>
+                
+                <h4>Signature Verification</h4>
+                <p><strong>Check APK Signature:</strong></p>
+                <pre><code class="language-bash"># Using apksigner (Android SDK)
+apksigner verify --verbose app-release.apk
+
+# Using jarsigner (Java SDK)
+jarsigner -verify -verbose -certs app-release.apk</code></pre>
+
+                <h4>APK Analysis</h4>
+                <p><strong>Get APK Information:</strong></p>
+                <pre><code class="language-bash"># Using aapt (Android Asset Packaging Tool)
+aapt dump badging app-release.apk
+
+# Check signing certificate
+keytool -printcert -jarfile app-release.apk</code></pre>
+
+                <h3>Troubleshooting Signing Issues</h3>
+                
+                <h4>Common Problems</h4>
+                <ol>
+                    <li><strong>Keystore Not Found:</strong>
+                        <pre><code>Error: Keystore file does not exist</code></pre>
+                        <p><strong>Solution:</strong> Verify keystore file path in build.gradle</p>
+                    </li>
+                    <li><strong>Invalid Password:</strong>
+                        <pre><code>Error: Keystore was tampered with, or password was incorrect</code></pre>
+                        <p><strong>Solution:</strong> Check keystore and key passwords</p>
+                    </li>
+                    <li><strong>Key Alias Not Found:</strong>
+                        <pre><code>Error: Key alias not found</code></pre>
+                        <p><strong>Solution:</strong> Verify key alias name in configuration</p>
+                    </li>
+                    <li><strong>Certificate Expired:</strong>
+                        <pre><code>Error: Certificate expired</code></pre>
+                        <p><strong>Solution:</strong> Create new keystore or extend certificate validity</p>
+                    </li>
+                </ol>
+
+                <h4>Debug Commands</h4>
+                <p><strong>List Keystore Contents:</strong></p>
+                <pre><code class="language-bash">keytool -list -keystore ahk-release-key-v2.jks</code></pre>
+                
+                <p><strong>Check Certificate Details:</strong></p>
+                <pre><code class="language-bash">keytool -list -v -keystore ahk-release-key-v2.jks -alias ahk_release_key</code></pre>
+                
+                <p><strong>Verify Build Configuration:</strong></p>
+                <pre><code class="language-bash">./gradlew signingReport</code></pre>
+
+                <h3>Migration Between Keystores</h3>
+                
+                <h4>Updating Keystore Reference</h4>
+                <p><strong>Steps:</strong></p>
+                <ol>
+                    <li>Update <code>build.gradle</code> files to reference new keystore</li>
+                    <li>Update keystore passwords if changed</li>
+                    <li>Test build process with new keystore</li>
+                    <li>Verify APK signature after build</li>
+                </ol>
+                
+                <p><strong>Example Migration:</strong></p>
+                <pre><code class="language-gradle">// Old configuration
+storeFile file('../../ahk-release-key.jks')
+
+// New configuration
+storeFile file('../../ahk-release-key-v2.jks')</code></pre>
+
+                <h4>Compatibility Considerations</h4>
+                <ul>
+                    <li><strong>App Updates:</strong> Same keystore must be used for app updates</li>
+                    <li><strong>Play Store:</strong> Google Play requires consistent signing for updates</li>
+                    <li><strong>Device Installation:</strong> Signature mismatch prevents installation over existing app</li>
+                </ul>
+
+                <h3>Security Compliance</h3>
+                
+                <h4>Industry Standards</h4>
+                <ul>
+                    <li><strong>Key Size:</strong> Minimum 2048-bit RSA keys</li>
+                    <li><strong>Validity Period:</strong> Maximum 25-30 years recommended</li>
+                    <li><strong>Algorithm:</strong> RSA or ECDSA supported</li>
+                    <li><strong>Hash Function:</strong> SHA-256 or higher</li>
+                </ul>
+
+                <h4>Audit Trail</h4>
+                <ul>
+                    <li>Document all keystore creation and updates</li>
+                    <li>Maintain logs of APK signing activities</li>
+                    <li>Track keystore access and usage</li>
+                    <li>Regular security reviews of signing process</li>
+                </ul>
+
+                <h2 id="testing-procedures">Testing Procedures</h2>
+                
+                <h3>1. Phone Number Changes</h3>
+                <p><strong>Test Steps:</strong></p>
+                <ol>
+                    <li>Modify phone number in configuration files</li>
+                    <li>Build and install the app</li>
+                    <li>Trigger lockscreen to verify phone number display</li>
+                    <li>Test payment dialog to ensure correct number appears</li>
+                    <li>Verify Firebase payment link contains correct number</li>
+                </ol>
+                
+                <p><strong>Verification Points:</strong></p>
+                <ul>
+                    <li>Lockscreen displays new phone number</li>
+                    <li>Payment dialogs show updated contact information</li>
+                    <li>Firebase payment URLs contain correct merchant ID</li>
+                </ul>
+
+                <h3>2. Payment Link Validation</h3>
+                <p><strong>Test Steps:</strong></p>
+                <ol>
+                    <li>Update <code>DEFAULT_PAYMENT_LINK</code> in <code>FirebaseModule.kt</code></li>
+                    <li>Test with valid bKash URL</li>
+                    <li>Test with valid Nagad URL</li>
+                    <li>Test with invalid URL (should fail validation)</li>
+                    <li>Verify runtime payment link updates work</li>
+                </ol>
+                
+                <p><strong>Validation Checklist:</strong></p>
+                <ul>
+                    <li>✅ HTTPS protocol required</li>
+                    <li>✅ Domain must be <code>bkash.com</code> or <code>nagad.com.bd</code></li>
+                    <li>✅ URL format validation passes</li>
+                    <li>✅ Firebase updates work correctly</li>
+                </ul>
+
+                <h3>3. Message Content Testing</h3>
+                <p><strong>Test Steps:</strong></p>
+                <ol>
+                    <li>Modify warning messages in respective files</li>
+                    <li>Build and install application</li>
+                    <li>Trigger lockscreen to verify message display</li>
+                    <li>Test permission screens for warning text</li>
+                    <li>Check notification content</li>
+                </ol>
+                
+                <p><strong>Verification Points:</strong></p>
+                <ul>
+                    <li>Bengali text renders correctly</li>
+                    <li>Unicode emojis display properly</li>
+                    <li>Line breaks and formatting preserved</li>
+                    <li>Text fits within UI constraints</li>
+                </ul>
+
+                <h3>4. Branding Changes</h3>
+                <p><strong>Test Steps:</strong></p>
+                <ol>
+                    <li>Update app name and watermark text</li>
+                    <li>Build and install application</li>
+                    <li>Check app launcher icon and name</li>
+                    <li>Verify main activity watermark</li>
+                    <li>Test notification titles</li>
+                </ol>
+                
+                <p><strong>Verification Points:</strong></p>
+                <ul>
+                    <li>App name appears correctly in launcher</li>
+                    <li>Watermark displays on main screen</li>
+                    <li>Notifications show updated branding</li>
+                    <li>System dialogs use correct app name</li>
+                </ul>
+
+                <h2 id="impact-analysis">Impact Analysis</h2>
+                
+                <h3>Phone Number Changes</h3>
+                <p><strong>High Impact Areas:</strong></p>
+                <ul>
+                    <li><strong>Customer Support:</strong> Direct impact on customer contact methods</li>
+                    <li><strong>Payment Processing:</strong> Affects payment link generation</li>
+                    <li><strong>User Experience:</strong> Changes visible contact information</li>
+                </ul>
+                
+                <p><strong>Dependencies:</strong></p>
+                <ul>
+                    <li>Firebase payment link structure</li>
+                    <li>bKash/Nagad merchant account configuration</li>
+                    <li>Customer communication channels</li>
+                </ul>
+
+                <h3>Payment Link Modifications</h3>
+                <p><strong>Critical Impact Areas:</strong></p>
+                <ul>
+                    <li><strong>Revenue Collection:</strong> Direct impact on payment processing</li>
+                    <li><strong>Security:</strong> URL validation prevents malicious links</li>
+                    <li><strong>Integration:</strong> Must match merchant account settings</li>
+                </ul>
+                
+                <p><strong>Risk Factors:</strong></p>
+                <ul>
+                    <li>Invalid URLs break payment functionality</li>
+                    <li>Incorrect merchant IDs prevent payment processing</li>
+                    <li>Domain restrictions limit payment provider options</li>
+                </ul>
+
+                <h3>Warning Message Changes</h3>
+                <p><strong>Medium Impact Areas:</strong></p>
+                <ul>
+                    <li><strong>Legal Compliance:</strong> Warning text may have legal implications</li>
+                    <li><strong>User Understanding:</strong> Clear messaging improves compliance</li>
+                    <li><strong>Localization:</strong> Bengali text requires proper font support</li>
+                </ul>
+                
+                <p><strong>Considerations:</strong></p>
+                <ul>
+                    <li>Legal review may be required for warning text changes</li>
+                    <li>Translation accuracy important for Bengali content</li>
+                    <li>Message length affects UI layout</li>
+                </ul>
+
+                <h3>Branding Updates</h3>
+                <p><strong>Low-Medium Impact Areas:</strong></p>
+                <ul>
+                    <li><strong>Brand Recognition:</strong> Consistent branding across app</li>
+                    <li><strong>User Trust:</strong> Professional appearance builds confidence</li>
+                    <li><strong>Marketing:</strong> App store presence and user perception</li>
+                </ul>
+                
+                <p><strong>Technical Considerations:</strong></p>
+                <ul>
+                    <li>App name changes may affect app store listings</li>
+                    <li>Notification titles impact system integration</li>
+                    <li>Watermark text affects main UI layout</li>
+                </ul>
+
+                <h2>Configuration File Summary</h2>
+                
+                <div class="table-container">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Parameter Type</th>
+                                <th>File Location</th>
+                                <th>Key Variables</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Phone Numbers</td>
+                                <td><code>LockScreen.kt</code></td>
+                                <td>Hardcoded <code>01630138471</code></td>
+                            </tr>
+                            <tr>
+                                <td>Payment Links</td>
+                                <td><code>FirebaseModule.kt</code></td>
+                                <td><code>DEFAULT_PAYMENT_LINK</code></td>
+                            </tr>
+                            <tr>
+                                <td>App Branding</td>
+                                <td><code>strings.xml</code></td>
+                                <td><code>app_name</code>, <code>watermark</code></td>
+                            </tr>
+                            <tr>
+                                <td>Warning Messages</td>
+                                <td><code>strings.xml</code>, <code>PermissionActivity.kt</code></td>
+                                <td><code>all_permissions_required</code></td>
+                            </tr>
+                            <tr>
+                                <td>Lock Messages</td>
+                                <td><code>LockScreen.kt</code></td>
+                                <td>Hardcoded Bengali text</td>
+                            </tr>
+                            <tr>
+                                <td>Notifications</td>
+                                <td>Multiple service files</td>
+                                <td><code>.setContentTitle()</code> calls</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <h2>Best Practices</h2>
+                <ol>
+                    <li><strong>Always test changes in development environment first</strong></li>
+                    <li><strong>Backup original configuration files before modifications</strong></li>
+                    <li><strong>Validate payment URLs before deployment</strong></li>
+                    <li><strong>Test Bengali text rendering on target devices</strong></li>
+                    <li><strong>Verify phone number formats match regional standards</strong></li>
+                    <li><strong>Review legal implications of warning message changes</strong></li>
+                    <li><strong>Maintain consistent branding across all touchpoints</strong></li>
+                    <li><strong>Document all configuration changes for future reference</strong></li>
+                    <li><strong>Follow the <a href="build-guide.html">Build Guide</a> for proper compilation after configuration changes</strong></li>
+                </ol>
+
+                <h2>Troubleshooting</h2>
+                
+                <h3>Common Issues</h3>
+                <ol>
+                    <li><strong>Payment Link Validation Fails</strong>
+                        <ul>
+                            <li>Ensure URL uses HTTPS protocol</li>
+                            <li>Verify domain is <code>bkash.com</code> or <code>nagad.com.bd</code></li>
+                            <li>Check for typos in URL structure</li>
+                        </ul>
+                    </li>
+                    <li><strong>Bengali Text Not Displaying</strong>
+                        <ul>
+                            <li>Verify device has Bengali font support</li>
+                            <li>Check Unicode encoding in source files</li>
+                            <li>Test on multiple device models</li>
+                        </ul>
+                    </li>
+                    <li><strong>Phone Number Not Updating</strong>
+                        <ul>
+                            <li>Confirm changes in all relevant files</li>
+                            <li>Clear app cache and reinstall</li>
+                            <li>Check Firebase configuration sync</li>
+                        </ul>
+                    </li>
+                    <li><strong>App Name Changes Not Visible</strong>
+                        <ul>
+                            <li>Rebuild and reinstall application</li>
+                            <li>Clear launcher cache</li>
+                            <li>Check <code>strings.xml</code> modifications</li>
+                        </ul>
+                    </li>
+                </ol>
+                
+                <p>For additional support or questions about configuration changes, refer to the development team or create an issue in the project repository.</p>
+                
+                <h2>Related Documentation</h2>
+                <ul>
+                    <li><a href="build-guide.html">Build Guide</a> - Learn how to build the project with your configuration changes</li>
+                    <li><a href="release-notes.html">Release Notes</a> - Check the latest features and configuration options</li>
+                    <li><a href="readme.html">Project Overview</a> - Understand the overall project architecture and setup</li>
+                </ul>
+            </article>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2024 AHK EMI Project. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>

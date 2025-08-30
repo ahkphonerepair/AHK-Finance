@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AHK Finance - Build Guide</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/x-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔧</text></svg>">
+</head>
+<body>
+    <header class="header">
+        <div class="nav-container">
+            <a href="index.html" class="logo">📱 AHK Finance</a>
+            <nav>
+                <ul class="nav-menu">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="readme.html">Overview</a></li>
+                    <li><a href="build-guide.html" class="active">Build Guide</a></li>
+                    <li><a href="configuration-guide.html">Configuration</a></li>
+                    <li><a href="release-notes.html">Release Notes</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="breadcrumb">
+            <a href="index.html">Home</a>
+            <span>/</span>
+            <span>Build Guide</span>
+        </div>
+
+        <div class="content">
+            <h1>🔧 AHK Finance Build Script Guide</h1>
+            
+            <div style="text-align: center; margin: 2rem 0;">
+                <span style="background: #28a745; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; margin: 0.2rem; display: inline-block;">Cross-Platform</span>
+                <span style="background: #007bff; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; margin: 0.2rem; display: inline-block;">Automated</span>
+                <span style="background: #fd7e14; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; margin: 0.2rem; display: inline-block;">Professional</span>
+                <span style="background: #6f42c1; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; margin: 0.2rem; display: inline-block;">v2.0</span>
+            </div>
+
+            <h2>📋 Overview</h2>
+            <p>The AHK Finance Build Script is a professional one-click build system designed to automate the entire build process for both the Admin and Client Android applications. It provides a clean, intuitive interface with progress indicators, comprehensive logging, and cross-platform compatibility.</p>
+
+            <h2>✨ Features</h2>
+            
+            <div class="grid">
+                <div class="card">
+                    <h3>🎨 Professional Interface</h3>
+                    <ul>
+                        <li>Progress indicators and color-coded output</li>
+                        <li>Clean, intuitive command-line interface</li>
+                        <li>Real-time build status updates</li>
+                    </ul>
+                </div>
+
+                <div class="card">
+                    <h3>🌐 Cross-Platform Support</h3>
+                    <ul>
+                        <li>Windows batch scripts (.bat)</li>
+                        <li>Unix/Linux/macOS shell scripts (.sh)</li>
+                        <li>Consistent behavior across platforms</li>
+                    </ul>
+                </div>
+
+                <div class="card">
+                    <h3>📊 Comprehensive Logging</h3>
+                    <ul>
+                        <li>Timestamped output with detailed logs</li>
+                        <li>Error tracking and debugging information</li>
+                        <li>Build artifact location tracking</li>
+                    </ul>
+                </div>
+
+                <div class="card">
+                    <h3>⚙️ Flexible Configuration</h3>
+                    <ul>
+                        <li>Environment validation for dependencies</li>
+                        <li>Multiple build modes (debug/release)</li>
+                        <li>Selective building options</li>
+                        <li>Clean build support with cache clearing</li>
+                    </ul>
+                </div>
+            </div>
+
+            <h2>🚀 Quick Start</h2>
+            
+            <div class="grid">
+                <div class="card">
+                    <h3>🪟 Windows</h3>
+                    <pre><code># Build both apps in release mode (default)
+.\build.bat
+
+# Build both apps in debug mode
+.\build.bat --debug
+
+# Build only admin app
+.\build.bat --admin-only
+
+# Build only client app
+.\build.bat --client-only
+
+# Skip clean step for faster builds
+.\build.bat --no-clean</code></pre>
+                </div>
+
+                <div class="card">
+                    <h3>🐧 Unix/Linux/macOS</h3>
+                    <pre><code># Build both apps in release mode (default)
+./build.sh
+
+# Build both apps in debug mode
+./build.sh --debug
+
+# Build only admin app
+./build.sh --admin-only
+
+# Build only client app
+./build.sh --client-only
+
+# Skip clean step for faster builds
+./build.sh --no-clean</code></pre>
+                </div>
+            </div>
+
+            <h2>⚙️ Command Line Options</h2>
+            
+            <table>
+                <thead>
+                    <tr>
+                        <th>Option</th>
+                        <th>Description</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><code>--help</code>, <code>-h</code></td>
+                        <td>Show help message and usage examples</td>
+                    </tr>
+                    <tr>
+                        <td><code>--debug</code></td>
+                        <td>Build in debug mode (default: release)</td>
+                    </tr>
+                    <tr>
+                        <td><code>--release</code></td>
+                        <td>Build in release mode (explicit)</td>
+                    </tr>
+                    <tr>
+                        <td><code>--no-clean</code></td>
+                        <td>Skip clean build step for faster builds</td>
+                    </tr>
+                    <tr>
+                        <td><code>--admin-only</code></td>
+                        <td>Build only the admin application</td>
+                    </tr>
+                    <tr>
+                        <td><code>--client-only</code></td>
+                        <td>Build only the client application</td>
+                    </tr>
+                    <tr>
+                        <td><code>--verbose</code></td>
+                        <td>Enable verbose logging (future enhancement)</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <h2>🏗️ Build Modes</h2>
+            
+            <div class="grid">
+                <div class="card">
+                    <h3>🚀 Release Mode (Default)</h3>
+                    <ul>
+                        <li><strong>Purpose:</strong> Optimized for production deployment</li>
+                        <li><strong>Signing:</strong> Uses release signing configuration</li>
+                        <li><strong>Output:</strong> Signed APKs ready for distribution</li>
+                        <li><strong>File:</strong> <code>app-release.apk</code></li>
+                    </ul>
+                </div>
+
+                <div class="card">
+                    <h3>🐛 Debug Mode</h3>
+                    <ul>
+                        <li><strong>Purpose:</strong> Optimized for development and testing</li>
+                        <li><strong>Signing:</strong> Uses debug signing configuration</li>
+                        <li><strong>Performance:</strong> Faster build times</li>
+                        <li><strong>File:</strong> <code>app-debug.apk</code></li>
+                    </ul>
+                </div>
+            </div>
+
+            <h2>📁 Project Structure</h2>
+            
+            <pre><code>ahkemi/
+├── build.bat                    # Windows build script
+├── build.sh                     # Unix/Linux/macOS build script
+├── BUILD_GUIDE.md              # This documentation
+├── admin-app/                  # Admin application source
+│   ├── gradlew.bat
+│   ├── gradlew
+│   └── app/build.gradle
+├── android-client-app/         # Client application source
+│   ├── gradlew.bat
+│   ├── gradlew
+│   └── app/build.gradle
+├── ahk-release-key.jks         # Admin app keystore
+├── ahk-release-key-v2.jks      # Client app keystore
+└── build-logs/                 # Generated build logs
+    └── build-YYYYMMDD-HHMMSS.log</code></pre>
+
+            <h2>📋 Prerequisites</h2>
+            
+            <div class="grid">
+                <div class="card">
+                    <h3>🛠️ Required Software</h3>
+                    <ol>
+                        <li><strong>Java Development Kit (JDK)</strong> 8 or higher</li>
+                        <li><strong>Android SDK</strong> with build tools</li>
+                        <li><strong>Gradle</strong> (included via wrapper)</li>
+                    </ol>
+                </div>
+
+                <div class="card">
+                    <h3>📄 Required Files</h3>
+                    <ul>
+                        <li><code>admin-app/gradlew.bat</code> (Windows) or <code>admin-app/gradlew</code> (Unix)</li>
+                        <li><code>android-client-app/gradlew.bat</code> (Windows) or <code>android-client-app/gradlew</code> (Unix)</li>
+                        <li><code>ahk-release-key.jks</code> (Admin app keystore)</li>
+                        <li><code>ahk-release-key-v2.jks</code> (Client app keystore)</li>
+                    </ul>
+                </div>
+            </div>
+
+            <h3>🔍 Environment Validation</h3>
+            <p>The build script automatically validates:</p>
+            <ul>
+                <li>✅ Java installation and version</li>
+                <li>✅ Gradle wrapper availability</li>
+                <li>✅ Keystore file presence</li>
+                <li>✅ Directory structure integrity</li>
+            </ul>
+
+            <h2>🔄 Build Process</h2>
+            
+            <p>The build script follows this systematic process:</p>
+            
+            <div class="grid">
+                <div class="card">
+                    <h3>Step 1: Parse Arguments</h3>
+                    <p>Process command line options and validate input parameters</p>
+                </div>
+
+                <div class="card">
+                    <h3>Step 2: Environment Validation</h3>
+                    <p>Check prerequisites and verify system requirements</p>
+                </div>
+
+                <div class="card">
+                    <h3>Step 3: Clean Builds (Optional)</h3>
+                    <p>Clear build cache and temporary files if requested</p>
+                </div>
+
+                <div class="card">
+                    <h3>Step 4: Build Admin App</h3>
+                    <p>Compile and package admin application if selected</p>
+                </div>
+
+                <div class="card">
+                    <h3>Step 5: Build Client App</h3>
+                    <p>Compile and package client application if selected</p>
+                </div>
+
+                <div class="card">
+                    <h3>Step 6: Generate Summary</h3>
+                    <p>Display results and APK locations</p>
+                </div>
+            </div>
+
+            <h2>📦 Output Locations</h2>
+            
+            <div class="grid">
+                <div class="card">
+                    <h3>👨‍💼 Admin App APKs</h3>
+                    <ul>
+                        <li><strong>Debug:</strong> <code>admin-app/app/build/outputs/apk/debug/app-debug.apk</code></li>
+                        <li><strong>Release:</strong> <code>admin-app/app/build/outputs/apk/release/app-release.apk</code></li>
+                    </ul>
+                </div>
+
+                <div class="card">
+                    <h3>📱 Client App APKs</h3>
+                    <ul>
+                        <li><strong>Debug:</strong> <code>android-client-app/app/build/outputs/apk/debug/app-debug.apk</code></li>
+                        <li><strong>Release:</strong> <code>android-client-app/app/build/outputs/apk/release/app-release.apk</code></li>
+                    </ul>
+                </div>
+            </div>
+
+            <h2>📊 Logging</h2>
+            
+            <h3>📄 Log Files</h3>
+            <p>Build logs are automatically generated in the <code>build-logs/</code> directory with the format:</p>
+            <pre><code>build-YYYYMMDD-HHMMSS.log</code></pre>
+
+            <h3>📝 Log Content</h3>
+            <ul>
+                <li>Build start time and command line arguments</li>
+                <li>Environment validation results</li>
+                <li>Step-by-step build progress</li>
+                <li>Error messages and stack traces</li>
+                <li>Build completion status and timing</li>
+                <li>APK output locations</li>
+            </ul>
+
+            <h2>🚨 Error Handling</h2>
+            
+            <h3>Common Issues and Solutions</h3>
+            
+            <div class="grid">
+                <div class="card">
+                    <h4>☕ Java Not Found</h4>
+                    <pre><code>[ERROR] Java not found. Please install Java JDK 8 or higher.</code></pre>
+                    <p><strong>Solution:</strong> Install Java JDK and ensure it's in your system PATH.</p>
+                </div>
+
+                <div class="card">
+                    <h4>🔧 Gradle Wrapper Missing</h4>
+                    <pre><code>[ERROR] Gradle wrapper not found in admin-app directory.</code></pre>
+                    <p><strong>Solution:</strong> Ensure the project structure is intact and gradlew files exist.</p>
+                </div>
+
+                <div class="card">
+                    <h4>🔐 Keystore Missing</h4>
+                    <pre><code>[WARNING] Admin app keystore (ahk-release-key.jks) not found.</code></pre>
+                    <p><strong>Solution:</strong> Place the required keystore files in the project root directory.</p>
+                </div>
+
+                <div class="card">
+                    <h4>❌ Build Failed</h4>
+                    <pre><code>[ERROR] Admin app build failed</code></pre>
+                    <p><strong>Solution:</strong> Check the detailed log file for specific error messages and resolve dependencies or code issues.</p>
+                </div>
+            </div>
+
+            <h2>⚡ Performance Tips</h2>
+            
+            <div class="grid">
+                <div class="card">
+                    <h3>🚀 Faster Builds</h3>
+                    <ol>
+                        <li>Use <code>--no-clean</code> to skip cache clearing</li>
+                        <li>Build individual apps with <code>--admin-only</code> or <code>--client-only</code></li>
+                        <li>Use debug mode for development iterations</li>
+                        <li>Ensure adequate system resources (RAM, disk space)</li>
+                    </ol>
+                </div>
+
+                <div class="card">
+                    <h3>🔄 Parallel Builds</h3>
+                    <p>The script builds apps sequentially to ensure stability. For parallel builds, run separate instances:</p>
+                    <pre><code># Terminal 1
+.\build.bat --admin-only
+
+# Terminal 2
+.\build.bat --client-only</code></pre>
+                </div>
+            </div>
+
+            <h2>🛠️ Customization</h2>
+            
+            <h3>⚙️ Modifying Build Configuration</h3>
+            <p>Edit the configuration variables at the top of the build script. For detailed configuration options, refer to the <a href="configuration-guide.html">AHK EMI Configuration Guide</a>:</p>
+            
+            <pre><code>:: Configuration Variables
+set "SCRIPT_VERSION=2.0"
+set "PROJECT_NAME=AHK Finance"
+set "ADMIN_APP_DIR=admin-app"
+set "CLIENT_APP_DIR=android-client-app"</code></pre>
+
+            <h3>🆕 Adding New Build Variants</h3>
+            <p>To add new build variants, modify the Gradle commands in the build sections:</p>
+            
+            <pre><code>:: Example: Add staging build
+if "%BUILD_MODE%"=="staging" (
+    call gradlew.bat assembleStaging &gt;&gt; ".\%LOG_FILE%" 2&gt;&amp;1
+)</code></pre>
+
+            <h2>🔧 Troubleshooting</h2>
+            
+            <div class="grid">
+                <div class="card">
+                    <h3>🐛 Debug Mode</h3>
+                    <p>For detailed troubleshooting, examine the log files in <code>build-logs/</code> directory. The logs contain:</p>
+                    <ul>
+                        <li>Complete Gradle output</li>
+                        <li>Error stack traces</li>
+                        <li>Environment validation details</li>
+                        <li>Timing information</li>
+                    </ul>
+                </div>
+
+                <div class="card">
+                    <h3>🔨 Manual Build</h3>
+                    <p>If the script fails, you can manually build each app:</p>
+                    <pre><code># Admin app
+cd admin-app
+gradlew.bat assembleRelease
+cd ..
+
+# Client app
+cd android-client-app
+gradlew.bat assembleRelease
+cd ..</code></pre>
+                </div>
+
+                <div class="card">
+                    <h3>🧹 Clean Reset</h3>
+                    <p>To completely reset the build environment:</p>
+                    <pre><code># Clean all build artifacts
+cd admin-app
+gradlew.bat clean
+cd ..
+cd android-client-app
+gradlew.bat clean
+cd ..
+
+# Remove build logs
+rmdir /s /q build-logs</code></pre>
+                </div>
+            </div>
+
+            <h2>📞 Support</h2>
+            
+            <p>For issues or questions:</p>
+            <ol>
+                <li>Check the build logs for detailed error information</li>
+                <li>Verify all prerequisites are installed</li>
+                <li>Ensure project structure is intact</li>
+                <li>Review this documentation for common solutions</li>
+                <li>Refer to the <a href="configuration-guide.html">Configuration Guide</a> for setup instructions</li>
+                <li>Check the <a href="release-notes.html">Release Notes</a> for known issues and fixes</li>
+            </ol>
+
+            <blockquote>
+                💡 <strong>Pro Tip:</strong> Always check the <code>build-logs/</code> directory for detailed error information when troubleshooting build issues. For configuration help, see the <a href="configuration-guide.html">Configuration Guide</a>.
+            </blockquote>
+
+            <h2>📈 Version History</h2>
+            
+            <div class="grid">
+                <div class="card">
+                    <h3>v2.0 (Current)</h3>
+                <ul>
+                    <li>✅ Professional UI with progress indicators</li>
+                    <li>✅ Cross-platform compatibility</li>
+                    <li>✅ Comprehensive logging system</li>
+                    <li>✅ Environment validation</li>
+                    <li>✅ Flexible build options</li>
+                    <li>✅ Error handling and recovery</li>
+                </ul>
+                <p>For complete version details, see <a href="release-notes.html">Release Notes v2.0</a>.</p>
+                </div>
+            </div>
+
+            <div style="text-align: center; margin: 3rem 0; padding: 2rem; background: linear-gradient(135deg, #28a745 0%, #20c997 100%); color: white; border-radius: 10px;">
+                <h3>🔧 AHK EMI Build Script v2.0</h3>
+                <p><strong>Professional Android Build System</strong></p>
+                <p><em>Streamlined, automated, and reliable build process for AHK EMI applications.</em></p>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <p>&copy; 2024 AHK Phone Repair. All rights reserved. | EMI Management System Documentation</p>
+    </footer>
+
+    <script>
+        // Add smooth scrolling for anchor links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+
+        // Add active navigation highlighting
+        const currentPage = window.location.pathname.split('/').pop() || 'index.html';
+        document.querySelectorAll('.nav-menu a').forEach(link => {
+            if (link.getAttribute('href') === currentPage) {
+                link.classList.add('active');
+            } else {
+                link.classList.remove('active');
+            }
+        });
+
+        // Add copy functionality to code blocks
+        document.querySelectorAll('pre code').forEach(block => {
+            const button = document.createElement('button');
+            button.className = 'copy-btn';
+            button.textContent = 'Copy';
+            button.style.cssText = 'position: absolute; top: 10px; right: 10px; background: #007bff; color: white; border: none; padding: 5px 10px; border-radius: 3px; cursor: pointer; font-size: 12px;';
+            
+            const pre = block.parentElement;
+            pre.style.position = 'relative';
+            pre.appendChild(button);
+            
+            button.addEventListener('click', () => {
+                navigator.clipboard.writeText(block.textContent).then(() => {
+                    button.textContent = 'Copied!';
+                    setTimeout(() => {
+                        button.textContent = 'Copy';
+                    }, 2000);
+                });
+            });
+        });
+    </script>
+</body>
+</html>
