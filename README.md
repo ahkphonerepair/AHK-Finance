@@ -5,8 +5,8 @@
 [![Android](https://img.shields.io/badge/platform-Android-green.svg)](https://developer.android.com)
 [![Firebase](https://img.shields.io/badge/backend-Firebase-orange.svg)](https://firebase.google.com)
 
-> 📦 Source Code: `AHK Finance/`  
-> 🛡️ This a close source application all rights reserved to **AHK Phone Repair**
+> 📦 Source Code: `AHK-Finance/`  
+> 🛡️ This is a close source application all rights reserved to **AHK Phone Repair**
 
 ## 📖 Overview
 
